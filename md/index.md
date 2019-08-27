@@ -2,5 +2,6 @@
 
 ## Index
 
-* [Computing](./computing)
-* [Heroism](./heroism)
+* [Computing](/computing)
+* [Writing](/writing)
+* [Heroism](/heroism)
