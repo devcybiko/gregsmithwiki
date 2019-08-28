@@ -7,8 +7,8 @@ module.exports = function(obj) {
     var title = "<h2>Table of Contents</h2>"
     console.log("toc.js");
     console.log(obj);
-    var fname = obj.data.root.fname;
-    var lines = gls.readTextFile(fname);
+    var mdFname = obj.data.root.mdFname;
+    var lines = gls.readTextFile(mdFname);
     var currIndent = 1;
     for(var line of lines) {
         if (line.startsWith("#")) {
