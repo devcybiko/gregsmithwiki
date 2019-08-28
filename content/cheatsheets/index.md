@@ -1,5 +1,5 @@
 # Cheat Sheets
-$[index]
+$(index)
 
 * [Amazon CLI](https://docs.aws.amazon.com/cli/latest/reference/)
 * [Changing the terminal prompt](https://www.ostechnix.com/hide-modify-usernamelocalhost-part-terminal/)
