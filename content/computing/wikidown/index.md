@@ -2,7 +2,7 @@
 
 Wikidown is a Markdown-based wiki.
 
-$[index]
+$(index)
 - [Markdown CheatSheet](https://www.markdownguide.org/cheat-sheet/)
 
 

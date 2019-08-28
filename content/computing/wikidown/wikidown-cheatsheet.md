@@ -1,5 +1,7 @@
 # WIKIDOWN
 
+$(toc)
+
 ## Extensions
 1. $ - the beginning of a WikiDown extension
 2. [template] - a file in themeDir ending in .htm
