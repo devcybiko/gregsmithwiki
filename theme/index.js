@@ -23,7 +23,9 @@ module.exports = function(obj) {
     for(var file of files) {
         if (file.endsWith(".md") && (file !== "index.md") && (file !== "readme.md")) {
             var url = fname.replace(obj.data.root.contentDir, "");
-            html += `<li><a href=${url}>${file}</a></li>`;
+            var lines = gls.readTextFile(file);
+            var topic = lines[0].replaceAll("#", '');
+            html += `<li><a href=${url}>${topic}</a></li>`;
         }
     }
     if (html) {
