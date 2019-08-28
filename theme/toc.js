@@ -14,7 +14,6 @@ module.exports = function(obj) {
         if (line.startsWith("#")) {
             var indent = line.indexOf(' ');
             if (indent === 1) continue;
-            if (!html) html += title;
             while (indent > currIndent) {
                 html += "<ul>";
                 currIndent++;
@@ -31,6 +30,9 @@ module.exports = function(obj) {
     while(currIndent > 0) {
         html += "</ul>";
         currIndent--
+    }
+    if (html) {
+        html = title + html;
     }
     return html;
 }

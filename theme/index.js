@@ -26,5 +26,8 @@ module.exports = function(obj) {
             html += `<li><a href=${url}>${file}</a></li>`;
         }
     }
+    if (html) {
+        html = "<h2>Index</h2>" + html;
+    }
     return html;
 }
