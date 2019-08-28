@@ -1,4 +1,4 @@
-# WIKIDOWN
+# Wikidown Cheat Sheet
 
 $(toc)
 
