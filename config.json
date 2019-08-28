@@ -4,5 +4,5 @@
     "staticDir": "static",
     "themeDir": "theme",
     "port" : 8889,
-    "caching": true
+    "caching": false
 }

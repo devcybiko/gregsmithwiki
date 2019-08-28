@@ -20,7 +20,7 @@ $(toc)
 ## Text Styles
   1. \*\***bold text\*\***
   2. *\*italicized text\**
-  2. \__italicized text\__
+  2. \_\_ __underlined text__ __
   3. ~~\~\~strikethrough\~\~~~
   3. \> blockquote
   4. 1\. ordered list
@@ -30,6 +30,13 @@ $(toc)
   8. Link: \[title]\(url)
   9. Image: \!\[alt text](image url)
   10. HTML: \<br>
+  11. Emoji: `:+1:` => :+1: [list](https://github.com/showdownjs/showdown/wiki/emojis)
+
+```
+![foo](foo.jpg =100x80)     simple, assumes units are in px
+![bar](bar.jpg =100x*)      sets the height to "auto"
+![baz](baz.jpg =80%x5em)  Image with width of 80% and height of 5em
+```
 
 ## Tables
 <pre>  
@@ -48,22 +55,33 @@ $(toc)
 | Row 3 | Some info 3 |
 | Row 4 | Some info 4 |
 
+<pre>
+| h1             | h2        | h3                |
+|:---------------|:---------:|------------------:|
+|left-justified  | centered  | right-justified   |
+| 100            | [a][1]    | ![b][2]           |
+| *foo*          | **bar**   | ~~baz~~           |
+</pre>
+
+| h1    |    h2   |      h3 |
+|:------|:-------:|--------:|
+|left-justified  | centered  | right-justified   |
+| 100   | [a][1]  | ![b][2] |
+| *foo* | **bar** | ~~baz~~ |
 ## Fenced Code Block
 
 <pre>
-```
+```javascript
 {
-  "firstName": "John",
+  "firstName": "Greg",
   "lastName": "Smith",
   "age": 25
 }
 ```
 </pre>
-
-```
-
+```javascript
 {
-  "firstName": "John",
+  "firstName": "Greg",
   "lastName": "Smith",
   "age": 25
 }
