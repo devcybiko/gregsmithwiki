@@ -48,7 +48,7 @@
 | Row 3 | Some info 3 |
 | Row 4 | Some info 4 |
 
-## Fenced Code Block: \```
+## Fenced Code Block
 
 \`\`\`<br>
 \{<br>
@@ -82,11 +82,11 @@ term 2
 : definition 2
 
 ## Task List
-```
+<pre>
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
-```
+</pre>
 - [x] Write the press release
 - [ ] Update the website
 - [ ] Contact the media
