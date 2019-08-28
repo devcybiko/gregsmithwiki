@@ -3,6 +3,6 @@
     "cacheDir": "cache",
     "staticDir": "static",
     "themeDir": "theme",
-    "port" : 8080,
+    "port" : 8889,
     "caching": false
 }
