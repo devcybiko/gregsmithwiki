@@ -1,4 +1,4 @@
-JQuery Cheat Sheet
+# JQuery Cheat Sheet
 
 1. TIMERS
     1. `var windowTimeout = setTimeout(function() {alert("Alert #1: Called automatically 1 second after page load.");}, 1000);`

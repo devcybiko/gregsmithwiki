@@ -1,4 +1,6 @@
-# These notes will help you with your GitLab / GitHub Assignments
+# Github Getting Started
+
+These notes will help you with your GitLab / GitHub Assignments
 
 ## Create a GitHub Repository
 

@@ -30,7 +30,7 @@ module.exports = function(obj) {
         }
     }
     if (html) {
-        html = "<h2>Index</h2>" + html;
+        html = `<h2>Index</h2><ul>${html}</ul>`;
     }
     return html;
 }

@@ -1,3 +1,5 @@
+# Spotify API Tips
+
 I found a way to easily get a oAuth key from Spotify
 
 Go to the Search Console (it allows you to test the API from the browser)
