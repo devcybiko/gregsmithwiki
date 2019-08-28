@@ -68,18 +68,15 @@ $(toc)
 |left-justified  | centered  | right-justified   |
 | 100   | [a][1]  | ![b][2] |
 | *foo* | **bar** | ~~baz~~ |
-## Fenced Code Block
-
-<pre>
-```javascript
+## Fenced Code BlocK
+```
 {
   "firstName": "Greg",
   "lastName": "Smith",
   "age": 25
 }
 ```
-</pre>
-```javascript
+```
 {
   "firstName": "Greg",
   "lastName": "Smith",
