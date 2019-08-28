@@ -1,0 +1,2 @@
+# Greg Smith Wiki
+$(index)

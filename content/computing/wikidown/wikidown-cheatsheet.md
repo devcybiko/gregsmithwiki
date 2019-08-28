@@ -1,8 +1,9 @@
 # WIKIDOWN
 
-There are some extensions for `wikidown` [^1]
-
-[^1]: The `wikidown` extensions haven't been defined yet.
+## Extensions
+1. $ - the beginning of a WikiDown extension
+2. [template] - a file in themeDir ending in .htm
+3. (helper) - a file in the themeDir ending in .js
 
 ## Headings
  1. \# Heading level 1

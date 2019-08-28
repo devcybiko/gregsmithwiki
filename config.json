@@ -1,0 +1,8 @@
+{
+    "contentDir": "content",
+    "cacheDir": "cache",
+    "staticDir": "static",
+    "themeDir": "theme",
+    "port" : 8080,
+    "caching": false
+}
