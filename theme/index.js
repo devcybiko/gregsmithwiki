@@ -16,15 +16,16 @@ module.exports = function(obj) {
         var url = fname.replace(obj.data.root.contentDir, "");
         if (fs.lstatSync(fname).isDirectory()) {
             var lines = gls.readTextFile(fname + "/index.md");
-            var topic = lines[0].replaceAll("#", '');
+            var topic = lines[0].replaceAll("#", '').trim();
             html += `<li><b><a href=${url}>${topic}</a><b></li>`;
         }
     }
     for(var file of files) {
         if (file.endsWith(".md") && (file !== "index.md") && (file !== "readme.md")) {
+            var fname = path.join(dirname, file);
             var url = fname.replace(obj.data.root.contentDir, "");
-            var lines = gls.readTextFile(file);
-            var topic = lines[0].replaceAll("#", '');
+            var lines = gls.readTextFile(fname);
+            var topic = lines[0].replaceAll("#", '').trim();
             html += `<li><a href=${url}>${topic}</a></li>`;
         }
     }
