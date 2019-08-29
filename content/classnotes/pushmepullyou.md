@@ -11,7 +11,7 @@ This activity allows students to practice merging their local changes into `mast
 * Each team member should merge the branch they created and named into `master`.
 
 -- git pull 
--- git merge <name>/branching_exercise
+-- git merge \<name>/branching_exercise
 
   * After merging, team members should push their changes to GitHub.
 
