@@ -68,7 +68,12 @@ module.exports = {
      * read a text file as one long string
      */
     readFile: function (fname) {
-        var text = fs.readFileSync(fname).toString('utf-8');
+        var text = "";
+        try {
+            text = fs.readFileSync(fname).toString('utf-8');
+        } catch(ex) {
+            // do nothing
+        }
         return text;
     },
 

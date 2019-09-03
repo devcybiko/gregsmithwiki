@@ -1,2 +1,4 @@
 # Greg Smith Wiki
-$(index)
+
+$(folders)
+$(files)

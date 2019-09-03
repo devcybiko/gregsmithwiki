@@ -1,7 +1,7 @@
 {
     "contentDir": "content",
     "cacheDir": "cache",
-    "staticDir": "static",
+    "staticDir": "theme",
     "themeDir": "theme",
     "port" : 8889,
     "caching": false
