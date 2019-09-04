@@ -32,6 +32,10 @@ bcrypt.compare(myPlaintextPassword, hash, function(err, res) {
 bcrypt.compare(someOtherPlaintextPassword, hash, function(err, res) {
     // res == false
 });
+
+var hash = await bcrypt.hash(password, saltRounds);
+var isMatched = await bcrypt.compare(password, foundUser.password);
+
 ```
 
 ## References
