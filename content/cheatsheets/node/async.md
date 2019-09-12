@@ -6,12 +6,12 @@
 
     await db.sequelize.sync({ force: argv.force });
     if (argv.force) {
-        var newUser = await addUser("Greg", "Smith", "thinkable@thinkable.us", "hokxan9");
+        var newUser = await addUser("Greg", "Smith", "thinkable@thinkable.us", "password");
         console.log(`New User / Password = ${JSON.stringify(newUser)}`);
-        var foundUser = await checkUser("thinkable@thinkable.us", "hokxan9");
+        var foundUser = await checkUser("thinkable@thinkable.us", "password");
         console.log(`Found User / Password = ${JSON.stringify(foundUser)}`);
     } else {
-        var goodUser = await checkUser("thinkable@thinkable.us", "hokxan9");
+        var goodUser = await checkUser("thinkable@thinkable.us", "password");
         console.log(`Good User / Password = ${JSON.stringify(goodUser)}`);
         var badUser = await checkUser("thinkable@thinkable.us", "arg...");
         console.log(`Bad User / Password = ${JSON.stringify(badUser)}`);
