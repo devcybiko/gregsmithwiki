@@ -5,6 +5,11 @@
 
 ## Public/School Resources for meetings for 501(c)3
 
+### Henrico Public Library
+https://henricolibrary.org/at-the-library/reserve-a-room
+
+### Chesterfield Public Library
+
 ### J. Sarge Reynolds / John Tyler
 https://ccwatraining.org/locations/
 
@@ -21,5 +26,5 @@ https://www.rvaschools.net/Page/1324
 [Calendar](https://www.communityuse.com/SOA.NET/Controllers/PageController.aspx?productid=MC&pageid=CalendarMonth)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MjMzNDEzN119
+eyJoaXN0b3J5IjpbLTE5NDMxOTQxMTBdfQ==
 -->
