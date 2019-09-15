@@ -1,7 +1,6 @@
+# HTML Cheat Sheet
 
-
-
-> Written with [StackEdit](https://stackedit.io/).
+[https://www.rapidtables.com/web/html/html-codes.html](https://www.rapidtables.com/web/html/html-codes.html)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMwOTk4MTE2XX0=
+eyJoaXN0b3J5IjpbLTIxODc3ODg3NV19
 -->
