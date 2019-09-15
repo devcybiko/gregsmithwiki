@@ -36,7 +36,11 @@
 23. Use verbs when naming methods
 24. Follow the JavaBeans&trade; conventions for naming property accessor methods (get*, set*, is*)
 - Variable Names
-25. 
+25. User lowercase for the first word and capitalize only the first letter of each subsequent word that appears in a variable name (use camelCase).
+26. Use nouns to name variables
+27. Pluralize the names of collective references
+28. Establish and use a set of standard names for "throwaway" variables
+	| Character | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDcxNzk5Ml19
+eyJoaXN0b3J5IjpbLTEzMTA2MDE0NDBdfQ==
 -->
