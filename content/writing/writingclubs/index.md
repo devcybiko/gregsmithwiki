@@ -3,9 +3,10 @@
 
 # Writing Clubs
 
-$(index)
+$(folders)
+$(files)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NjI0NzYxN119
+eyJoaXN0b3J5IjpbMjIxNzU5MTc4LC00NDYyNDc2MTddfQ==
 -->
