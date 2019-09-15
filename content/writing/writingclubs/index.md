@@ -3,6 +3,7 @@
 
 # Writing Clubs
 
+$(index)
 ## Public/School Resources for meetings for 501(c)3
 
 ### Henrico Public Library
@@ -27,5 +28,5 @@ https://www.rvaschools.net/Page/1324
 [Calendar](https://www.communityuse.com/SOA.NET/Controllers/PageController.aspx?productid=MC&pageid=CalendarMonth)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDM4MzAyMF19
+eyJoaXN0b3J5IjpbLTIxNDQyOTkxOTldfQ==
 -->
