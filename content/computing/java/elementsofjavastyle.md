@@ -81,7 +81,8 @@
 50. Omit the subject and the verb in summary descriptions of things
 51. Use "this" rather than "the" when referring to instances of the current class
 52. Do not add parenthesis to a method or constructor name unless you want to specify a particular signature.
-53. 
+- Comment Content
+53. Provide a summary description for each class, interface, field, and method
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3NzUxMTM5N119
+eyJoaXN0b3J5IjpbNDQwNjgzNTY1XX0=
 -->
