@@ -62,7 +62,11 @@
 32. Write documentation for those who must use your code and those who must maintain it
 33. Keep comments and code in sync
 34. Use the active voice and omit needless words
-35. Use documentation to d
+35. Use documentation to describe the programming interface
+36. Use standard comments to hide the code without removing it
+37. Use one-line comments to explain implementation details
+38. Describe the programming interface before you write the code
+39. Document public, private. protected, and package m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTI2MjAxMV19
+eyJoaXN0b3J5IjpbLTQ0ODE5MzIwOF19
 -->
