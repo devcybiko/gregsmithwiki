@@ -3,6 +3,8 @@
 (Alan Vermeulen, Scott W. Ambler, Greg Bumgardner, Eldon Meltz, Trevor Misefeldt, Jim Shur, Patrick Thompson)
 (Cambridge University Press - 2000 - ISBN: 0-521-77768-2)
 
+$(toc)
+
 ## General Principles
 1. Adhere to the style of the original
 2. Adhere to the principle of Least Astonishment
@@ -69,7 +71,7 @@
 39. Document public, private. protected, and package members
 40. Provide a summary description and overview for each package
 41. Provide a summary description and overview for application and group of packages
-- Comment Style
+### Comment Style
 42. Use a single consistent format and organization for all documentation comments
 43. Wrap keywords, identifiers, and constants with `<code>` tags
 44. Wrap code with `<pre>` tags
@@ -81,14 +83,14 @@
 50. Omit the subject and the verb in summary descriptions of things
 51. Use "this" rather than "the" when referring to instances of the current class
 52. Do not add parenthesis to a method or constructor name unless you want to specify a particular signature.
-- Comment Content
+### Comment Content
 53. Provide a summary description for each class, interface, field, and method
 54. Fully describe the signature of each method
 55. Include examples
 56. Document preconditions, postconditions, and invariant conditions
 57. Document known defects and deficiencies
 58. Document synchronization symantics
-- Internal Comments
+### Internal Comments
 59. Add internal comment only if the will aid others in understanding your code
 60. Describe **why** the code is doing what it does, no **what** it is doing
 61. Avoid the use of end-line comments
@@ -101,5 +103,5 @@
 ## Programming Conventions
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTg0NDg5NTFdfQ==
+eyJoaXN0b3J5IjpbMTEyNTcxMjcwMF19
 -->
