@@ -92,7 +92,10 @@
 59. Add internal comment only if the will aid others in understanding your code
 60. Describe **why** the code is doing what it does, no **what** it is doing
 61. Avoid the use of end-line comments
-62. Explain local variable declarations with an 
+62. Explain local variable declarations with an end-line comment
+63. Establish the use of a set of keywords to flag unresolved issues (eg: TODO, :UNRESOLVED:, etc...)
+64. Label closing braces in highly nested control structures
+65. Add a "fall through" comment between two case labels, if no `break` statement
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NzUxMDMzOF19
+eyJoaXN0b3J5IjpbNzQzMjgzNDk0XX0=
 -->
