@@ -54,7 +54,10 @@
 - Field Names
 29. Qualify Field variables with "this" to distinguish them from local variables
 - Paramameter Names
-30. 
+30. When a constructor or "setter" method assigns a parameter to a field, give that parameter the same name as the field.
+- Constant Names
+31. Use uppercase letters for each word and separate each pair of words with an underscore when naming constants
+32. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc0ODc2MDExNl19
+eyJoaXN0b3J5IjpbLTI4NTQ5Njg5N119
 -->
