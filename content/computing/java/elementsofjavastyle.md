@@ -47,11 +47,12 @@ $(toc)
 |-------------:|:-------:|
 | Character | c,d,e |
 | Coordinates | x, y, z |
-| Exception | e |
+| Exception | e, ex, exc |
 | Graphics | g |
-| Object | o |
+| Loops | i, j, k, *(l)?*, m, n |
+| Object | o, obj |
 | Stream | in, out, err, inOut |
-| Iteration | i, j, k, l, m, n |
+| String 
 
 ### Field Names
 29. Qualify Field variables with "this" to distinguish them from local variables
@@ -103,5 +104,5 @@ $(toc)
 ## Programming Conventions
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyNTcxMjcwMF19
+eyJoaXN0b3J5IjpbLTgzMjU2NDg1MywxMTI1NzEyNzAwXX0=
 -->
