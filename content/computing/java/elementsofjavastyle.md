@@ -7,7 +7,7 @@ $(toc)
 
 ## General Principles
 1. Adhere to the style of the original
-2. Adhere to the principle of Least Astonishment
+2. Adhere to the principle of Least Astonishment (Least Surprise)
 3. Do it right the first time
 4. Document any deviations
 
@@ -45,18 +45,18 @@ $(toc)
 
 | DataType | Variable |
 |-------------:|:-------:|
-| Character | c,d,e |
+| Character | c, d, e |
 | Coordinates | x, y, z |
 | Exception | e, ex, exc |
 | Graphics | g |
 | Loops | i, j, k, *(l)?*, m, n |
 | Object | o, obj |
 | Stream | in, out, err, inOut |
-| String 
+| String | s, str |
 
 ### Field Names
 29. Qualify Field variables with "this" to distinguish them from local variables
-- Paramameter Names
+### Paramameter Names
 30. When a constructor or "setter" method assigns a parameter to a field, give that parameter the same name as the field.
 ### Constant Names
 32. Use uppercase letters for each word and separate each pair of words with an underscore when naming constants
@@ -104,5 +104,5 @@ $(toc)
 ## Programming Conventions
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMjU2NDg1MywxMTI1NzEyNzAwXX0=
+eyJoaXN0b3J5IjpbLTE3MTQ3NTM3MCwxMTI1NzEyNzAwXX0=
 -->
