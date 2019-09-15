@@ -9,6 +9,7 @@
 https://henricolibrary.org/at-the-library/reserve-a-room
 
 ### Chesterfield Public Library
+https://library.chesterfield.gov/189/Meeting-Space-Guidelines
 
 ### J. Sarge Reynolds / John Tyler
 https://ccwatraining.org/locations/
@@ -26,5 +27,5 @@ https://www.rvaschools.net/Page/1324
 [Calendar](https://www.communityuse.com/SOA.NET/Controllers/PageController.aspx?productid=MC&pageid=CalendarMonth)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDMxOTQxMTBdfQ==
+eyJoaXN0b3J5IjpbLTg0MDM4MzAyMF19
 -->
