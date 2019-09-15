@@ -89,7 +89,10 @@
 57. Document known defects and deficiencies
 58. Document synchronization symantics
 - Internal Comments
-59. Add internal comment only
+59. Add internal comment only if the will aid others in understanding your code
+60. Describe **why** the code is doing what it does, no **what** it is doing
+61. Avoid the use of end-line comments
+62. Explain local variable declarations with an 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTg4MTg1NjRdfQ==
+eyJoaXN0b3J5IjpbMjA0NzUxMDMzOF19
 -->
