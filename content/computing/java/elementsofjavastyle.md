@@ -33,9 +33,10 @@
 21. Use nouns or adjectives when naming interfaces
 - Method Names
 22. User lowercase for the first word and capitalize only the first letter of each subsequent word that appears in a method name (use camelCase).
-24. Use verbs when naming methods
-25. Follow the JavaBeans<span>&tm;</span> conventions for naming property accessor methods (get*, set*, is*)
-26. 
+23. Use verbs when naming methods
+24. Follow the JavaBeans&trade; conventions for naming property accessor methods (get*, set*, is*)
+- Variable Names
+25. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3MzI2NDkxMl19
+eyJoaXN0b3J5IjpbLTExMDcxNzk5Ml19
 -->
