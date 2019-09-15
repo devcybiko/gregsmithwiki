@@ -1,6 +1,3 @@
-
-
-
 # Writing Clubs
 
 $(folders)
@@ -8,5 +5,5 @@ $(files)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjIxNzU5MTc4LC00NDYyNDc2MTddfQ==
+eyJoaXN0b3J5IjpbLTcyMjE5MDMxNiwtNDQ2MjQ3NjE3XX0=
 -->
