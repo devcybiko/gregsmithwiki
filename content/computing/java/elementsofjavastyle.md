@@ -57,7 +57,12 @@
 30. When a constructor or "setter" method assigns a parameter to a field, give that parameter the same name as the field.
 - Constant Names
 31. Use uppercase letters for each word and separate each pair of words with an underscore when naming constants
-32. 
+
+## Documentation Conventions
+32. Write documentation for those who must use your code and those who must maintain it
+33. Keep comments and code in sync
+34. Use the active voice and omit needless words
+35. Use documentation to d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTQ5Njg5N119
+eyJoaXN0b3J5IjpbMTkxNTI2MjAxMV19
 -->
