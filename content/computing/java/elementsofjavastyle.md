@@ -66,7 +66,11 @@
 36. Use standard comments to hide the code without removing it
 37. Use one-line comments to explain implementation details
 38. Describe the programming interface before you write the code
-39. Document public, private. protected, and package m
+39. Document public, private. protected, and package members
+40. Provide a summary description and overview for each package
+41. Provide a summary description and overview for application and group of packages
+- Comment Style
+42. Use a single consistent format and organization fo
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0ODE5MzIwOF19
+eyJoaXN0b3J5IjpbLTMwODU4Njg0N119
 -->
