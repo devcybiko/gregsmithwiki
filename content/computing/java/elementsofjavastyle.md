@@ -5,19 +5,19 @@
 
 $(toc)
 
-## 1.0 General Principles
+## 1. General Principles
 1. Adhere to the style of the original
 2. Adhere to the principle of Least Astonishment (Least Surprise)
 3. Do it right the first time
 4. Document any deviations
 
-## 2.0 Formatting Conventions
+## 2. Formatting Conventions
 5. Indent nested code
 6. Break up long lines
 7. Include white space
 8. Do not use "hard" tabs
 
-## 3.0 Naming Conventions
+## 3. Naming Conventions
 9. Use meaningful names
 10. Use familiar names
 11. Question excessively long names
@@ -72,7 +72,7 @@ $(toc)
 39. Document public, private. protected, and package members
 40. Provide a summary description and overview for each package
 41. Provide a summary description and overview for application and group of packages
-### Comment Style
+### 4.1 Comment Style
 42. Use a single consistent format and organization for all documentation comments
 43. Wrap keywords, identifiers, and constants with `<code>` tags
 44. Wrap code with `<pre>` tags
@@ -84,14 +84,14 @@ $(toc)
 50. Omit the subject and the verb in summary descriptions of things
 51. Use "this" rather than "the" when referring to instances of the current class
 52. Do not add parenthesis to a method or constructor name unless you want to specify a particular signature.
-### Comment Content
+### 4.2 Comment Content
 53. Provide a summary description for each class, interface, field, and method
 54. Fully describe the signature of each method
 55. Include examples
 56. Document preconditions, postconditions, and invariant conditions
 57. Document known defects and deficiencies
 58. Document synchronization symantics
-### Internal Comments
+### 4.3 Internal Comments
 59. Add internal comment only if the will aid others in understanding your code
 60. Describe **why** the code is doing what it does, no **what** it is doing
 61. Avoid the use of end-line comments
@@ -101,8 +101,8 @@ $(toc)
 65. Add a "fall through" comment between two case labels, if no `break` statement separates those labels
 66. Label empty statements
 
-## Programming Conventions
+## 5. Programming Conventions
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTUzMjY5NjUsMTEyNTcxMjcwMF19
+eyJoaXN0b3J5IjpbLTEwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
 -->
