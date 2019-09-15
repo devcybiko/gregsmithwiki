@@ -40,7 +40,14 @@
 26. Use nouns to name variables
 27. Pluralize the names of collective references
 28. Establish and use a set of standard names for "throwaway" variables
-	| Character | 
+	|-------------|-------|
+		| Character | c,d,e |
+		| Coordinates | x, y, z |
+		| Exception | e |
+		| Graphics | g |
+		| Object | o |
+		| Stream | in, out, err |
+		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTA2MDE0NDBdfQ==
+eyJoaXN0b3J5IjpbODk4NzYxOTAyXX0=
 -->
