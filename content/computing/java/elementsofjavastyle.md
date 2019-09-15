@@ -40,14 +40,16 @@
 26. Use nouns to name variables
 27. Pluralize the names of collective references
 28. Establish and use a set of standard names for "throwaway" variables
+	| DataType | Variable |
 	|-------------|-------|
 		| Character | c,d,e |
 		| Coordinates | x, y, z |
 		| Exception | e |
 		| Graphics | g |
 		| Object | o |
-		| Stream | in, out, err |
+		| Stream | in, out, err, inOut |
+		| Iteration | i, j, k, m, n |
 		
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk4NzYxOTAyXX0=
+eyJoaXN0b3J5IjpbMTU3OTAzODcyOV19
 -->
