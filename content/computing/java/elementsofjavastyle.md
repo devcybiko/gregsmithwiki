@@ -1,6 +1,8 @@
 # Elements of Java Style
 
-(Alan VERMEULEN, SCOTT W. AM	
+(Alan Vermeulen, Scott W. Ambler, Greg Bumgardner, Eldon Meltz, Trevor Misefeldt, Jim Shur, Patrick Thompson)
+(Cambridge University Press - 2000 - ISBN: 0-521-77768-2)
+
 ## General Principles
 1. Adhere to the style of the original
 2. Adhere to the principle of Least Astonishment
@@ -28,5 +30,5 @@
 24. Follow the JavaBeans(tm) conventions for naming property accessor methods (get*, set*, is*)
 25. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM0MjE1NjQ0NV19
+eyJoaXN0b3J5IjpbLTUxMzY3ODM2Ml19
 -->
