@@ -34,8 +34,8 @@
 - Method Names
 22. User lowercase for the first word and capitalize only the first letter of each subsequent word that appears in a method name (use camelCase).
 24. Use verbs when naming methods
-25. Follow the JavaBeans&tm; conventions for naming property accessor methods (get*, set*, is*)
+25. Follow the JavaBeans<span>&tm;</span> conventions for naming property accessor methods (get*, set*, is*)
 26. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI2NDk2NTYxXX0=
+eyJoaXN0b3J5IjpbLTM3MzI2NDkxMl19
 -->
