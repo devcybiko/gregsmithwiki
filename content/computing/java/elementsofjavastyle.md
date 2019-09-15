@@ -76,10 +76,12 @@
 45. Consider marking the first occurance of an identifier with the `@link` tag.
 46. Establish and use a fixed ordering for JavaDoc tags
 47. Write in the third-person narrative form
-48. Omit the subject in summary descriptions of actions or services
-49. Omit the subject and the verb in summary descriptions of things
-50. Use "this" rather than "the" when referring to instances of the current class
-51. 
+48. Write summary descriptions that stand alone
+49. Omit the subject in summary descriptions of actions or services
+50. Omit the subject and the verb in summary descriptions of things
+51. Use "this" rather than "the" when referring to instances of the current class
+52. Do not add parenthesis to a method or constructor name unless you want to specify a particular signature.
+53. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNDIyMTU4OV19
+eyJoaXN0b3J5IjpbMTU3NzUxMTM5N119
 -->
