@@ -73,7 +73,10 @@
 42. Use a single consistent format and organization for all documentation comments
 43. Wrap keywords, identifiers, and constants with `<code>` tags
 44. Wrap code with `<pre>` tags
-45. Consider marking the first occurance of an identifier with the `@link
+45. Consider marking the first occurance of an identifier with the `@link` tag.
+46. Establish and use a fixed ordering for JavaDoc tags
+47. Write in the third-person narrative form
+48. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTQ4NjcxXX0=
+eyJoaXN0b3J5IjpbNTUwMDc1ODM4XX0=
 -->
