@@ -76,7 +76,10 @@
 45. Consider marking the first occurance of an identifier with the `@link` tag.
 46. Establish and use a fixed ordering for JavaDoc tags
 47. Write in the third-person narrative form
-48. 
+48. Omit the subject in summary descriptions of actions or services
+49. Omit the subject and the verb in summary descriptions of things
+50. Use "this" rather than "the" when referring to instances of the current class
+51. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTUwMDc1ODM4XX0=
+eyJoaXN0b3J5IjpbMjAxNDIyMTU4OV19
 -->
