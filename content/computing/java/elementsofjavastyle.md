@@ -22,7 +22,9 @@
 12. Join the vowel generation (don't shorten names by omitting vowels)
 13. Capitalize only the first letter of acronyms
 14. Do not use names that differ only in case
+- Package Names: 
 15. Use the reserved, lowercase form of your organization's Internet domain for as the root qualifier for your package name.
+- Class/Interface Names: 
 16. Use a single, lowercase word as the root name of each package
 17. Use the same name for a new version of a package, but only if that new version is still _binary compatible_ with the previous version, otherwise, use a new name.
 18. Capitalize the first letter of each word that appears in a class or interface name.
@@ -34,5 +36,5 @@
 24. Follow the JavaBeans(tm) conventions for naming property accessor methods (get*, set*, is*)
 25. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjkzNzE2M119
+eyJoaXN0b3J5IjpbODcwMTEzMjAzXX0=
 -->
