@@ -52,8 +52,9 @@
 | Iteration | i, j, k, l, m, n |
 
 - Field Names
-29. 
-		
+29. Qualify Field variables with "this" to distinguish them from local variables
+- Paramameter Names
+30. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1NzA1NzYxM119
+eyJoaXN0b3J5IjpbMTc0ODc2MDExNl19
 -->
