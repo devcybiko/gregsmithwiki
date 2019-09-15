@@ -12,8 +12,9 @@
 * Left-Curly-Brace: `{`
 * Right-Curly-Brace: `}`
 
-* "Sub" indicates indexing by way of an array: `foo[a]` ("foo sub a
-* "Sub" can also indicate calling a method: 
+* "Sub" indicates indexing by way of an array: `foo[a]` ("foo sub a")
+* "Sub" can also indicate calling a method: `foo(a)` ("call foo sub a")
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4NTQwNzBdfQ==
+eyJoaXN0b3J5IjpbLTE3NjI1NTQzNzFdfQ==
 -->
