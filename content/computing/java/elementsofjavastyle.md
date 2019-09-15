@@ -8,10 +8,14 @@
 2. Adhere to the principle of Least Astonishment
 3. Do it right the first time
 4. Document any deviations
+
+## Formatting Conventions
 5. Indent nested code
 6. Break up long lines
 7. Include white space
 8. Do not use "hard" tabs
+
+## Naming Conventions
 9. Use meaningful names
 10. Use familiar names
 11. Question excessively long names
@@ -30,5 +34,5 @@
 24. Follow the JavaBeans(tm) conventions for naming property accessor methods (get*, set*, is*)
 25. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMzY3ODM2Ml19
+eyJoaXN0b3J5IjpbMjAwMjkzNzE2M119
 -->
