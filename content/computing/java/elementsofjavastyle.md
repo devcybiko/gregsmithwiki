@@ -83,6 +83,13 @@
 52. Do not add parenthesis to a method or constructor name unless you want to specify a particular signature.
 - Comment Content
 53. Provide a summary description for each class, interface, field, and method
+54. Fully describe the signature of each method
+55. Include examples
+56. Document preconditions, postconditions, and invariant conditions
+57. Document known defects and deficiencies
+58. Document synchronization symantics
+- Internal Comments
+59. Add internal comment only
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQwNjgzNTY1XX0=
+eyJoaXN0b3J5IjpbLTE4OTg4MTg1NjRdfQ==
 -->
