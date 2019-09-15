@@ -22,20 +22,20 @@
 12. Join the vowel generation (don't shorten names by omitting vowels)
 13. Capitalize only the first letter of acronyms
 14. Do not use names that differ only in case
-- Package Names: 
+### Package Names: 
 15. Use the reserved, lowercase form of your organization's Internet domain for as the root qualifier for your package name.
-- Class/Interface Names: 
+### Class/Interface Names: 
 16. Use a single, lowercase word as the root name of each package
 17. Use the same name for a new version of a package, but only if that new version is still _binary compatible_ with the previous version, otherwise, use a new name.
 18. Capitalize the first letter of each word that appears in a class or interface name.
 19. Use nouns when naming classes
 20. Pluralize the names of classes that group related attributes, static services, or constants
 21. Use nouns or adjectives when naming interfaces
-- Method Names
+### Method Names
 22. User lowercase for the first word and capitalize only the first letter of each subsequent word that appears in a method name (use camelCase).
 23. Use verbs when naming methods
 24. Follow the JavaBeans&trade; conventions for naming property accessor methods (get*, set*, is*)
-- Variable Names
+### Variable Names
 25. User lowercase for the first word and capitalize only the first letter of each subsequent word that appears in a variable name (use camelCase).
 26. Use nouns to name variables
 27. Pluralize the names of collective references
@@ -51,12 +51,12 @@
 | Stream | in, out, err, inOut |
 | Iteration | i, j, k, l, m, n |
 
-- Field Names
+### Field Names
 29. Qualify Field variables with "this" to distinguish them from local variables
 - Paramameter Names
 30. When a constructor or "setter" method assigns a parameter to a field, give that parameter the same name as the field.
-- Constant Names
-31. Use uppercase letters for each word and separate each pair of words with an underscore when naming constants
+### Constant Names
+32. Use uppercase letters for each word and separate each pair of words with an underscore when naming constants
 
 ## Documentation Conventions
 32. Write documentation for those who must use your code and those who must maintain it
@@ -95,7 +95,11 @@
 62. Explain local variable declarations with an end-line comment
 63. Establish the use of a set of keywords to flag unresolved issues (eg: TODO, :UNRESOLVED:, etc...)
 64. Label closing braces in highly nested control structures
-65. Add a "fall through" comment between two case labels, if no `break` statement
+65. Add a "fall through" comment between two case labels, if no `break` statement separates those labels
+66. Label empty statements
+
+## Programming Conventions
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQzMjgzNDk0XX0=
+eyJoaXN0b3J5IjpbLTE3OTg0NDg5NTFdfQ==
 -->
