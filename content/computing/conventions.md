@@ -8,7 +8,12 @@
 * Left-Bracket: `[`
 * Right-Bracket: `]`
 
-* Curley
+* Braces or Curly Braces: `{}`
+* Left-Curly-Brace: `{`
+* Right-Curly-Brace: `}`
+
+* "Sub" indicates indexing by way of an array: `foo[a]` ("foo sub a
+* "Sub" can also indicate calling a method: 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5NzgxMDU0XX0=
+eyJoaXN0b3J5IjpbMjk4NTQwNzBdfQ==
 -->
