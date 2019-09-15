@@ -28,13 +28,14 @@
 16. Use a single, lowercase word as the root name of each package
 17. Use the same name for a new version of a package, but only if that new version is still _binary compatible_ with the previous version, otherwise, use a new name.
 18. Capitalize the first letter of each word that appears in a class or interface name.
-19. use nouns when naming classes
-20. Pluralize the names of lasses that group related attributes, static services, or constants
+19. Use nouns when naming classes
+20. Pluralize the names of classes that group related attributes, static services, or constants
 21. Use nouns or adjectives when naming interfaces
+- Method Names
 22. User lowercase for the first word and capitalize only the first letter of each subsequent word that appears in a method name (use camelCase).
-23. Use verbs when naming methods
-24. Follow the JavaBeans(tm) conventions for naming property accessor methods (get*, set*, is*)
-25. 
+24. Use verbs when naming methods
+25. Follow the JavaBeans&tm; conventions for naming property accessor methods (get*, set*, is*)
+26. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODcwMTEzMjAzXX0=
+eyJoaXN0b3J5IjpbODI2NDk2NTYxXX0=
 -->
