@@ -70,7 +70,10 @@
 40. Provide a summary description and overview for each package
 41. Provide a summary description and overview for application and group of packages
 - Comment Style
-42. Use a single consistent format and organization fo
+42. Use a single consistent format and organization for all documentation comments
+43. Wrap keywords, identifiers, and constants with `<code>` tags
+44. Wrap code with `<pre>` tags
+45. Consider marking the first occurance of an identifier with the `@link
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODU4Njg0N119
+eyJoaXN0b3J5IjpbLTYwMTQ4NjcxXX0=
 -->
