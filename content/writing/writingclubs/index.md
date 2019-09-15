@@ -6,25 +6,23 @@
 ## Resources for meetings for 501(c)3
 
 
-### JSarge/JTyler:](https://ccwatraining.org/locations/)
+### J. Sarge Reynolds / John Tyler
+https://ccwatraining.org/locations/
 
 
 
-[Chesterfield County:](http://mychesterfieldschools.com/community/facilities/)
+### Chesterfield County
+http://mychesterfieldschools.com/community/facilities/
+ 
+### Henrico County
+https://webapps.henrico.k12.va.us/policy/chapter.asp#P11-09) 
 
-  
+https://webapps.henrico.k12.va.us/policy/chapter.asp#P9-17  
 
-[Henrico County:](https://webapps.henrico.k12.va.us/policy/chapter.asp#P11-09)  
-
-[https://webapps.henrico.k12.va.us/policy/chapter.asp#P9-17  
-](https://webapps.henrico.k12.va.us/policy/chapter.asp#P9-17)  
-Richmond County:
-
-[https://www.rvaschools.net/community](https://www.rvaschools.net/community)  
-
-[https://www.rvaschools.net/Page/1324](https://www.rvaschools.net/Page/1324)
-
-[](https://www.rvaschools.net/Page/1324)[https://www.communityuse.com/SOA.NET/Controllers/PageController.aspx?productid=MC&pageid=CalendarMonth](https://www.communityuse.com/SOA.NET/Controllers/PageController.aspx?productid=MC&pageid=CalendarMonth)
+### Richmond County:
+https://www.rvaschools.net/community
+https://www.rvaschools.net/Page/1324
+https://www.communityuse.com/SOA.NET/Controllers/PageController.aspx?productid=MC&pageid=CalendarMonth](https://www.communityuse.com/SOA.NET/Controllers/PageController.aspx?productid=MC&pageid=CalendarMonth)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAwMjg2NDA1XX0=
+eyJoaXN0b3J5IjpbLTEwMDE5NzI5MjJdfQ==
 -->
