@@ -4,7 +4,7 @@ const gls = require("./glsfiles");
 
 module.exports = function(obj) {
     var html = "";
-    var title = "<h2>Table of Contents</h2>"
+    var title = `<h2 id="toc">Table of Contents</h2>`;
     console.log("toc.js");
     console.log(obj);
     var mdFname = obj.data.root.mdFname;
