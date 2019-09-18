@@ -154,9 +154,16 @@ $(toc)
 94. Avoid synchronization.
 95. Use synchronized wrappers to provide synchronized interfaces.
 96. Do not synchronize an entire method if the method contains significant operations that do not need synchronization.
-97. Avoid unnecessary synchronization when reading 
+97. Avoid unnecessary synchronization when reading or writing instance variables.
+98. Consider usint `notify()` instead of `notifyAll()`.
+99. Use the double-check pattern for synchronized initialization.
 
+### 5.8 Efficiency
+
+100. Use lazy initialization.
+101. Avoid creating unnecessary objexs,
+102. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMDk5NDA1NSwtMTIwODc2NjYxNSwtMT
-A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
+eyJoaXN0b3J5IjpbODU1MjAxMTk3LC0xMjA4NzY2NjE1LC0xMD
+Q3ODI4NDY2LDExMjU3MTI3MDBdfQ==
 -->
