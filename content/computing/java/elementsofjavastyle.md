@@ -7,7 +7,7 @@ $(toc)
 
 ## 1. General Principles
 1. Adhere to the style of the original
-2. Adhere to the principle of Least Astonishment (Least Surprise)
+2. Adhere to the Principle of Least Astonishment (Least Surprise)
 3. Do it right the first time
 4. Document any deviations
 
@@ -161,9 +161,12 @@ $(toc)
 ### 5.8 Efficiency
 
 100. Use lazy initialization.
-101. Avoid creating unnecessary objexs,
-102. 
+101. Avoid creating unnecessary objects,
+102. Reinitialize and reuse objects to avoid new object construction.
+103. Leave optimization for last.
+	* First rule of optimization: Don't do it
+	* Second rule of optimization: Don't do it yet
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1MjAxMTk3LC0xMjA4NzY2NjE1LC0xMD
-Q3ODI4NDY2LDExMjU3MTI3MDBdfQ==
+eyJoaXN0b3J5IjpbLTEzNTAxMjgyOTEsLTEyMDg3NjY2MTUsLT
+EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
 -->
