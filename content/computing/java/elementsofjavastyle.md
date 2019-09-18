@@ -165,8 +165,13 @@ $(toc)
 102. Reinitialize and reuse objects to avoid new object construction.
 103. Leave optimization for last.
 	* First rule of optimization: Don't do it
-	* Second rule of optimization: Don't do it yet
+	* Second rule of optimization: Don't do it yet.
+	* Remember: 20% of code uses 80% of the resources.
+
+## 6. Packaging Conventions
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTAxMjgyOTEsLTEyMDg3NjY2MTUsLT
+eyJoaXN0b3J5IjpbLTExODYxMDAzNTQsLTEyMDg3NjY2MTUsLT
 EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
 -->
