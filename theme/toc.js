@@ -23,7 +23,7 @@ module.exports = function(obj) {
                 currIndent--;
             }
             line = line.replaceAll("#", '').trim();
-            url = "#" + line.toLowerCase().replaceAll(' ', '-').replaceAll('[^a-z0-9]', '');
+            url = "#" + line.toLowerCase().replaceAll(' ', '-').replaceAll('[^-a-z0-9]', '');
             html += `<li><a href=${url}>${line}</a></li>`;        
         }
     }
