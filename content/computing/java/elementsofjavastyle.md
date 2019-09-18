@@ -11,13 +11,13 @@ $(toc)
 3. Do it right the first time
 4. Document any deviations
 
-## 2. Formatting Conventions
+## 2. Formatting Conventions $(gotoc)
 5. Indent nested code
 6. Break up long lines
 7. Include white space
 8. Do not use "hard" tabs
 
-## 3. Naming Conventions
+## 3. Naming Conventions $(gotoc)
 9. Use meaningful names
 10. Use familiar names
 11. Question excessively long names
@@ -61,7 +61,7 @@ $(toc)
 ### 3.7 Constant Names
 32. Use uppercase letters for each word and separate each pair of words with an underscore when naming constants
 
-## 4. Documentation Conventions
+## 4. Documentation Conventions $(gotoc)
 32. Write documentation for those who must use your code and those who must maintain it
 33. Keep comments and code in sync
 34. Use the active voice and omit needless words
@@ -101,7 +101,7 @@ $(toc)
 65. Add a "fall through" comment between two case labels, if no `break` statement separates those labels
 66. Label empty statements
 
-## 5. Programming Conventions
+## 5. Programming Conventions $(gotoc)
 
 67. Consider declaring classes representing fundamental data tyeps as `final`.
 68. Build concrete types from navite types and other concrete types.
@@ -168,7 +168,7 @@ $(toc)
 	* Second rule of optimization: Don't do it yet.
 	* Remember: 20% of code uses 80% of the resources.
 
-## 6. Packaging Conventions
+## 6. Packaging Conventions $(gotoc)
 
 104. Place types that are commonly used, changed, and released together, or manually dependent on each other into the same package.
 	* The Common Reuse Principle: A package consists of classes you reuse together. If you use one of the classes in the package you use all of them.
