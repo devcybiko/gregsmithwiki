@@ -107,8 +107,13 @@ $(toc)
 68. Build concrete types from navite types and other concrete types.
 69. Define small classes and small methods
 70. Define subclasses so they may be used anywhere their superclasses may be used
-71. 
+71. Make all fields private
+72. Use polymorphism instead of instanceof
+
+### 5.1 Type Safety
+
+73. Wrap general-purpose classes that operation on `java.lang.Object`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4Nzk5MzY4NywtMTIwODc2NjYxNSwtMT
-A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
+eyJoaXN0b3J5IjpbLTE2MDMyMDgxODQsLTEyMDg3NjY2MTUsLT
+EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
 -->
