@@ -170,8 +170,11 @@ $(toc)
 
 ## 6. Packaging Conventions
 
-104. Place 
+104. Place types that are commonly used, changed, and released together, or manually dependent on each other into the same package.
+	* The Common Reuse Principle: A package consists of classes you reuse together.
+	* If you use one of the classes in the package you use all of them.
+105. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1NzE3ODc5NCwtMTIwODc2NjYxNSwtMT
+eyJoaXN0b3J5IjpbLTcxMDE3NzQ3MywtMTIwODc2NjYxNSwtMT
 A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
 -->
