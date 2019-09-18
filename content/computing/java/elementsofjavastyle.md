@@ -141,8 +141,16 @@ $(toc)
 ### 5.5 Assertions
 
 89. Program by contract.
-90. Use dead code elimination to impleme
+90. Use dead code elimination to implement assertions.
+91. Use assertions to catch logic errors in your code.
+92. Use assertions to test pre- and post-conditions ofa method.
+
+### 5.6 Concurrency
+
+93. Use threads only where appropriate
+94. 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NzQ5MjkxOSwtMTIwODc2NjYxNSwtMT
-A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
+eyJoaXN0b3J5IjpbLTE1ODY2NzA2NzcsLTEyMDg3NjY2MTUsLT
+EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
 -->
