@@ -120,8 +120,16 @@ $(toc)
 75. Replace repeated nontrivial expressions with equivalent methods.
 76. Use block statments instead of expression statements in control flow constructs.
 77. Clarify the order of operations with parenthesis
-78. Always code a `break` 
+78. Always code a `break` statement in the last case of a `switch` statement.
+79. Use `equals()`, not `==` to test for equality of objects.
+
+### 5.3 Construction
+
+80. Always construct objects in a valid state.
+81. Do not call nonfinal methods from within a constructor.
+82. Use nested constructors to eliminate redundant code
+83. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTYwODUxNCwtMTIwODc2NjYxNSwtMT
+eyJoaXN0b3J5IjpbMTk4NzIzNjE2MSwtMTIwODc2NjYxNSwtMT
 A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
 -->
