@@ -148,9 +148,15 @@ $(toc)
 ### 5.6 Concurrency
 
 93. Use threads only where appropriate
-94. 
+
+### 5.7 Synchronization
+
+94. Avoid synchronization.
+95. Use synchronized wrappers to provide synchronized interfaces.
+96. Do not synchronize an entire method if the method contains significant operations that do not need synchronization.
+97. Avoid unnecessary synchronization when reading 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODY2NzA2NzcsLTEyMDg3NjY2MTUsLT
-EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
+eyJoaXN0b3J5IjpbLTQyMDk5NDA1NSwtMTIwODc2NjYxNSwtMT
+A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
 -->
