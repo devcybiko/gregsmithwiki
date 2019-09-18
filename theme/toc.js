@@ -12,6 +12,7 @@ module.exports = function(obj) {
     var currIndent = 1;
     for(var line of lines) {
         if (line.startsWith("#")) {
+            var dollar = line.indexOf(`$`);
             var indent = line.indexOf(' ');
             if (indent === 1) continue;
             while (indent > currIndent) {
@@ -23,7 +24,7 @@ module.exports = function(obj) {
                 currIndent--;
             }
             line = line.replaceAll("#", '').trim();
-            url = "#" + line.toLowerCase().replaceAll(' ', '-').replaceAll('[^-a-z0-9]', '');
+            url = "#" + line.toLowerCase().replaceAll(' ', '-').replaceAll('[^-a-z0-9]', '').replaceAll('\\$.*$', '');
             html += `<li><a href=${url}>${line}</a></li>`;        
         }
     }
