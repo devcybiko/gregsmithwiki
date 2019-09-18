@@ -178,8 +178,9 @@ $(toc)
 106. Avoid making packages that are difficult to change dependent on packages that are easy to change,
     * The Stable Dependencies Principle
 107. Maximize abstraction to maximize stability.
-108. Capture high-level design and arh
+108. Capture high-level design and architypes as stable abstractions organized into stable packages.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjAzNzczNjksLTEyMDg3NjY2MTUsLT
-EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
+eyJoaXN0b3J5IjpbMTA0OTI3MDIyNSwtMTIwODc2NjYxNSwtMT
+A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
 -->
