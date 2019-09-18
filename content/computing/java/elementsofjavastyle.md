@@ -103,8 +103,12 @@ $(toc)
 
 ## 5. Programming Conventions
 
-67. 
+67. Consider declaring classes representing fundamental data tyeps as `final`.
+68. Build concrete types from navite types and other concrete types.
+69. Define small classes and small methods
+70. Define subclasses so they may be used anywhere their superclasses may be used
+71. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDg3NjY2MTUsLTEwNDc4Mjg0NjYsMT
-EyNTcxMjcwMF19
+eyJoaXN0b3J5IjpbMTg4Nzk5MzY4NywtMTIwODc2NjYxNSwtMT
+A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
 -->
