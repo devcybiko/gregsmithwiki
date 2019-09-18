@@ -112,8 +112,10 @@ $(toc)
 
 ### 5.1 Type Safety
 
-73. Wrap general-purpose classes that operation on `java.lang.Object`
+73. Wrap general-purpose classes that operating on `java.lang.Object` to provide static type checking.
+74. Encapsulate enumerations as classes.
+75. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMyMDgxODQsLTEyMDg3NjY2MTUsLT
-EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
+eyJoaXN0b3J5IjpbLTIxNjUxNDM0LC0xMjA4NzY2NjE1LC0xMD
+Q3ODI4NDY2LDExMjU3MTI3MDBdfQ==
 -->
