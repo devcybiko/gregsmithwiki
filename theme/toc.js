@@ -23,8 +23,9 @@ module.exports = function(obj) {
                 html += "</ul>";
                 currIndent--;
             }
+            if (dollar >= 0) line = line.substring(0, dollar);
             line = line.replaceAll("#", '').trim();
-            url = "#" + line.toLowerCase().replaceAll(' ', '-').replaceAll('[^-a-z0-9]', '').replaceAll('\\$.*$', '');
+            url = "#" + line.toLowerCase().replaceAll(' ', '-').replaceAll('[^-a-z0-9]', '');
             html += `<li><a href=${url}>${line}</a></li>`;        
         }
     }
