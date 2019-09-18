@@ -176,8 +176,10 @@ $(toc)
 	* The Acyclic Dependencies Principle
 105. Isolate volatile classes and interfaces in separate packages
 106. Avoid making packages that are difficult to change dependent on packages that are easy to change,
-107. The
+    * The Stable Dependencies Principle
+107. Maximize abstraction to maximize stability.
+108. Capture high-level design and arh
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzM2MDg4MDksLTEyMDg3NjY2MTUsLT
+eyJoaXN0b3J5IjpbLTE2MjAzNzczNjksLTEyMDg3NjY2MTUsLT
 EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
 -->
