@@ -171,10 +171,13 @@ $(toc)
 ## 6. Packaging Conventions
 
 104. Place types that are commonly used, changed, and released together, or manually dependent on each other into the same package.
-	* The Common Reuse Principle: A package consists of classes you reuse together.
-	* If you use one of the classes in the package you use all of them.
-105. 
+	* The Common Reuse Principle: A package consists of classes you reuse together. If you use one of the classes in the package you use all of them.
+	* The Reuse/Release Equivalence Principle
+	* The Acyclic Dependencies Principle
+105. Isolate volatile classes and interfaces in separate packages
+106. Avoid making packages that are difficult to change dependent on packages that are easy to change,
+107. The
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcxMDE3NzQ3MywtMTIwODc2NjYxNSwtMT
-A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
+eyJoaXN0b3J5IjpbLTIwNzM2MDg4MDksLTEyMDg3NjY2MTUsLT
+EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
 -->
