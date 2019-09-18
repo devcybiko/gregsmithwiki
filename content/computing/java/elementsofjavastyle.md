@@ -133,8 +133,16 @@ $(toc)
 
 83. Use unchecked, run-time exceptions to report serious unexpected errors that may indicate an error in the program's logic.
 84. Use checked expeptions to report errors that may occur, owever rarely, under normal program operation.
-85. Use return codes to report expected
+85. Use return codes to report expected state changes.
+86. Only convert excpetions to add information.
+87. Do not silently absorb a run-time error or error exception.
+88. Use a `finally` block to release resources.
+
+### 5.5 Assertions
+
+89. Program by contract.
+90. Use dead code elimination to impleme
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTU0MDIwMDMsLTEyMDg3NjY2MTUsLT
-EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
+eyJoaXN0b3J5IjpbMTQ5NzQ5MjkxOSwtMTIwODc2NjYxNSwtMT
+A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
 -->
