@@ -128,8 +128,13 @@ $(toc)
 80. Always construct objects in a valid state.
 81. Do not call nonfinal methods from within a constructor.
 82. Use nested constructors to eliminate redundant code
-83. 
+
+### 5.4 Exception Handling
+
+83. Use unchecked, run-time exceptions to report serious unexpected errors that may indicate an error in the program's logic.
+84. Use checked expeptions to report errors that may occur, owever rarely, under normal program operation.
+85. Use return codes to report expected
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NzIzNjE2MSwtMTIwODc2NjYxNSwtMT
-A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
+eyJoaXN0b3J5IjpbLTE2NTU0MDIwMDMsLTEyMDg3NjY2MTUsLT
+EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
 -->
