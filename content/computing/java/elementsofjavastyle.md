@@ -114,8 +114,13 @@ $(toc)
 
 73. Wrap general-purpose classes that operating on `java.lang.Object` to provide static type checking.
 74. Encapsulate enumerations as classes.
-75. 
+
+### Statements and Experessions
+
+75. Replace repeated nontrivial expressions with equivalent methods.
+76. Use block statments instead of expression statements in control flow constructs.
+77. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNjUxNDM0LC0xMjA4NzY2NjE1LC0xMD
+eyJoaXN0b3J5IjpbLTk4MTgwODU4LC0xMjA4NzY2NjE1LC0xMD
 Q3ODI4NDY2LDExMjU3MTI3MDBdfQ==
 -->
