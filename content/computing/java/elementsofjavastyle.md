@@ -103,6 +103,8 @@ $(toc)
 
 ## 5. Programming Conventions
 
+67. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
+eyJoaXN0b3J5IjpbLTEyMDg3NjY2MTUsLTEwNDc4Mjg0NjYsMT
+EyNTcxMjcwMF19
 -->
