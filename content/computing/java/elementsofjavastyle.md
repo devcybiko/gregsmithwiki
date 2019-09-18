@@ -170,8 +170,8 @@ $(toc)
 
 ## 6. Packaging Conventions
 
-
+104. Place 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODYxMDAzNTQsLTEyMDg3NjY2MTUsLT
-EwNDc4Mjg0NjYsMTEyNTcxMjcwMF19
+eyJoaXN0b3J5IjpbLTc1NzE3ODc5NCwtMTIwODc2NjYxNSwtMT
+A0NzgyODQ2NiwxMTI1NzEyNzAwXX0=
 -->
