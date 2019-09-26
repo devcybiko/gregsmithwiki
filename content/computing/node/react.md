@@ -1,6 +1,6 @@
 # React Commands
 
-Success! Created reactpractice at <your dir here>
+Success! Created reactpractice at &lt;your dir here>
 
 Inside that directory, you can run several commands:
 
@@ -27,5 +27,5 @@ cd reactpractice
 npm start
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MDQwMDI3MV19
+eyJoaXN0b3J5IjpbMTA2NjQwMjk4NiwxODUwNDAwMjcxXX0=
 -->
