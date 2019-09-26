@@ -1,32 +1,24 @@
 # React Commands
 
+Success! Created reactpractice at <your dir here>
+
 Inside that directory, you can run several commands:
 
-  
-
-npm start
+`npm start`
 
 Starts the development server.
 
-  
-
-npm run build
+`npm run build`
 
 Bundles the app into static files for production.
 
-  
-
-npm test
+`npm test`
 
 Starts the test runner.
 
-  
+`npm run eject`
 
-npm run eject
-
-Removes this tool and copies build dependencies, configuration files
-
-and scripts into the app directory. If you do this, you can’t go back!
+Removes this tool and copies build dependencies, configuration files and scripts into the app directory. If you do this, you can’t go back!
 
   
 
@@ -38,5 +30,5 @@ cd reactpractice
 
 npm start
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzU3MTM0NjZdfQ==
+eyJoaXN0b3J5IjpbLTg1NzE1NzY1NV19
 -->
