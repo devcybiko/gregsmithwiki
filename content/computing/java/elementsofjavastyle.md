@@ -5,7 +5,7 @@
 
 $(toc)
 
-## 1. General Principles $(me)$(gotoc)
+## 1. General Principles $(me "1. General Principles")$(gotoc)
 1. Adhere to the style of the original
 2. Adhere to the Principle of Least Astonishment (Least Surprise)
 3. Do it right the first time
