@@ -35,12 +35,14 @@ I have yet to do any research on React "best practices", but here is my layout f
 		- index.js
 		- App.js
 		- components
-			- These are item-level components which should be functions (not Classes). As such they are 'presentation'
+			- These are item-level components which should be functions (not Classes). As such they are 'presentation' components and have no state.
 		- containers
+			- These are container classes (not functions) that reference the components. These are where the state is kept.
 		- pages
+			- These are stateful class components - or not. They typically
 		- presentation
 		- utils
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTQyNDk0ODYsNzE5NTg2NTQ2LC0xOT
+eyJoaXN0b3J5IjpbLTE1MzMxNTE4MjYsNzE5NTg2NTQ2LC0xOT
 EyOTY4ODgzLC0xNTE2MTI4NTg4LDE0NDAwODkwNTBdfQ==
 -->
