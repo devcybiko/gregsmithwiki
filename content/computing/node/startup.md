@@ -39,10 +39,12 @@ I have yet to do any research on React "best practices", but here is my layout f
 		- containers
 			- These are container classes (not functions) that reference the components. These are where the state is kept.
 		- pages
-			- These are stateful class components - or not. They typically
+			- These are stateful class components - or not. They typically all the components in the `container` and `presentation` folders.
 		- presentation
+			- These are very low-level formatting / presentation components. I use them to wrap Bootstrap divs (things like Row and Col).
 		- utils
+			- This is for any functional code like API calls
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzMxNTE4MjYsNzE5NTg2NTQ2LC0xOT
-EyOTY4ODgzLC0xNTE2MTI4NTg4LDE0NDAwODkwNTBdfQ==
+eyJoaXN0b3J5IjpbMTQ3MDIxMjkwOSw3MTk1ODY1NDYsLTE5MT
+I5Njg4ODMsLTE1MTYxMjg1ODgsMTQ0MDA4OTA1MF19
 -->
