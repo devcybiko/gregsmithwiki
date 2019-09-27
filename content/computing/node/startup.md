@@ -16,7 +16,7 @@ Almost always, when I'm creating a web page, I start with the Home page and a Na
 It's my preference to only put 2-3 tabs on the NavBar just to get it going. I don't worry about how beautiful it looks. I just want some content that works. Once I have the NavBar working and some pages working, I pick a page (often the simplest one) and start building it out. How far I build it out is largely due to time constraints and the customer's needs. If the customer needs full functionality, I'll build the whole page, if not, I'll get it working and then leave 'beautifying' it for later.
 
 Sample Framework:
-
+[https://github.com/devcybiko/NewProject](https://github.com/devcybiko/NewProject)
 [https://github.com/devcybiko/NewBootStrapProject](https://github.com/devcybiko/NewBootStrapProject)
 
 ## On the Backend
@@ -25,5 +25,6 @@ On the backend, I start with a basic Node/Express server that serves up static p
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTYxMjg1ODgsMTQ0MDA4OTA1MF19
+eyJoaXN0b3J5IjpbLTE5MTI5Njg4ODMsLTE1MTYxMjg1ODgsMT
+Q0MDA4OTA1MF19
 -->
