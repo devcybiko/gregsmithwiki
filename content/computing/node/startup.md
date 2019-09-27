@@ -29,14 +29,17 @@ On the backend, I start with a basic Node/Express server that serves up static p
 
 I have yet to do any research on React "best practices", but here is my layout for a recent React project:
 
-- Pupster
+- APPLICATION FOLDER
 	- public (as supplied by `create-react-app`)
 	- src
-		- index.js
-		- App.js
+		- index.js - the main file
+		- App.js - the single page app
 		- components
+			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
 			- These are item-level components which should be functions (not Classes). As such they are 'presentation' components and have no state.
 		- containers
+		- 			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
+
 			- These are container classes (not functions) that reference the components. These are where the state is kept.
 		- pages
 			- These are stateful class components - or not. They typically all the components in the `container` and `presentation` folders.
@@ -45,6 +48,6 @@ I have yet to do any research on React "best practices", but here is my layout f
 		- utils
 			- This is for any functional code like API calls
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3MDIxMjkwOSw3MTk1ODY1NDYsLTE5MT
-I5Njg4ODMsLTE1MTYxMjg1ODgsMTQ0MDA4OTA1MF19
+eyJoaXN0b3J5IjpbNDYzNzY4MTM4LDcxOTU4NjU0NiwtMTkxMj
+k2ODg4MywtMTUxNjEyODU4OCwxNDQwMDg5MDUwXX0=
 -->
