@@ -8,11 +8,11 @@ To get started, she always peeled an onion and started frying it up. The aroma o
 
 Whenver I start a new project, I hate to start from scratch. I usually think about the tech stack I want to use and start pulling them into my 'fridge'.
 
-I also have a few 'template' or 'skeleton' projects lying around that are a leg-up or prototype for what I want to create. I can usually copy them into my workspace and get going. Just like my girlfriend never started with all the ingredients.
+I also have a few 'template' or 'skeleton' projects lying around that are a leg-up or prototype for what I want to create. I can usually copy them into my workspace and get going. Just like my girlfriend never started with all the ingredients, 
 
 Almost always, when I'm creating a web page, I start with the Home page and a NavBar. Once I get that working, I start thinking about the pages I want on my site.
 
 It's my preference to only put 2-3 tabs on the NavBar just to get it going. I don't worry about 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MTY1NTc3XX0=
+eyJoaXN0b3J5IjpbLTIxMDcxMDMxMjFdfQ==
 -->
