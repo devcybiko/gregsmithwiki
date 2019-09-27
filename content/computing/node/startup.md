@@ -30,7 +30,7 @@ On the backend, I start with a basic Node/Express server that serves up static p
 I have yet to do any research on React "best practices", but here is my layout for a recent React project:
 
 - APPLICATION FOLDER
-	- public (as supplied by `create-react-app`)
+	- public (as supplied by `create-react-app`
 	- src
 		- index.js - the main file
 		- App.js - the single page app
@@ -50,6 +50,6 @@ I have yet to do any research on React "best practices", but here is my layout f
 			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
 			- This is for any functional code like API calls
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NTAzMDYyNSw3MTk1ODY1NDYsLTE5MT
+eyJoaXN0b3J5IjpbMTk0Mjg2MjAxMCw3MTk1ODY1NDYsLTE5MT
 I5Njg4ODMsLTE1MTYxMjg1ODgsMTQ0MDA4OTA1MF19
 -->
