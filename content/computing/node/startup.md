@@ -1,8 +1,8 @@
 # Starting an App - Fry an Onion
 
-When I was in college I had a girlfriend who cooked every night for dinner. She never knew what she was going to cook. But she would makes something out of whatever we had in the fridge.
+When I was in college I had a girlfriend who cooked every night for dinner. She never knew what she was going to cook. But she would make something out of whatever we had in the fridge.
 
-To get started, she always peeled an onion and started frying it up. The aroma of frying onion got her creative culinary juices flowing and then she'd start pulling whatever food we had in the fridge out and make something awesome.
+To get started, she always peeled an onion and started frying it up. The aroma of a frying onion got her creative culinary juices flowing and then she'd start pulling whatever food we had in the fridge out and make something awesome.
 
 ## The Software Equivalent of Frying an Onion
 
@@ -50,6 +50,7 @@ I have yet to do any research on React "best practices", but here is my layout f
 			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
 			- This is for any functional code like API calls
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0Mjg2MjAxMCw3MTk1ODY1NDYsLTE5MT
-I5Njg4ODMsLTE1MTYxMjg1ODgsMTQ0MDA4OTA1MF19
+eyJoaXN0b3J5IjpbMjAzMzIzNTY5NCwxOTQyODYyMDEwLDcxOT
+U4NjU0NiwtMTkxMjk2ODg4MywtMTUxNjEyODU4OCwxNDQwMDg5
+MDUwXX0=
 -->
