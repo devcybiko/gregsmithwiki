@@ -25,7 +25,13 @@ On the backend, I start with a basic Node/Express server that serves up static p
 
  [https://github.com/devcybiko/NewNodeProject](https://github.com/devcybiko/NewNodeProject)
  
+ ## React Framework
+
+I have yet to do any research on React "best practices", but here is my layout for a recent React project:
+
+- Pupster
+	- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE5NTg2NTQ2LC0xOTEyOTY4ODgzLC0xNT
-E2MTI4NTg4LDE0NDAwODkwNTBdfQ==
+eyJoaXN0b3J5IjpbMTcxMzk4MzI1NCw3MTk1ODY1NDYsLTE5MT
+I5Njg4ODMsLTE1MTYxMjg1ODgsMTQ0MDA4OTA1MF19
 -->
