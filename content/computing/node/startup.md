@@ -25,7 +25,7 @@ On the backend, I start with a basic Node/Express server that serves up static p
 
  [https://github.com/devcybiko/NewNodeProject](https://github.com/devcybiko/NewNodeProject)
  
- ## React Framework
+## React Framework
 
 I have yet to do any research on React "best practices", but here is my layout for a recent React project:
 
@@ -38,16 +38,18 @@ I have yet to do any research on React "best practices", but here is my layout f
 			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
 			- These are item-level components which should be functions (not Classes). As such they are 'presentation' components and have no state.
 		- containers
-		- 			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
-
+			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
 			- These are container classes (not functions) that reference the components. These are where the state is kept.
 		- pages
+			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
 			- These are stateful class components - or not. They typically all the components in the `container` and `presentation` folders.
 		- presentation
+			-  index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
 			- These are very low-level formatting / presentation components. I use them to wrap Bootstrap divs (things like Row and Col).
 		- utils
+			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
 			- This is for any functional code like API calls
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzNzY4MTM4LDcxOTU4NjU0NiwtMTkxMj
-k2ODg4MywtMTUxNjEyODU4OCwxNDQwMDg5MDUwXX0=
+eyJoaXN0b3J5IjpbMTY0NTAzMDYyNSw3MTk1ODY1NDYsLTE5MT
+I5Njg4ODMsLTE1MTYxMjg1ODgsMTQ0MDA4OTA1MF19
 -->
