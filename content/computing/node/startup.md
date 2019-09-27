@@ -30,8 +30,17 @@ On the backend, I start with a basic Node/Express server that serves up static p
 I have yet to do any research on React "best practices", but here is my layout for a recent React project:
 
 - Pupster
-	- 
+	- public (as supplied by `create-react-app`)
+	- src
+		- index.js
+		- App.js
+		- components
+			- These are item-level components which should be functions (not Classes). As such they are 'presentation'
+		- containers
+		- pages
+		- presentation
+		- utils
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxMzk4MzI1NCw3MTk1ODY1NDYsLTE5MT
-I5Njg4ODMsLTE1MTYxMjg1ODgsMTQ0MDA4OTA1MF19
+eyJoaXN0b3J5IjpbLTE0MTQyNDk0ODYsNzE5NTg2NTQ2LC0xOT
+EyOTY4ODgzLC0xNTE2MTI4NTg4LDE0NDAwODkwNTBdfQ==
 -->
