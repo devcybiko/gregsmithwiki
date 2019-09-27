@@ -49,8 +49,10 @@ I have yet to do any research on React "best practices", but here is my layout f
 		- utils
 			- index.js - a collection of `export` commands used that reference each component (so that you can `import` them)
 			- This is for any functional code like API calls
+
+[https://github.com/devcybiko/pupster](https://github.com/devcybiko/pupster)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzMzIzNTY5NCwxOTQyODYyMDEwLDcxOT
-U4NjU0NiwtMTkxMjk2ODg4MywtMTUxNjEyODU4OCwxNDQwMDg5
-MDUwXX0=
+eyJoaXN0b3J5IjpbMjYyMDYzMDI3LDE5NDI4NjIwMTAsNzE5NT
+g2NTQ2LC0xOTEyOTY4ODgzLC0xNTE2MTI4NTg4LDE0NDAwODkw
+NTBdfQ==
 -->
