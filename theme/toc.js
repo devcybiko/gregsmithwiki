@@ -1,6 +1,4 @@
-const fs = require("fs");
-const path = require("path");
-const gls = require("./glsfiles");
+const gls = module.parent.require("glsfiles");
 
 module.exports = function(obj) {
     var html = "";

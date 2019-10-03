@@ -1,7 +1,3 @@
-const fs = require("fs");
-const path = require("path");
-const gls = require("./glsfiles");
-
 module.exports = function(name) {
     var html = "";
     console.log("me.js");
