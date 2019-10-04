@@ -33,9 +33,9 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 '12. When reviewing other's work give only the correct review
 
 ## At Work
-13. Follow along when others are speaking or presenting
-14. Answer all written questions with a complete sentence
-15. Do not ask for a reward
+'13. Follow along when others are speaking or presenting
+`14. Answer all written questions with a complete sentence
+`15. Do not ask for a reward
 16. You must complete your work every day
 17. Subject transitions will be swift, quiet, and orderly
 18. Be as organized as possible
@@ -47,14 +47,14 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 25. Greet visitors and make them feel welcome
 26. Do not save seats in the cafe or in meetings
 27. Do not stare at a fellow employee who is being reprimanded
-28. After dining in the cafeteria or elsewhere, be responsible for your trash
-29. Call or text your manager if you have a question about work and leave a message - once
-30. When offered food, take only your fair share
-31. If someone drops something, pick it up
-32. Hold the door for people rather than letting it close on them
-33. Take companywide drills and and precautions seriously
-34. Use spaces not tabs for indentation
-35. If anyone is bullying you, report it, and do not bully others
+28. Call or text your manager if you have a question about work and leave a message - once
+30. After dining in the cafeteria or elsewhere, be responsible for your trash
+34. When offered food, take only your fair share
+35. If someone drops something, pick it up
+36. Hold the door for people rather than letting it close on them
+45. Take companywide drills and and precautions seriously
+47. Use spaces not tabs for indentation
+48. If anyone is bullying you, report it, and do not bully others
 
 ## On Travel
 29. In a hotel room, leave a tip for the hotel workers who clean your room
@@ -96,5 +96,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjY5ODE0OF19
+eyJoaXN0b3J5IjpbMTMyMzI0ODA5MF19
 -->
