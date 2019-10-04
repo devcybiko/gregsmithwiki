@@ -50,7 +50,7 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 44. When walking in line, keep your arms at your sides and move quietly
 45. Take schoolwide drills and and precautions seriously
 46. No talking in a movie theater during the movie
-47. Use space 
+47. Use spaces not tabs for indentation
 48. If anyone is bullying you, let me know, and do not bully others
 49. Stand up for what you believe in
 50. Be positive and enjoy life
@@ -89,6 +89,6 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MDUyODM1NiwtNDA1NTc0MTEyLDEwND
-Y5ODkxMjcsMTM1MTExNDI3MSwxODkzNDk2Mjc3XX0=
+eyJoaXN0b3J5IjpbLTE0OTM1MTQ4MjIsLTQwNTU3NDExMiwxMD
+Q2OTg5MTI3LDEzNTExMTQyNzEsMTg5MzQ5NjI3N119
 -->
