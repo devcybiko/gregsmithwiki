@@ -6,19 +6,19 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 
 ## Personal Rules
 1. Be humble
+7. Cover your mouth when you seneze or coiugh and say excuse me
 
 ## How to treat others
 2. Make eye contact.
-3. Congratulate and uplift others
-4. Respect other peop comments, opinions, and ideas
+3. Congratulate and uplift other people
+4. Respect other people's comments, opinions, and ideas
 5. If you win, do not brag; if you lose, do not show anger
 6. If you are asked a question in conversation, ask a question in return
-7. Cover your mouth when you seneze or coiugh and say excuse me
 8. Do not show disrespect with gestures
 9. Always say thank you when given something
 10. When you receive something, do not insult the gift or the giver
 11. Suprise others by performing random acts of kindness
-12. When grading others students' papers, give only the correct grade
+12. When reviewing other's work give only the correct grade
 13. Follow along when we read together in class
 14. Answer all written questions with a complete sentence
 15. Do not ask for a reward
@@ -92,5 +92,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODM1MTYzMV19
+eyJoaXN0b3J5IjpbMTIyMzcxNDc3Nl19
 -->
