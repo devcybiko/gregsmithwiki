@@ -6,6 +6,7 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 
 1. Be humble
 2. Make eye contact.
+## How to treat others
 3. Congratulate and uplift a classmate
 4. Respect other students' comments, opinions, and ideas
 5. If you win, do not brag; if you lose, do not show anger
@@ -89,7 +90,7 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc0NzcxMDUsLTE0OTM1MTQ4MjIsLT
-QwNTU3NDExMiwxMDQ2OTg5MTI3LDEzNTExMTQyNzEsMTg5MzQ5
-NjI3N119
+eyJoaXN0b3J5IjpbMTg5NzgyMzAwNywtMTQ5MzUxNDgyMiwtND
+A1NTc0MTEyLDEwNDY5ODkxMjcsMTM1MTExNDI3MSwxODkzNDk2
+Mjc3XX0=
 -->
