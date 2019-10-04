@@ -11,6 +11,7 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 30. Follow the ABCs of etiquette
 38. Be a good listener
 40. Be a good guest
+39. No talking in a movie theater during the movie
 
 29. Call or text me if you have a question about homework and leave a message - once
 
@@ -42,31 +43,30 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 26. Do not save seats in the cafe or in meetings
 27. Do not stare at an employee who is being reprimanded
 28. After dining in the cafeteria or elsewhere, be responsible for your trash
-31. When meeting new people, shake hands and repeat their names
 32. When offered food, take only your fair share
 33. If someone drops something, pick it up
 34. Hold the door for people rather than letting it close on them
+38. Take companywide drills and and precautions seriously
+47. Use spaces not tabs for indentation
 
 ## On Travel
 29. In a hotel room, leave a tip for the hotel workers who clean your room
 30. On a bus, van, or plane, always face forward
-31. Enter a public building quietly (likewise, wherever you are, enter a meeting quietly)
-32. During an presentation, do not speak or call out to others
-33. Use appropriate phone etiquette at all times
-34. When returning from a trip, shake the hand of every team member
-35. On escalators, stand to the right, walk to the left
-36. When walking in line, keep your arms at your sides and move quietly
-37. Take schoolwide drills and and precautions seriously
-38. No talking in a movie theater during the movie
-39. Use spaces not tabs for indentation
-40. If anyone is bullying you, let me know, and do not bully others
-41. Stand up for what you believe in
-42. Be positive and enjoy life
-43. Live so that you will never have regrets
-44. Learn from your mistakes and move on
-45. No matter the circumstances, always be honest
-46. Carpe Diem
-47. Be the best person you can be
+31. When meeting new people, shake hands and repeat their names
+32. Enter a public building quietly (likewise, wherever you are, enter a meeting quietly)
+33. During an presentation, do not speak or call out to others
+34. Use appropriate phone etiquette at all times
+35. When returning from a trip, shake the hand of every team member
+36. On escalators, stand to the right, walk to the left
+37. When walking in line, keep your arms at your sides and move quietly
+41. If anyone is bullying you, let me know, and do not bully others
+42. Stand up for what you believe in
+43. Be positive and enjoy life
+44. Live so that you will never have regrets
+45. Learn from your mistakes and move on
+46. No matter the circumstances, always be honest
+47. Carpe Diem
+48. Be the best person you can be
 
 ## The ABCs of Etiquette
 
@@ -97,5 +97,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODk4NDM2OThdfQ==
+eyJoaXN0b3J5IjpbMTcxOTk2Mjc4MF19
 -->
