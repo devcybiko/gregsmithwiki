@@ -34,34 +34,34 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 
 ## At Work
 '13. Follow along when others are speaking or presenting
-`14. Answer all written questions with a complete sentence
-`15. Do not ask for a reward
-16. You must complete your work every day
-17. Subject transitions will be swift, quiet, and orderly
-18. Be as organized as possible
-19. When work is assigned, do not moan or complain
-20. When a substitute manager is present, all rules apply
-21. Follow the specific workplace protocols
-23. Know other managers' names and greet them in the hall by name
-24. Keep yourself and the bathrooms clean and germ freee
-25. Greet visitors and make them feel welcome
-26. Do not save seats in the cafe or in meetings
-27. Do not stare at a fellow employee who is being reprimanded
-28. Call or text your manager if you have a question about work and leave a message - once
-30. After dining in the cafeteria or elsewhere, be responsible for your trash
-34. When offered food, take only your fair share
-35. If someone drops something, pick it up
-36. Hold the door for people rather than letting it close on them
-45. Take companywide drills and and precautions seriously
-47. Use spaces not tabs for indentation
-48. If anyone is bullying you, report it, and do not bully others
+'14. Answer all written questions with a complete sentence
+'15. Do not ask for a reward
+'16. You must complete your work every day
+'17. Subject transitions will be swift, quiet, and orderly
+'18. Be as organized as possible
+'19. When work is assigned, do not moan or complain
+'20. When a substitute manager is present, all rules apply
+'21. Follow the specific workplace protocols
+'23. Know other managers' names and greet them in the hall by name
+'24. Keep yourself and the bathrooms clean and germ freee
+'25. Greet visitors and make them feel welcome
+'26. Do not save seats in the cafe or in meetings
+'27. Do not stare at a fellow employee who is being reprimanded
+'28. Call or text your manager if you have a question about work and leave a message - once
+'30. After dining in the cafeteria or elsewhere, be responsible for your trash
+'34. When offered food, take only your fair share
+'35. If someone drops something, pick it up
+'36. Hold the door for people rather than letting it close on them
+'45. Take companywide drills and and precautions seriously
+'47. Use spaces not tabs for indentation
+'48. If anyone is bullying you, report it, and do not bully others
 
 ## On Travel
-29. In a hotel room, leave a tip for the hotel workers who clean your room
-30. On a bus, van, or plane, always face forward
-31. When meeting new people, shake hands and repeat their names
+31. In a hotel room, leave a tip for the hotel workers who clean your room
+32. On a bus, van, or plane, always face forward
 32. Enter a public building quietly (likewise, wherever you are, enter a meeting quietly)
-33. During an presentation, do not speak or call out to others
+33. When meeting new people, shake hands and repeat their names
+34. During an presentation, do not speak or call out to others
 34. Use appropriate phone etiquette at all times
 35. When returning from a trip, shake the hand of every team member
 36. On escalators, stand to the right, walk to the left
@@ -96,5 +96,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMzI0ODA5MF19
+eyJoaXN0b3J5IjpbLTYyNjY0MDUzM119
 -->
