@@ -10,7 +10,7 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 4. Respect other students' comments, opinions, and ideas
 5. If you win, do not brag; if you lose, do not show anger
 6. If you are asked a question in conversation, ask a question in return
-7. Cover your mouth when you seneze or coiugh and say excuse me
+7. Cover your mouth when you sneeze or cough and say excuse me
 8. Do not show disrespect with gestures
 9. Always say thank you when given something
 10. When you receive something, do not insult the gift or the giver
@@ -89,7 +89,7 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc0NzcxMDUsLTE0OTM1MTQ4MjIsLT
-QwNTU3NDExMiwxMDQ2OTg5MTI3LDEzNTExMTQyNzEsMTg5MzQ5
-NjI3N119
+eyJoaXN0b3J5IjpbNDk0NDk5ODA0LC0xMDk3NDc3MTA1LC0xND
+kzNTE0ODIyLC00MDU1NzQxMTIsMTA0Njk4OTEyNywxMzUxMTE0
+MjcxLDE4OTM0OTYyNzddfQ==
 -->
