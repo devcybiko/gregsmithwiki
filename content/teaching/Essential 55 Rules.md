@@ -60,6 +60,9 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 54. Carpe Diem
 55. Be the best person you can be
 
+## The ABCs of Etiquette
+
+A. When you first sit down for a meal, immediately place your napkin in your lap. If your silverware is wrapped in a napking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyMjgyNTY0LDE4OTM0OTYyNzddfQ==
+eyJoaXN0b3J5IjpbMTM1MTExNDI3MSwxODkzNDk2Mjc3XX0=
 -->
