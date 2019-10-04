@@ -37,7 +37,13 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 31. In a hotel room, leave a tip for the hotel workers who clean your room
 32. On a bus, van, or plane, always face forward
 33. When meeting new people, shake hands and repeat their names
-34. When offered food,
+34. When offered food, take only your fair share
+35. If someone drops something, pick it up
+36. Hold the door for people rather than letting it close on them
+37. Be a good listener
+38. On a field trip, enter a public building quietly
+39. Be a good guest
+40. During an assembly, do not speak or cal out to friends
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYzMDQ1Mzk4MCwxODkzNDk2Mjc3XX0=
+eyJoaXN0b3J5IjpbLTIwOTIzMTgyMzgsMTg5MzQ5NjI3N119
 -->
