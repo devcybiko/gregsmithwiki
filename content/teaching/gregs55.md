@@ -36,35 +36,37 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 20. When work is assigned, do not moan or complain
 21. When a substitute manager is present, all rules apply
 22. Follow the specific workplace protocols
-24. Know other superiors' names and greet them in the hall by name
-25. Keep yourself and the bathrooms clean and germ freee
-26. Greet visitors and make them feel welcome
-27. Do not save seats in the cafe or in meetings
-28. Do not stare at an employee who is being reprimanded
-31. After dining in the cafeteria or elsewhere, be responsible for your trash
-32. In a hotel room, leave a tip for the hotel workers who clean your room
-33. On a bus, van, or plane, always face forward
-34. When meeting new people, shake hands and repeat their names
-35. When offered food, take only your fair share
-36. If someone drops something, pick it up
-37. Hold the door for people rather than letting it close on them
-39. On travel, enter a public building quietly (likewise, wherever you are, enter a meeting quietly)
-41. During an presentation, do not speak or call out to friends
-42. Use appropriate phone etiquette at all times
-43. When returning from a trip, shake the hand of every chaperone
-44. On escalators, stand to the right, walk to the left
-45. When walking in line, keep your arms at your sides and move quietly
-46. Take schoolwide drills and and precautions seriously
-47. No talking in a movie theater during the movie
-48. Use spaces not tabs for indentation
-49. If anyone is bullying you, let me know, and do not bully others
-50. Stand up for what you believe in
-51. Be positive and enjoy life
-52. Live so that you will never have regrets
-53. Learn from your mistakes and move on
-54. No matter the circumstances, always be honest
-55. Carpe Diem
-56. Be the best person you can be
+23. Know other managers' names and greet them in the hall by name
+24. Keep yourself and the bathrooms clean and germ freee
+25. Greet visitors and make them feel welcome
+26. Do not save seats in the cafe or in meetings
+27. Do not stare at an employee who is being reprimanded
+28. After dining in the cafeteria or elsewhere, be responsible for your trash
+31. When meeting new people, shake hands and repeat their names
+32. When offered food, take only your fair share
+33. If someone drops something, pick it up
+34. Hold the door for people rather than letting it close on them
+
+## On Travel
+29. In a hotel room, leave a tip for the hotel workers who clean your room
+30. On a bus, van, or plane, always face forward
+31. Enter a public building quietly (likewise, wherever you are, enter a meeting quietly)
+32. During an presentation, do not speak or call out to others
+33. Use appropriate phone etiquette at all times
+34. When returning from a trip, shake the hand of every team member
+35. On escalators, stand to the right, walk to the left
+36. When walking in line, keep your arms at your sides and move quietly
+37. Take schoolwide drills and and precautions seriously
+38. No talking in a movie theater during the movie
+39. Use spaces not tabs for indentation
+40. If anyone is bullying you, let me know, and do not bully others
+41. Stand up for what you believe in
+42. Be positive and enjoy life
+43. Live so that you will never have regrets
+44. Learn from your mistakes and move on
+45. No matter the circumstances, always be honest
+46. Carpe Diem
+47. Be the best person you can be
 
 ## The ABCs of Etiquette
 
@@ -95,5 +97,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTMzMzg1NzVdfQ==
+eyJoaXN0b3J5IjpbLTE0ODk4NDM2OThdfQ==
 -->
