@@ -7,6 +7,10 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 ## Personal Rules
 1. Be humble
 7. Cover your mouth when you seneze or coiugh and say excuse me
+23. Go out of your way to make others feel special
+30. Follow the ABCs of etiquette
+
+29. Call or text me if you have a question about homework and leave a message - once
 
 ## How to treat others
 2. Make eye contact.
@@ -30,14 +34,11 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 20. When work is assigned, do not moan or complain
 21. When a substitute manager is present, all rules apply
 22. Follow the specific workplace protocols
-23. Go out of your way to make others feel special
-24. Know other teachers' names and greet them in the hall by name
+24. Know other superiors' names and greet them in the hall by name
 25. Keep yourself and the bathrooms clean and germ freee
 26. Greet visitors and make them feel welcome
-27. Do not save seats in the lunchroom
-28. Do not stare at a student who is being reprimanded
-29. Call or text me if you have a question about homework and leave a message - once
-30. Follow the ABCs of etiquette
+27. Do not save seats in the cafe or in meetings
+28. Do not stare at an employee who is being reprimanded
 31. After dining in the cafeteria or elsewhere, be responsible for your trash
 32. In a hotel room, leave a tip for the hotel workers who clean your room
 33. On a bus, van, or plane, always face forward
@@ -94,5 +95,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDAzMDc3NjJdfQ==
+eyJoaXN0b3J5IjpbLTE4MzAwNjcyNThdfQ==
 -->
