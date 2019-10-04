@@ -50,7 +50,16 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 44. When walking in line, keep your arms at your sides and move quietly
 45. Take schoolwide drills and and precautions seriously
 46. No talking in a movie theater during the movie
-47. Do 
+47. Do not bring Doritos into the school building (?)
+48. If anyone is bullying you, let me know, and do not bully others
+49. Stand up for what you believe in
+50. Be positive and enjoy life
+51. Live so that you will never have regrets
+52. Learn from your mistakes and move on
+53. No matter the circumstances, always be honest
+54. Carpe Diem
+55. Be the best person you can be
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE0NzUzODE4LDE4OTM0OTYyNzddfQ==
+eyJoaXN0b3J5IjpbMjAyMjgyNTY0LDE4OTM0OTYyNzddfQ==
 -->
