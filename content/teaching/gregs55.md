@@ -4,11 +4,13 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 
 - Ron Clark
 
-## Personal Rules
+## Personal Behavior
 1. Be humble
 7. Cover your mouth when you seneze or coiugh and say excuse me
 23. Go out of your way to make others feel special
 30. Follow the ABCs of etiquette
+38. Be a good listener
+40. Be a good guest
 
 29. Call or text me if you have a question about homework and leave a message - once
 
@@ -46,10 +48,8 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 35. When offered food, take only your fair share
 36. If someone drops something, pick it up
 37. Hold the door for people rather than letting it close on them
-38. Be a good listener
-39. On a field trip, enter a public building quietly
-40. Be a good guest
-41. During an assembly, do not speak or cal out to friends
+39. On travel, enter a public building quietly (likewise, wherever you are, enter a meeting quietly)
+41. During an presentation, do not speak or call out to friends
 42. Use appropriate phone etiquette at all times
 43. When returning from a trip, shake the hand of every chaperone
 44. On escalators, stand to the right, walk to the left
@@ -95,5 +95,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzAwNjcyNThdfQ==
+eyJoaXN0b3J5IjpbOTMzMzg1NzVdfQ==
 -->
