@@ -62,8 +62,89 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 
 ## The ABCs of Etiquette
 
-
+A.
+    When you first sit down for a meal,
+    immediately place the...") A When you first sit down for a meal, immediately place the napkin in your lap. If your silverware is wrapped in your napkin, unwrap it as soon as you sit down and place the napkin in your lap.
+B.
+    When you are finished eating, place
+    your napkin on the ta...") B When you are finished eating, place your napkin on the table to the left of your plate.
+C.
+    Never place your elbows on the
+    table.
+     ") C Never place your elbows on the table.
+D.
+    Use one hand to eat unless you are
+    cutting or buttering f...") D Use one hand to eat unless you are cutting or buttering food. Never have your fork in one hand and your glass in another.
+E.
+    Do not lick your fingers. There is a
+    napkin provided for ...") E Do not lick your fingers. There is a napkin provided for the purpose of cleaning fingers.
+F.
+    Do not smack your lips or chew
+    noisily.
+     ") F Do not smack your lips or chew noisily.
+G.
+    Do not chew with your mouth
+    open.
+     ") G Do not chew with your mouth open.
+H.
+    Do not talk with your mouth full.
+    Don’t place a hand over...") H Do not talk with your mouth full. Don’t place a hand over your mouth and talk anyway. Wait until you have swallowed your food to speak.
+I.
+    If something is caught in your teeth,
+    wait until you are ...") I If something is caught in your teeth, wait until you are in the restroom to remove it.
+J.
+    Do not slurp.
+     ") J Do not slurp.
+K.
+    Do not play with your food.
+     ") K Do not play with your food.
+L.
+    If you drop your fork, napkin or
+    anything else on the flo...") L If you drop your fork, napkin or anything else on the floor, do not pick it up. When something has dropped on the floor, ask a waiter for a replacement; leave the dirty one on the floor.
+M.
+    Use your utensils for eating almost
+    everything.
+    Here are ...") M Use your utensils for eating almost everything. Here are 10 types of foods you may use your hands to eat: pizza, bacon, cookies, bread, corn on the cob, hot dogs, hamburgers, sandwiches, French fries, chips, fried chicken, small fruits, and asparagus.
+N.
+    Never reach over someone’s plate to get
+    something. For ex...") N Never reach over someone’s plate to get something. For example, say, “Will you please pass the salt?”
+O.
+    Never start eating off your tray
+    until you are at your se...") O Never start eating off your tray until you are at your seat.
+P.
+    When you are eating at a
+    restaurant, do not begin eating ...") P When you are eating at a restaurant, do not begin eating until everyone at the table has received their food.
+Q.
+    Never complain if the line is too
+    long, the food isn’t go...") Q Never complain if the line is too long, the food isn’t good, or if there is a wait.
+R.
+    If your are unsure which silverware to use,
+    simply start ...") R If your are unsure which silverware to use, simply start with the fork, knife, or spoon that is the farthest from your plate. On the left, your salad fork is on the outside and your dinner fork is on the inside. On the far right, is your soup spoon. Beside it, is the spoon you will use to stir your coffee or tea, then your salad knife, and then your dinner knife. The utensils above your plate are for dessert.
+S.
+    When finished eating, do not push
+    your plate away from yo...") S When finished eating, do not push your plate away from you. Leave it where it is. To show you have finished eating, lay your fork and knife together diagonally across the plate. Place the fork with the tines down; place the sharp side of the knife facing you. Of the two utensils, the fork should be closest to you.
+T.
+    Never place a piece of silverware
+    that you have used back...") T Never place a piece of silverware that you have used back on the table. Leave it on a plate or saucer.
+U.
+    If you didn’t use a utensil, do not
+    place it on a plate o...") U If you didn’t use a utensil, do not place it on a plate or saucer when you are finished. Leave it where it is.
+V.
+    Always look a waiter in the eyes when
+    your are ordering, ...") V Always look a waiter in the eyes when your are ordering, asking a question, or saying “thank you.”
+W.
+    Make a point to remember the
+    waiter’s name when he introd...") W Make a point to remember the waiter’s name when he introduces himself to you. Use their name throughout the meal.
+X.
+    If you have to go the the rest room,
+    stand up and say, “e...") X If you have to go the the rest room, stand up and say, “excuse me,” as you leave the table
+Y.
+    When you are offered desserts or
+    asked a question, such a...") Y When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
+Z.
+    Never talk to waiters or waitresses
+    as if they are servan...") Z Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDYyOTY1ODMsMTM1MTExNDI3MSwxOD
-kzNDk2Mjc3XX0=
+eyJoaXN0b3J5IjpbMTA0Njk4OTEyNywxMzUxMTE0MjcxLDE4OT
+M0OTYyNzddfQ==
 -->
