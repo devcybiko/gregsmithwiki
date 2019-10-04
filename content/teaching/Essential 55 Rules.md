@@ -31,7 +31,13 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 25. Greet visitors and make them feel welcome
 26. Do not save seats in the lunchroom
 27. Do not stare at a student who is being reprimanded
-28. 
+28. Call or text me if you have a question about homework and leave a message - once
+29. Follow the ABCs of etiquette
+30. After dining in the cafeteria or elsewhere, be responsible for your trash
+31. In a hotel room, leave a tip for the hotel workers who clean your room
+32. On a bus, van, or plane, always face forward
+33. When meeting new people, shake hands and repeat their names
+34. When offered food,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5MzQ5NjI3N119
+eyJoaXN0b3J5IjpbMTYzMDQ1Mzk4MCwxODkzNDk2Mjc3XX0=
 -->
