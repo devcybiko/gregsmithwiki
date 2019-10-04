@@ -44,6 +44,13 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 38. On a field trip, enter a public building quietly
 39. Be a good guest
 40. During an assembly, do not speak or cal out to friends
+41. Use appropriate phone etiquette at all times
+42. When returning from a trip, shake the hand of every chaperone
+43. On escalators, stand to the right, walk to the left
+44. When walking in line, keep your arms at your sides and move quietly
+45. Take schoolwide drills and and precautions seriously
+46. No talking in a movie theater during the movie
+47. Do 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTIzMTgyMzgsMTg5MzQ5NjI3N119
+eyJoaXN0b3J5IjpbOTE0NzUzODE4LDE4OTM0OTYyNzddfQ==
 -->
