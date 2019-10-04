@@ -5,32 +5,32 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 - Ron Clark
 
 ## Personal Behavior
-1. Be humble
-7. Cover your mouth when you seneze or coiugh and say excuse me
-22. Go out of your way to make others feel special
-29. Follow the ABCs of etiquette
-37. Be a good listener
-39. Be a good guest
-46. No talking in a movie theater during the movie
-49. Stand up for what you believe in
-50. Be positive and enjoy life
-51. Live so that you will never have regrets
-52. Learn from your mistakes and move on
-53. No matter the circumstances, always be honest
-54. Carpe Diem
-55. Be the best person you can be
+'1. Be humble
+'7. Cover your mouth when you seneze or coiugh and say excuse me
+'22. Go out of your way to make others feel special
+'29. Follow the ABCs of etiquette
+'37. Be a good listener
+'39. Be a good guest
+'46. No talking in a movie theater during the movie
+'49. Stand up for what you believe in
+'50. Be positive and enjoy life
+'51. Live so that you will never have regrets
+'52. Learn from your mistakes and move on
+'53. No matter the circumstances, always be honest
+'54. Carpe Diem
+'55. Be the best person you can be
 
 ## How to treat others
-2. Make eye contact.
-3. Congratulate and uplift other people
-4. Respect other people's comments, opinions, and ideas
-5. If you win, do not brag; if you lose, do not show anger
-6. If you are asked a question in conversation, ask a question in return
-. Do not show disrespect with gestures
-8. Always say thank you when given something
-9. When you receive something, do not insult the gift or the giver
-10. Suprise others by performing random acts of kindness
-11. When reviewing other's work give only the correct review
+'2. Make eye contact.
+'3. Congratulate and uplift other people
+'4. Respect other people's comments, opinions, and ideas
+'5. If you win, do not brag; if you lose, do not show anger
+'6. If you are asked a question in conversation, ask a question in return
+'8. Do not show disrespect with gestures
+'9. Always say thank you when given something
+'10. When you receive something, do not insult the gift or the giver
+'11. Suprise others by performing random acts of kindness
+'12. When reviewing other's work give only the correct review
 
 ## At Work
 14. Follow along when others are speaking or presenting
@@ -96,5 +96,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTMxODQyMzhdfQ==
+eyJoaXN0b3J5IjpbLTE5ODcwMDQwOTddfQ==
 -->
