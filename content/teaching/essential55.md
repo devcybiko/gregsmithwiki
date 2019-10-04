@@ -1,5 +1,7 @@
 # Essential 55 Rules
 
+[index](./index)
+
 From the Disney "Teacher of the year" and the NYT Bestselling author comes the classic guide to bringing out the best in your students.
 
 - Ron Clark
@@ -89,7 +91,8 @@ X. If you have to go to the restroom, stand up and say, "excuse me," as you leav
 Y. When you are offered desserts or asked a question, such as "What sides would you like?" or "What dressing would you like for your salad?" ask, "What are my options?" That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of the wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzU3NTk0MTQ1LDQ5NDQ5OTgwNCwtMTA5Nz
-Q3NzEwNSwtMTQ5MzUxNDgyMiwtNDA1NTc0MTEyLDEwNDY5ODkx
-MjcsMTM1MTExNDI3MSwxODkzNDk2Mjc3XX0=
+eyJoaXN0b3J5IjpbLTcyODM3OTgyNywzNTc1OTQxNDUsNDk0ND
+k5ODA0LC0xMDk3NDc3MTA1LC0xNDkzNTE0ODIyLC00MDU1NzQx
+MTIsMTA0Njk4OTEyNywxMzUxMTE0MjcxLDE4OTM0OTYyNzddfQ
+==
 -->
