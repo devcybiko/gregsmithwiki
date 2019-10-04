@@ -10,7 +10,15 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 4. Respect other students' comments, opinions, and ideas
 5. If you win, do not brag; if you lose, do not show anger
 6. If you are asked a question in conversation, ask a question in return
-7. Cover your mouth when you seneze or coiugh and say excu
+7. Cover your mouth when you seneze or coiugh and say excuse me
+8. Do not show disrespect with gestures
+9. Always say thank you when given something
+10. When you receive something, do not insult the gift or the giver
+11. Suprise others by performing random acts of kindness
+12. When grading others students' papers, give only the correct grade
+13. Follow along when we read together in class
+14. Answer all written questions with a complete sentence
+15. Do no
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2MzkxMjE1M119
+eyJoaXN0b3J5IjpbNjAyNzMzMjAyXX0=
 -->
