@@ -26,6 +26,12 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 20. When a substitute teacher is present, all class rules apply
 21. Follow the specific classroom protocols
 22. Go out of your way to make others feel special
+23. Know other teachers' names and greet them in the hall by name
+24. Keep yourself and the bathrooms clean and germ freee
+25. Greet visitors and make them feel welcome
+26. Do not save seats in the lunchroom
+27. Do not stare at a student who is being reprimanded
+28. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzk5NDQ2Ml19
+eyJoaXN0b3J5IjpbMTg5MzQ5NjI3N119
 -->
