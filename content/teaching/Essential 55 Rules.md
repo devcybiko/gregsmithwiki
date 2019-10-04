@@ -62,7 +62,8 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 
 ## The ABCs of Etiquette
 
-A. When you first sit down for a meal, immediately place your napkin in your lap. If your silverware is wrapped in a napking
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MTExNDI3MSwxODkzNDk2Mjc3XX0=
+eyJoaXN0b3J5IjpbLTEzNDYyOTY1ODMsMTM1MTExNDI3MSwxOD
+kzNDk2Mjc3XX0=
 -->
