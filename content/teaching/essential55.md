@@ -1,4 +1,3 @@
-
 # Essential 55 Rules
 
 From the Disney "Teacher of the year" and the NYT Bestselling author comes the classic guide to bringing out the best in your students.
