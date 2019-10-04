@@ -12,8 +12,13 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 38. Be a good listener
 40. Be a good guest
 39. No talking in a movie theater during the movie
-
-29. Call or text me if you have a question about homework and leave a message - once
+42. Stand up for what you believe in
+43. Be positive and enjoy life
+44. Live so that you will never have regrets
+45. Learn from your mistakes and move on
+46. No matter the circumstances, always be honest
+47. Carpe Diem
+48. Be the best person you can be
 
 ## How to treat others
 2. Make eye contact.
@@ -43,11 +48,13 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 26. Do not save seats in the cafe or in meetings
 27. Do not stare at an employee who is being reprimanded
 28. After dining in the cafeteria or elsewhere, be responsible for your trash
-32. When offered food, take only your fair share
-33. If someone drops something, pick it up
-34. Hold the door for people rather than letting it close on them
-38. Take companywide drills and and precautions seriously
-47. Use spaces not tabs for indentation
+29. Call or text your manager if you have a question about work and leave a message - once
+30. When offered food, take only your fair share
+31. If someone drops something, pick it up
+32. Hold the door for people rather than letting it close on them
+33. Take companywide drills and and precautions seriously
+34. Use spaces not tabs for indentation
+35. If anyone is bullying you, report it, and do not bully others
 
 ## On Travel
 29. In a hotel room, leave a tip for the hotel workers who clean your room
@@ -59,14 +66,6 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 35. When returning from a trip, shake the hand of every team member
 36. On escalators, stand to the right, walk to the left
 37. When walking in line, keep your arms at your sides and move quietly
-41. If anyone is bullying you, let me know, and do not bully others
-42. Stand up for what you believe in
-43. Be positive and enjoy life
-44. Live so that you will never have regrets
-45. Learn from your mistakes and move on
-46. No matter the circumstances, always be honest
-47. Carpe Diem
-48. Be the best person you can be
 
 ## The ABCs of Etiquette
 
@@ -97,5 +96,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxOTk2Mjc4MF19
+eyJoaXN0b3J5IjpbMjA3MTM5MDU4NF19
 -->
