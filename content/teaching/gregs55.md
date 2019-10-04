@@ -57,15 +57,15 @@ From the Disney "Teacher of the year" and the NYT Bestselling author comes the c
 '48. If anyone is bullying you, report it, and do not bully others
 
 ## On Travel
-31. In a hotel room, leave a tip for the hotel workers who clean your room
-32. On a bus, van, or plane, always face forward
-32. Enter a public building quietly (likewise, wherever you are, enter a meeting quietly)
-33. When meeting new people, shake hands and repeat their names
-34. During an presentation, do not speak or call out to others
-34. Use appropriate phone etiquette at all times
-35. When returning from a trip, shake the hand of every team member
-36. On escalators, stand to the right, walk to the left
-37. When walking in line, keep your arms at your sides and move quietly
+'31. In a hotel room, leave a tip for the hotel workers who clean your room
+'32. On a bus, van, or plane, always face forward
+'33. When meeting new people, shake hands and repeat their names
+'38. Enter a public building quietly (likewise, wherever you are, enter a meeting quietly)
+'40. During an presentation, do not speak or call out to others
+'41. Use appropriate phone etiquette at all times
+'42. When returning from a trip, shake the hand of every team member
+'43. On escalators, stand to the right, walk to the left
+'44. When walking in line, keep your arms at your sides and move quietly
 
 ## The ABCs of Etiquette
 
@@ -96,5 +96,5 @@ X. If you have to go the the rest room, stand up and say, “excuse me,” as yo
 Y. When you are offered desserts or asked a question, such as “What sides would you like?” or “What dressing would you like for your salad?” ask, “What are my options?” That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNjY0MDUzM119
+eyJoaXN0b3J5IjpbNjA4NDA2OTExXX0=
 -->
