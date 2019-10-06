@@ -1,11 +1,13 @@
 # Greg's Rules
-1.  I only do things where I either produce something, or learn something. All else is waste
-	1. Spending time with people reenforces harmony in relationships
+1.  I only do things where I either produce something, or learn something. All else is waste.
+	1. Spending time with people reenforces harmony in relationships.
+	2. Consider if what you're doing right now satisfies the rule.
+	3. Consider not watching TV (sports, sit-coms, movies)
 2.  Say yes when you can and no when you must
 3.  Have a "Yes-And" attitude
 4.  Assume positive intent
 5.  Adapt, Improvise, Overcome
-6.  you don’t need to know everything to get started
+6.  You don’t need to know everything to get started
 7.  Don’t complain unless you want something to change
 8. Be on time
 	1. If you can't be on time - alert the other person as soon as possible
@@ -13,5 +15,5 @@
 	3. If you have to cancel, offer to reschedule and specify a time
 9. Showing up is 80% of success
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEyMTQxMDkyNiwxNjIwODU0NTFdfQ==
+eyJoaXN0b3J5IjpbLTExOTM2NzczMTQsMTYyMDg1NDUxXX0=
 -->
