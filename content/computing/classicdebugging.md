@@ -6,6 +6,8 @@
 4. Insert an obviously wrong line of code - maybe we're not even getting here.
 5. Browsers
 	6. Always run with the Debugger and with Network/Debugging
+6. Make sure the HTML ids match the JQuery ID
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDcwMjA0MTUsMTgwNTYxNjM1OF19
+eyJoaXN0b3J5IjpbMTQ5NTUxODI3MSwtMTQ0NzAyMDQxNSwxOD
+A1NjE2MzU4XX0=
 -->
