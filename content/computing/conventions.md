@@ -1,20 +1,20 @@
 # Greg's Conventions
 
 * Parens or Parenthesis: `()`
-* Left-Parens: `(`
-* Right-Parens: `)`
+	* Left-Paren: `(`
+	* Right-Paren: `)`
 
 * Brackets or Square Brackets: `[]`
-* Left-Bracket: `[`
-* Right-Bracket: `]`
+	* Left-Bracket: `[`
+	* Right-Bracket: `]`
 
 * Braces or Curly Braces: `{}`
-* Left-Curly-Brace: `{`
-* Right-Curly-Brace: `}`
+	* Left-Curly-Brace: `{`
+	* Right-Curly-Brace: `}`
 
 * "Sub" indicates indexing by way of an array: `foo[a]` ("foo sub a")
 * "Sub" can also indicate calling a method: `foo(a)` ("call foo sub a")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjI1NTQzNzFdfQ==
+eyJoaXN0b3J5IjpbMTUzNzA5NzkxOSwtMTc2MjU1NDM3MV19
 -->
