@@ -7,6 +7,10 @@
 5.  adapt improvise overcome
 6.  you don’t need to know everything to get started
 7.  Don’t complain unless you want something to change
+8. Be on time
+	1. If you can't be on time - alert the other person as soon as possible
+	2. Be 5-15 minutes early. The Marines say "on time is late."  
+9. Showing up is 80% of success
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyMDg1NDUxXX0=
+eyJoaXN0b3J5IjpbMTc4ODY3NjM3NiwxNjIwODU0NTFdfQ==
 -->
