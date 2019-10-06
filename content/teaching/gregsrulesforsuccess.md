@@ -2,7 +2,6 @@
 
 1. Build upon your successes
 2. Steal like a Banshee
-
 1.Code a little – Test a little
 	1.Add some code
 	2.Add a console.log()
@@ -25,5 +24,5 @@
 	6.Check to see if Greg is Online
 	7.Get A Tutor
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzMTg5MDYzMl19
+eyJoaXN0b3J5IjpbLTEwMzk4ODUxNDYsLTgzMTg5MDYzMl19
 -->
