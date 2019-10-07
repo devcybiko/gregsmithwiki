@@ -2,6 +2,8 @@
 
 This is the "wiki" page for DataVis Support Subjects. See the #supportsubjects Slack channel for more details.
 
+Zoom: [https://zoom.us/j/524094448](https://zoom.us/j/524094448)
+
 * All sessions will be remote via Zoom.us
 * All sessions will be recorded and made available for students
 
@@ -19,6 +21,6 @@ This is the "wiki" page for DataVis Support Subjects. See the #supportsubjects S
 * Tableau
 * employee churn analysis and predictive analysis with R.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4ODEzNjM4MSwtMjQ1MTc5OTk1LDE1Nz
-M0MjE5NzddfQ==
+eyJoaXN0b3J5IjpbLTE3MTc1ODg5MywxOTg4MTM2MzgxLC0yND
+UxNzk5OTUsMTU3MzQyMTk3N119
 -->
