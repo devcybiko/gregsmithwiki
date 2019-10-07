@@ -4,7 +4,9 @@ This is the "wiki" page for DataVis Support Subjects. See the #supportsubjects S
 
 * All sessions will be remote via Zoom.us
 * All sessions will be recorded and made available for students
-* 
+
+## Subjects
+
 * R
 * TDM
 * Jupyter/Python loops 
@@ -16,5 +18,5 @@ This is the "wiki" page for DataVis Support Subjects. See the #supportsubjects S
 * Tableau
 * employee churn analysis and predictive analysis with R.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjg2NTM5ODM2LDE1NzM0MjE5NzddfQ==
+eyJoaXN0b3J5IjpbLTI0NTE3OTk5NSwxNTczNDIxOTc3XX0=
 -->
