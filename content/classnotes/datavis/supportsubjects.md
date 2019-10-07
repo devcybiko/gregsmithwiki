@@ -9,14 +9,16 @@ This is the "wiki" page for DataVis Support Subjects. See the #supportsubjects S
 
 * R
 * TDM
-* Jupyter/Python loops 
-* and building multi-layered for statements. 
-*  Even just going over past homework assignments for a "best practices" answer key would be helpful as we never got to see an actual working solution for any of our homeworks...
+* Jupyter/Python 
+	* loops 
+	* building multi-layered for statements. 
+*  Going over past homework assignments for a "best practices"
 * Any additional resources or information on setting up coding environments
 * S3
 * AWS
 * Tableau
 * employee churn analysis and predictive analysis with R.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0NTE3OTk5NSwxNTczNDIxOTc3XX0=
+eyJoaXN0b3J5IjpbMTk4ODEzNjM4MSwtMjQ1MTc5OTk1LDE1Nz
+M0MjE5NzddfQ==
 -->
