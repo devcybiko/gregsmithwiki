@@ -20,7 +20,13 @@ Zoom: [https://zoom.us/j/524094448](https://zoom.us/j/524094448)
 * AWS
 * Tableau
 * employee churn analysis and predictive analysis with R.
+* Git
+* JavaScript
+* D3js
+* HTML/CSS
+* Deployment
+* Unix/Linux Commands
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTc1ODg5MywxOTg4MTM2MzgxLC0yND
-UxNzk5OTUsMTU3MzQyMTk3N119
+eyJoaXN0b3J5IjpbLTE3ODc0MzYwMTMsMTk4ODEzNjM4MSwtMj
+Q1MTc5OTk1LDE1NzM0MjE5NzddfQ==
 -->
