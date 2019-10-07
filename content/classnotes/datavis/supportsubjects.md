@@ -1,9 +1,10 @@
 # DataVis Support Subjects
 
-This is the "wiki" page for DataVis S
-## Zoom Sessions
+This is the "wiki" page for DataVis Support Subjects. See the #supportsubjects Slack channel for more details.
 
-All se
+* All sessions will be remote via Zoom.us
+* All sessions will be recorded and made available for students
+* 
 * R
 * TDM
 * Jupyter/Python loops 
@@ -13,6 +14,7 @@ All se
 * S3
 * AWS
 * Tableau
+* employee churn analysis and predictive analysis with R.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MzI5NDc1LDE1NzM0MjE5NzddfQ==
+eyJoaXN0b3J5IjpbMjg2NTM5ODM2LDE1NzM0MjE5NzddfQ==
 -->
