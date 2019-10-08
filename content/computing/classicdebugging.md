@@ -18,9 +18,10 @@
 	1. Always look at the acute errors 
 11. Stay focused - fix one thing at a time.
 12. 2. If you keep getting the same error despite the fact that you made a change,  make sure you're editing the same time
-
+13. If the 'cycle time' between a change and seeing it on-screen is really long, Consider breaking the problem out into a smaller sample piece of code and debugging that instead.
+14. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNDgyMjk5Nyw5MTY1NjQ3MDEsMjE0MT
-AyOTIyMiwtOTAxMzExNzYwLDE0OTU1MTgyNzEsLTE0NDcwMjA0
-MTUsMTgwNTYxNjM1OF19
+eyJoaXN0b3J5IjpbLTE3Mzc0NTczODcsMTUyNDgyMjk5Nyw5MT
+Y1NjQ3MDEsMjE0MTAyOTIyMiwtOTAxMzExNzYwLDE0OTU1MTgy
+NzEsLTE0NDcwMjA0MTUsMTgwNTYxNjM1OF19
 -->
