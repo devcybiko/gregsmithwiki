@@ -15,6 +15,8 @@
 	3. If you have to cancel, offer to reschedule and specify a time
 9. Showing up is 80% of success
 10. When in conversation - ask about the other person.
+11. Find out what makes people happy - then give it to them.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MzI1MDE2NiwxNjIwODU0NTFdfQ==
+eyJoaXN0b3J5IjpbMTA5NTE1MDQ4NiwtMTgzMjUwMTY2LDE2Mj
+A4NTQ1MV19
 -->
