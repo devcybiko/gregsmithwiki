@@ -9,10 +9,9 @@
 6. Make sure the HTML ids match the JQuery ID
 7. Give the computer what it wants
 	8. File not found? Give it the file.
-	9. NaN? - Find out what value is not a number and give it a number
-	10. Division by zero? - find out what variable is zero and give it a value
-
+	9. NaN? - Find out what value is not a number and give it a number.
+	10. Division by zero? - find out what variable is zero and give it a value.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzI0MDAzMzEwLC05MDEzMTE3NjAsMTQ5NT
-UxODI3MSwtMTQ0NzAyMDQxNSwxODA1NjE2MzU4XX0=
+eyJoaXN0b3J5IjpbMTIxNTUxOTAzNCwtOTAxMzExNzYwLDE0OT
+U1MTgyNzEsLTE0NDcwMjA0MTUsMTgwNTYxNjM1OF19
 -->
