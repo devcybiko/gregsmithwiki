@@ -2,7 +2,7 @@
 
 1. Computers don't lie.
 	2. If it says something's broken - it's broken
-2. If you keep getting the same error despite the fact that you made a change, 
+2. If you keep getting the same error despite the fact that you made a change,  make sure you're editing the same time
 3. Print out values
 4. Print out data types of values
 5. Insert a debug line at the start and end of a function
@@ -17,8 +17,10 @@
 10. If something suddenly stops working - what changed?
 	1. Always look at the acute errors 
 11. Stay focused - fix one thing at a time.
+12. 2. If you keep getting the same error despite the fact that you made a change,  make sure you're editing the same time
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTE2NTY0NzAxLDIxNDEwMjkyMjIsLTkwMT
-MxMTc2MCwxNDk1NTE4MjcxLC0xNDQ3MDIwNDE1LDE4MDU2MTYz
-NThdfQ==
+eyJoaXN0b3J5IjpbMTUyNDgyMjk5Nyw5MTY1NjQ3MDEsMjE0MT
+AyOTIyMiwtOTAxMzExNzYwLDE0OTU1MTgyNzEsLTE0NDcwMjA0
+MTUsMTgwNTYxNjM1OF19
 -->
