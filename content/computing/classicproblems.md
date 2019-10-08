@@ -8,7 +8,9 @@
 	1. Be sure that variables don't have a misspelling
 	2. Use Copy/Paste rather than fat-fingering your variable names
 	3. IF you have a global variable, make sure you 'global' define it. And make sure the global variable name is correctly spelled everywhere
+6. A file or variable array is appending rather than resetting
+	1. It's probably because you didn't reset the list 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEyODEyMzk1NSwxNDgxMjEwMzg3LC0xMT
-gwODQ3ODFdfQ==
+eyJoaXN0b3J5IjpbLTM1MDIzMTY1NiwxMTI4MTIzOTU1LDE0OD
+EyMTAzODcsLTExODA4NDc4MV19
 -->
