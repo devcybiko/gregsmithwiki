@@ -20,8 +20,9 @@
 12. 2. If you keep getting the same error despite the fact that you made a change,  make sure you're editing the same time
 13. If the 'cycle time' between a change and seeing it on-screen is really long, Consider breaking the problem out into a smaller sample piece of code and debugging that instead.
 14. If you keep getting the same errror despite the fact that you made a change - make sure you saved the file.
+15. 14. If you keep getting the same errror despite the fact that you made a change - make sure you edited the right file - in the right folder.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODk0ODM2ODcsMTUyNDgyMjk5Nyw5MT
-Y1NjQ3MDEsMjE0MTAyOTIyMiwtOTAxMzExNzYwLDE0OTU1MTgy
-NzEsLTE0NDcwMjA0MTUsMTgwNTYxNjM1OF19
+eyJoaXN0b3J5IjpbODM4ODY0MDg5LDE1MjQ4MjI5OTcsOTE2NT
+Y0NzAxLDIxNDEwMjkyMjIsLTkwMTMxMTc2MCwxNDk1NTE4Mjcx
+LC0xNDQ3MDIwNDE1LDE4MDU2MTYzNThdfQ==
 -->
