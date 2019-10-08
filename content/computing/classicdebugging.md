@@ -13,7 +13,9 @@
 	8. File not found? Give it the file.
 	9. NaN? - Find out what value is not a number and give it a number.
 	10. Division by zero? - find out what variable is zero and give it a value.
+9. If something suddenly stops working - what changed?
+	1. Always look at the acute errors 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMwOTgzOTQsLTkwMTMxMTc2MCwxND
-k1NTE4MjcxLC0xNDQ3MDIwNDE1LDE4MDU2MTYzNThdfQ==
+eyJoaXN0b3J5IjpbMjE0MTAyOTIyMiwtOTAxMzExNzYwLDE0OT
+U1MTgyNzEsLTE0NDcwMjA0MTUsMTgwNTYxNjM1OF19
 -->
