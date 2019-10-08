@@ -21,9 +21,9 @@
 13. If the 'cycle time' between a change and seeing it on-screen is really long, Consider breaking the problem out into a smaller sample piece of code and debugging that instead.
 14. If you keep getting the same errror despite the fact that you made a change - make sure you saved the file.
 15. If you keep getting the same errror despite the fact that you made a change - make sure you edited the right file - in the right folder.
+16. FOr code that is taking a long time to run, consider returning a static value at the top of the function that is slow during the testing.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMjE4ODI4MDIsODM4ODY0MDg5LDE1Mj
-Q4MjI5OTcsOTE2NTY0NzAxLDIxNDEwMjkyMjIsLTkwMTMxMTc2
-MCwxNDk1NTE4MjcxLC0xNDQ3MDIwNDE1LDE4MDU2MTYzNThdfQ
-==
+eyJoaXN0b3J5IjpbNTgxODA3MDE0LDgzODg2NDA4OSwxNTI0OD
+IyOTk3LDkxNjU2NDcwMSwyMTQxMDI5MjIyLC05MDEzMTE3NjAs
+MTQ5NTUxODI3MSwtMTQ0NzAyMDQxNSwxODA1NjE2MzU4XX0=
 -->
