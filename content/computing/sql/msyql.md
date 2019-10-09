@@ -59,7 +59,10 @@ The  [**mysql_config_editor**](https://dev.mysql.com/doc/refman/5.6/en/mysql-con
 
 ## **Other Basic MySQL Commands**
 
+From [https://blog.runcloud.io/2018/12/12/retrieve-your-root-password-and-other-invaluable-mysql-commands.html](https://blog.runcloud.io/2018/12/12/retrieve-your-root-password-and-other-invaluable-mysql-commands.html)
+
 Even though you can run some basic MySQL commands in the RunCloud control panel, it would not hurt to know how to do the same tasks in command line. Below are some of the basic commands that should get you going. When you run the commands below, replace the database name of your choice at the _DatabaseNameHere_.  
+
 To show the available databases.  
 **_SHOW DATABASES;_**  
 Creating a database.  
@@ -77,6 +80,6 @@ To grant the user privileges. (This user will only be able to connect only from 
 **_-> WITH GRANT OPTION;_**  
 Well, these are some of the basic commands that you can run using the command line. The same commands above can also be done using the RunCloud control panel. If you are new to administering a MySQL server using command line, getting used to these commands is a good start!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTc2NTk3MTQsLTE3OTgzNTI3MzYsLT
-EyNTMyOTk3OF19
+eyJoaXN0b3J5IjpbMTg0MDg3ODY1MSwtMTc5ODM1MjczNiwtMT
+I1MzI5OTc4XX0=
 -->
