@@ -8,7 +8,7 @@ var1='A'
 var2='B'
 
 my_function () {
-  local foo = $1
+  local foo=$1
   echo "foo=$foo"
   local var1='C'
   var2='D'
@@ -17,7 +17,7 @@ my_function () {
 
 echo "Before executing function: var1: $var1, var2: $var2"
 
-my_function
+my_function bar
 
 echo "After executing function: var1: $var1, var2: $var2"
 ```
@@ -25,9 +25,10 @@ echo "After executing function: var1: $var1, var2: $var2"
 Output
 ```
 Before executing function: var1: A, var2: B
+foo=bar
 Inside function: var1: C, var2: D
 After executing function: var1: A, var2: D
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU5MjcwNTE5XX0=
+eyJoaXN0b3J5IjpbLTI4MDIxNTY0MF19
 -->
