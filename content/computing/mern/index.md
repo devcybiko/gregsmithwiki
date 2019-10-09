@@ -11,10 +11,11 @@ N: Node.js
 ## Conventions
 
 1. Terminal 
+	- in all cases in these tutorials, I will use the word 'terminal' to describe a command window that expects Linux-like commands. It's the "/Applicaitons/Utilities/Terminal.app" and
 	- in MacOS: cmd-space, "Terminal"
-	- in 
+	- in Windows: gitbash
 $(folders)
 $(files)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzM4OTQwOF19
+eyJoaXN0b3J5IjpbMTUxNDczMTk2Nl19
 -->
