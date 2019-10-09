@@ -41,11 +41,11 @@ and add the following content to this file. Change username and password as per 
        `chmod 600 ~/.my.cnf`
     
 3. All done. Lets test the setup. I have used the following commands to verify the above configurations. First commands will allow you login to mysql server without prompting password and second command will backup all your databases without password.
-
+```
 		mysql -h localhost -u myuser
 		mysqldump -h localhost -u myuser --all-databases > alldb.sql
-
+```
 4. You can use commands in any shell script or schedule crontab for backup. You don’t need to specify MySQL user password in script or command.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODQwNjU0OSwtMTI1MzI5OTc4XX0=
+eyJoaXN0b3J5IjpbMTA5MzY3MjMyOSwtMTI1MzI5OTc4XX0=
 -->
