@@ -1,4 +1,4 @@
-# Git Setup
+# MacOS Git Setup
 
 1. Create a [GitHub]([https://github.com/](https://github.com/)) account
 
@@ -11,5 +11,5 @@
 1. Change directory to your git folder
 	- `cd ~/git`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2NzkyMzU3NiwxODYyMzgxOTQ2XX0=
+eyJoaXN0b3J5IjpbOTUxMDcxNTQxLDE4NjIzODE5NDZdfQ==
 -->
