@@ -52,6 +52,31 @@ and add the following content to this file. Change username and password as per 
 The  [**mysql_config_editor**](https://dev.mysql.com/doc/refman/5.6/en/mysql-config-editor.html "4.6.6 mysql_config_editor — MySQL Configuration Utility")  utility enables you to store authentication credentials in an obfuscated login path file named  `.mylogin.cnf`. The file location is the  `%APPDATA%\MySQL`  directory on Windows and the current user's home directory on non-Windows systems. The file can be read later by MySQL client programs to obtain authentication credentials for connecting to MySQL Server.
 
 [https://dev.mysql.com/doc/refman/5.6/en/mysql-config-editor.html](https://dev.mysql.com/doc/refman/5.6/en/mysql-config-editor.html)
+
+## Retrieving Username/Password
+
+[https://blog.runcloud.io/2018/12/12/retrieve-your-root-password-and-other-invaluable-mysql-commands.html](https://blog.runcloud.io/2018/12/12/retrieve-your-root-password-and-other-invaluable-mysql-commands.html)
+
+## **Other Basic MySQL Commands**
+
+Even though you can run some basic MySQL commands in the RunCloud control panel, it would not hurt to know how to do the same tasks in command line. Below are some of the basic commands that should get you going. When you run the commands below, replace the database name of your choice at the _DatabaseNameHere_.  
+To show the available databases.  
+**_SHOW DATABASES;_**  
+Creating a database.  
+**_CREATE DATABASE DatabaseNameHere;_**  
+Delete a database. You need a ‘_drop_’ privilege (or root user) to drop a database and the database must not be used (open for reading or writing by any user) at the particular time. Be careful when running this command as it will not prompt for confirmation and it will drop all the tables inside the database.  
+**_DROP DATABASE DatabaseNameHere;_**  
+To use or operate on a particular database. The MySQL prompt will change to reflect the database name that you have specified.  
+**_USE_ _DatabaseNameHere;_**  
+To find out what database you are currently operating in, run the following command.  
+**_SELECT database();_**  
+To create a MySQL account. Change the _UsernameHere_ and _PasswordHere_ according to you preferences.  
+**_CREATE USER ‘UsernameHere’@’localhost’ IDENTIFIED BY ‘PasswordHere’;_**  
+To grant the user privileges. (This user will only be able to connect only from the local host)  
+**_GRANT ALL PRIVILEGES ON *.* TO ‘UsernameHere’@’localhost’_**  
+**_-> WITH GRANT OPTION;_**  
+Well, these are some of the basic commands that you can run using the command line. The same commands above can also be done using the RunCloud control panel. If you are new to administering a MySQL server using command line, getting used to these commands is a good start!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3OTgzNTI3MzYsLTEyNTMyOTk3OF19
+eyJoaXN0b3J5IjpbLTEyMTc2NTk3MTQsLTE3OTgzNTI3MzYsLT
+EyNTMyOTk3OF19
 -->
