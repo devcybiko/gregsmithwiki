@@ -16,12 +16,7 @@
 	<span style="color:blue">`greg$ npm -v`</span>
 	`6.9.0`
 
-1. Create a [GitHub]([https://github.com/](https://github.com/)) account
-1. Create a local git folder for all your git projects
-	- `mkdir ~/git`
-1. Change directory to your git folder
-	- `cd ~/git`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NzIxODc4ODFdfQ==
+eyJoaXN0b3J5IjpbLTc4MzIzMjI5MV19
 -->
