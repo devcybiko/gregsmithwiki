@@ -10,16 +10,13 @@
 Installing latest LTS version.
 Downloading and installing node v10.16.3...
 
-greg$ nvm use --lts
+<span style="color:blue">`greg$ nvm use --lts`</span>
+`Now using node v10.16.3 (npm v6.9.0)`
+<span style="color:blue">`greg$ node -v`</span>
 
-Now using node v10.16.3 (npm v6.9.0)
+`v10.16.3`
 
-01-Activities$ node -v
-
-v10.16.3
-
-01-Activities$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwOTQyOTg2OF19
+eyJoaXN0b3J5IjpbMTcxNzI2NDE5MV19
 -->
