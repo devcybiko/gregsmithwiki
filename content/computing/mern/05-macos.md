@@ -17,7 +17,8 @@ Downloading and installing node v10.16.3...
 <span style="color:blue">`greg$ npm -v`</span>
 `6.9.0`
 
-5. Install git
+5. Install [git]([https://hackernoon.com/install-git-on-mac-a884f0c9d32c](https://hackernoon.com/install-git-on-mac-a884f0c9d32c))
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ5NDY2NjMsMjA4NjE5NjEwN119
+eyJoaXN0b3J5IjpbLTk1NjE2MjMyMSw1NDk0NjY2MywyMDg2MT
+k2MTA3XX0=
 -->
