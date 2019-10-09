@@ -1,14 +1,12 @@
 # MacOS Setup
 
-This is the set up wiki for MERN:
+Set up steps...
 
-M: mySQL / Mongodb
-E: Express
-R: React
-N: Node.js
+1. Open a [TERMINAL window](https://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line): 
+1. Install [BREW](https://brew.sh/)
 
 $(folders)
 $(files)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxNDE0MzUyNDNdfQ==
+eyJoaXN0b3J5IjpbLTE4MTA3MjUyMjddfQ==
 -->
