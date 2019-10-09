@@ -15,9 +15,10 @@ N: Node.js
 	- in MacOS: cmd-space, "Terminal"
 	- in Windows: gitbash
 1. Command vs. Control keys
-	- There's a lot of confusion between the "Command key" on the MacOS keyboard and the "Control key" on the Windows keyboard. The problem is that the "Control Key" is used in the Terminal 
+	- There's a lot of confusion between the "Command key" on the MacOS keyboard and the "Control key" on the Windows keyboard. The problem is that the "Control Key" is used in the Terminal for specific things (like `ctrl-c` to stop a job).
+	- In these tutorials, I will always use `cmd-*` keys when talking keys used for 
 $(folders)
 $(files)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxOTU4MzQ0XX0=
+eyJoaXN0b3J5IjpbLTI2MDU0OTAwOF19
 -->
