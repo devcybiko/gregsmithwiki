@@ -16,19 +16,34 @@
 
 |Command|Description|
 |---|---|
-|cd |change directory (folder) (with no parameters, changes to `home`)|
-|cd ~ |change directory to `home` folder
+|cd |change directory (folder) (with no parameters, changes to `home`)|
+|cd ~ |change directory to `home` folder
 |cd ..|change directory to the previous folder (up one folder in folder tree)
 |ls|lists files in folder|
 |ls -latr| lists all files (including hidden '.' files) in long, all, time-ordered, reverse|
-|pwd |print working directory (current folder)
+|pwd |print working directory (current folder)
 |mkdir {FOLDERNAME}|creates new directory (folder)
-|touch {FILENAME} |updates last time edited on a file (creates a file if it doesn't already exist)
+|touch {FILENAME} |updates last time edited on a file (creates a file if it doesn't already exist)
 |rm {FILENAME}|removes a file `(danger: this PERMANENTLY removes the file - does not throw it in Trash)`
-|rm -r {FOLDERNAME} |deletes a folder and everything within, note the –r (recursive)
+|rm -r {FOLDERNAME} |deletes a folder and everything within, note the –r (recursive)
 
 |MACOS|GIT BASH|
 |---|---|
-|open .  (opens the current folder)|explorer .  (opens the current folder.)|
-|open {FILENAME}  (opens a specific file)|explorer {FILENAME}  (opens the specific file in the appropriate App.)|
+|open . 
+(opens the current folder)|explorer . 
+(opens the current folder.)|
+|open {FILENAME} 
+(opens a specific file)|explorer {FILENAME} 
+(opens the specific file in the appropriate App.)|
 
+Bash Functions
+```sh
+my_function () {
+  local var1='C'
+  var2='D'
+  echo "Inside function: var1: $var1, var2: $var2"
+}
+```
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTkxMjE4ODUyN119
+-->
