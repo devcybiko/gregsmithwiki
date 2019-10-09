@@ -16,12 +16,15 @@ Downloading and installing node v10.16.3...
 `v10.16.3`
 <span style="color:blue">`greg$ npm -v`</span>
 `6.9.0`
-
+4.
 5. Install [git]([https://hackernoon.com/install-git-on-mac-a884f0c9d32c](https://hackernoon.com/install-git-on-mac-a884f0c9d32c))
 6. Create a [GitHub]([https://github.com/](https://github.com/)) account
 7. Create a local git folder for all your git projects
-	- `mk
+	- `mkdir ~/git`
+8. Change directory to your git project
+	- `cd ~/git`
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjQ4NDUyMTI5LC05NTYxNjIzMjEsNTQ5ND
+eyJoaXN0b3J5IjpbOTcyNzg2NDA2LC05NTYxNjIzMjEsNTQ5ND
 Y2NjMsMjA4NjE5NjEwN119
 -->
