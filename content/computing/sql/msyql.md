@@ -1,10 +1,21 @@
 # mySQL Cheat Sheet
 
-## Export
-`mysqldump -u _username_ -p _dbname_ > dbexport.sql`
+## Export Entire DB
+`mysqldump -u username -p dbname > dbexport.sql`
 
-## Import
-`mysql -u _username_ -p _dbname_ < dbexport.sql`
+## Import Entire DB
+`mysql -u username -p dbname < dbexport.sql`
+
+## Exporting a Single Table
+To export the table run the following command from the command line:  
+`mysqldump -p  ––user=username  dbname_  _tableName_  >  _tableName.sql”_
+
+This will export the tableName to the file tableName.sql.  
+[NOTE: there should be no space between the two dashes, but I have to write it that way so that it display properly].
+
+**Importing the Table  
+**To import the table run the following command from the command line:  
+mysql -u  _username_  -p -D  _dbname_  <  _tableName.sql_
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDU0MzM4Ml19
+eyJoaXN0b3J5IjpbMTM1ODMwOTk2M119
 -->
