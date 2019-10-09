@@ -6,10 +6,8 @@
 4. Install the latest (Long-Term Support) version of Node.js:
 
 <span style="color:blue">`greg$ nvm install --lts`</span>
-```
-Installing latest LTS version.
-Downloading and installing node v10.16.3...
-```
+```Installing latest LTS version.
+Downloading and installing node v10.16.3...```
 <span style="color:blue">`greg$ nvm use --lts`</span>
 `Now using node v10.16.3 (npm v6.9.0)`
 <span style="color:blue">`greg$ node -v`</span>
@@ -17,5 +15,5 @@ Downloading and installing node v10.16.3...
 <span style="color:blue">`greg$ npm -v`</span>
 `6.9.0`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4NjE5NjEwN119
+eyJoaXN0b3J5IjpbOTk1MTQ1MDM1XX0=
 -->
