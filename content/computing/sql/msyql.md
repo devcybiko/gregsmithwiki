@@ -15,6 +15,12 @@ $(toc)
 ## Importing a Single Table  
 
 `mysql -u  username  -p -D  dbname  <  tableName.sql`
+
+## Running a Script
+
+## Running a Script without Passwords
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTMyOTk3OF19
+eyJoaXN0b3J5IjpbLTExOTg0NDM1NTAsLTEyNTMyOTk3OF19
 -->
