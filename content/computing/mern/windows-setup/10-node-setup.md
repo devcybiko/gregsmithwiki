@@ -1,7 +1,7 @@
 
 # Windows Node Setup
 
-1. Install [NVM](https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/)
+1. Install [NVM for Windows](https://medium.com/appseed-io/how-to-run-multiple-versions-of-node-js-with-nvm-for-windows-ffbe5c7a2b47)
 1. Install the latest (Long-Term Support) version of Node.js:
 
 	<span style="color:blue">`greg$ nvm install --lts`</span>
@@ -18,5 +18,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE5NzQ3NzEsLTc4MzIzMjI5MV19
+eyJoaXN0b3J5IjpbMTY3Njg1MjcyMSwtMTMxMTk3NDc3MSwtNz
+gzMjMyMjkxXX0=
 -->
