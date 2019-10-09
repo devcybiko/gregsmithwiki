@@ -1,6 +1,8 @@
 
 # MacOS Node Setup
 
+## In the Terminal
+
 1. Install [NVM](https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/)
 1. Install the latest (Long-Term Support) version of Node.js:
 
@@ -18,5 +20,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzIzMjI5MV19
+eyJoaXN0b3J5IjpbODc5MjQ5MTI3LC03ODMyMzIyOTFdfQ==
 -->
