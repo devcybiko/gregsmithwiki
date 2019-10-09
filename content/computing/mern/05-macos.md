@@ -5,12 +5,12 @@
 3. Install NVM: [https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/](https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/)
 4. Install the latest (Long-Term Support) version of Node.js:
 
-<span style="color:blue">blue</span>
-
+<span style="color:blue">`greg$ nvm install --lts`</span>
+```
 Installing latest LTS version.
 Downloading and installing node v10.16.3...
 
-01-Activities$ nvm use --lts
+greg$ nvm use --lts
 
 Now using node v10.16.3 (npm v6.9.0)
 
@@ -21,5 +21,5 @@ v10.16.3
 01-Activities$
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3ODI2MTU2Ml19
+eyJoaXN0b3J5IjpbMjEwOTQyOTg2OF19
 -->
