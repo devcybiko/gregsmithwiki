@@ -18,7 +18,9 @@ Downloading and installing node v10.16.3...
 `6.9.0`
 
 5. Install [git]([https://hackernoon.com/install-git-on-mac-a884f0c9d32c](https://hackernoon.com/install-git-on-mac-a884f0c9d32c))
+6. Create a [GitHub]([https://github.com/](https://github.com/)) account
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1NjE2MjMyMSw1NDk0NjY2MywyMDg2MT
-k2MTA3XX0=
+eyJoaXN0b3J5IjpbLTE2Njk2MDM4NDQsLTk1NjE2MjMyMSw1ND
+k0NjY2MywyMDg2MTk2MTA3XX0=
 -->
