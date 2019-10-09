@@ -27,7 +27,7 @@ From: [https://tecadmin.net/mysql-commands-without-password-prompt/](https://tec
 
 and add the following content to this file. Change username and password as per your system configuation.
 
-
+```
     [mysql]
     user = myuser
     password = secret
@@ -35,17 +35,17 @@ and add the following content to this file. Change username and password as per 
 	[mysqldump]
 	user = myuser
 	password = secret
-
+```
 2. Now secure the newly created configuration file.
 
-       chmod 600 ~/.my.cnf
+       `chmod 600 ~/.my.cnf`
     
 3. All done. Lets test the setup. I have used the following commands to verify the above configurations. First commands will allow you login to mysql server without prompting password and second command will backup all your databases without password.
 
-mysql -h localhost -u myuser
-mysqldump -h localhost -u myuser --all-databases > alldb.sql
+		mysql -h localhost -u myuser
+		mysqldump -h localhost -u myuser --all-databases > alldb.sql
 
-You can use commands in any shell script or schedule crontab for backup. You don’t need to specify MySQL user password in script or command.
+4. You can use commands in any shell script or schedule crontab for backup. You don’t need to specify MySQL user password in script or command.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NTIwNjMwNSwtMTI1MzI5OTc4XX0=
+eyJoaXN0b3J5IjpbLTE2ODQwNjU0OSwtMTI1MzI5OTc4XX0=
 -->
