@@ -47,6 +47,20 @@ and add the following content to this file. Change username and password as per 
 ```
 4. You can use commands in any shell script or schedule crontab for backup. You don’t need to specify MySQL user password in script or command.
 
+5. Multiple Databases
+· **--****defaults****-group-suffix=**str
+
+  
+
+Read not only the usual option groups, but also groups with the
+
+usual names and a suffix of str. For example, **mysql** normally reads
+
+the [client] and [mysql] groups. If the
+
+**--****defaults****-group-suffix=_other** option is given, **mysql** also reads
+
+the [client_other] and [mysql_other] groups.
 ## Encrypted Per User Passwords
 
 The  [**mysql_config_editor**](https://dev.mysql.com/doc/refman/5.6/en/mysql-config-editor.html "4.6.6 mysql_config_editor — MySQL Configuration Utility")  utility enables you to store authentication credentials in an obfuscated login path file named  `.mylogin.cnf`. The file location is the  `%APPDATA%\MySQL`  directory on Windows and the current user's home directory on non-Windows systems. The file can be read later by MySQL client programs to obtain authentication credentials for connecting to MySQL Server.
@@ -80,6 +94,6 @@ To grant the user privileges. (This user will only be able to connect only from 
 **_-> WITH GRANT OPTION;_**  
 Well, these are some of the basic commands that you can run using the command line. The same commands above can also be done using the RunCloud control panel. If you are new to administering a MySQL server using command line, getting used to these commands is a good start!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg0MDg3ODY1MSwtMTc5ODM1MjczNiwtMT
-I1MzI5OTc4XX0=
+eyJoaXN0b3J5IjpbLTExOTE4NDcxNTAsMTg0MDg3ODY1MSwtMT
+c5ODM1MjczNiwtMTI1MzI5OTc4XX0=
 -->
