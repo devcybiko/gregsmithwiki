@@ -14,9 +14,10 @@ N: Node.js
 	- in all cases in these tutorials, I will use the word 'terminal' to describe a command window that expects Linux-like commands. It's the "/Applicaitons/Utilities/Terminal.app" and in WIndows, it's the 'gitbash' utility (not the DOS Command Window).
 	- in MacOS: cmd-space, "Terminal"
 	- in Windows: gitbash
-
+1. Command vs. Control keys
+	- There's a lot of confusion between the "Command key" on the MacOS keyboard and the "Control key" on the Windows keyboard. The problem is that the "Control Key" is used in the Terminal 
 $(folders)
 $(files)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyNDE3MDg2OF19
+eyJoaXN0b3J5IjpbMzIxOTU4MzQ0XX0=
 -->
