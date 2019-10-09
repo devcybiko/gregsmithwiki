@@ -1,4 +1,3 @@
-
 # MacOS Node Setup
 
 ## In the Terminal
@@ -20,5 +19,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc5MjQ5MTI3LC03ODMyMzIyOTFdfQ==
+eyJoaXN0b3J5IjpbLTE1ODUzNDM0MDMsLTc4MzIzMjI5MV19
 -->
