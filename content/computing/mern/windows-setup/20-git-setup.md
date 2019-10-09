@@ -1,4 +1,4 @@
-# Git Setup
+# Windows Git Setup
 
 1. Create a [GitHub]([https://github.com/](https://github.com/)) account
 
@@ -10,6 +10,8 @@
 	- `mkdir ~/git`
 1. Change directory to your git folder
 	- `cd ~/git`
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NDE4MDU2NiwtODY3OTIzNTc2XX0=
+eyJoaXN0b3J5IjpbLTE4NTY3NTcyMywtODY3OTIzNTc2XX0=
 -->
