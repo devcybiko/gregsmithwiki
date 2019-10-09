@@ -1,9 +1,11 @@
 # Node.js Setup
 
-```npm install create-react-app -g```
+1. Change to your git folder
+	2. `cd ~/git`
+2. Create
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDQ3ODgyMTEsMTQ1OTEyNDUyMF19
+eyJoaXN0b3J5IjpbNjMwMTU0NTQ2LDE0NTkxMjQ1MjBdfQ==
 -->
