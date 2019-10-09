@@ -19,7 +19,9 @@ NOTE: This tutorial does not use _Git GUI_. We'll be doing all our `git` interac
 Simply right-click on a folder in Windows Explorer to access the BASH or GUI.
 $(files)
 
+## Do the following set up tutorials in order
+
 (files)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NTg5MDAwMV19
+eyJoaXN0b3J5IjpbLTE1OTgxMTM4N119
 -->
