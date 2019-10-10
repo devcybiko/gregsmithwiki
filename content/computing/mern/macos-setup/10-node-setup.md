@@ -3,7 +3,16 @@
 ## In the Terminal
 
 1. Install [NVM](https://nodesource.com/blog/installing-node-js-tutorial-using-nvm-on-mac-os-x-and-ubuntu/)
-1. Install the latest (Long-Term Support) version of Node.js:
+-   Download the nvm install script via cURL:
+    -   `curl -o- https://raw.githubusercontent.com/creationix/nvm/v0.33.0/install.sh | bash`
+-   Ensure that nvm was installed correctly with  `nvm --version`, which should return the version of nvm installed.
+-   Install the version of Node.js you want
+    -   Install the latest version with  `nvm install node`
+    -   Use the latest version with  `nvm use node`
+    -   Install the latest LTS version with  `nvm install --lts`
+    -   Use the latest LTS verison with  `nvm use --lts`
+
+2. Install the latest (Long-Term Support) version of Node.js:
 
 	<span style="color:blue">`greg$ nvm install --lts`</span>
 	```
@@ -19,5 +28,6 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODUzNDM0MDMsLTc4MzIzMjI5MV19
+eyJoaXN0b3J5IjpbMTM2NDIyMzUyNCwtMTU4NTM0MzQwMywtNz
+gzMjMyMjkxXX0=
 -->
