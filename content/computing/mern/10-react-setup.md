@@ -8,6 +8,8 @@
 	4. `create-react-app project1`
 4. Go to the new project folder
 	5. `cd project1`
+5. Run the template project
+	6. `npm start`
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNTY2MzE0OF19
+eyJoaXN0b3J5IjpbMTc0NzY2NDM5XX0=
 -->
