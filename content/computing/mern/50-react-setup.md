@@ -2,8 +2,10 @@
 
 1. Install create-react-app
 	- `npm install -g create-react-app`
-1. Install [git]([https://hackernoon.com/install-git-on-mac-a884f0c9d32c](https://hackernoon.com/install-git-on-mac-a884f0c9d32c))
+2. Go to the `git` project directory
+	3. `cd ~/git`
+3. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxNzI4Mjc5Nl19
+eyJoaXN0b3J5IjpbLTE1MzIwODAzNDQsLTQxNzI4Mjc5Nl19
 -->
