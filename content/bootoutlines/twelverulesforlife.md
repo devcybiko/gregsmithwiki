@@ -7,7 +7,13 @@
 5. Do not let your children do anything that makes you dislike them
 6. Set your house in perfect order before you criticize the world
 7. Pursue what is meaningful (not what is expedient)
-8. 
+8. Tell the truth - or at least don't lie
+9. Assume that the person you are listening to might know something you don't
+10. Be precise in your speech
+11. Do not bother children when they are skateboarding
+12. Pet a cat when you encounter one on the strett
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNjAxMzQ5MywxMDI3Njk3MTI3XX0=
+eyJoaXN0b3J5IjpbMTczMTk3NTM0OSwxMDI3Njk3MTI3XX0=
 -->
