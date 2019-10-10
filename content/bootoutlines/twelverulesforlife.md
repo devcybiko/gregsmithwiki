@@ -7,6 +7,7 @@
 5. Do not let your children do anything that makes you dislike them
 6. Set your house in perfect order before you criticize the world
 7. Pursue what is meaningful (not what is expedient)
+8. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyNzY5NzEyN119
+eyJoaXN0b3J5IjpbMTQzNjAxMzQ5MywxMDI3Njk3MTI3XX0=
 -->
