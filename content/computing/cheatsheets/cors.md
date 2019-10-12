@@ -131,7 +131,7 @@ __Remember - call your app from the _browser address bar_ using `http://localhos
 
 Put the following code at the top of your server.js...
 
-This says _allow all CORS requests to pass through._
+This says __allow all CORS requests to pass through.__
 
 ```
 app.use(function (req, res, next) {
@@ -143,5 +143,6 @@ app.use(function (req, res, next) {
 
 ## That's it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1NjA2MTI2NiwtMTk0ODIyMjk3NV19
+eyJoaXN0b3J5IjpbLTUzMzQ1NzM1OCwtMzU2MDYxMjY2LC0xOT
+Q4MjIyOTc1XX0=
 -->
