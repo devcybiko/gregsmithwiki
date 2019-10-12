@@ -33,12 +33,6 @@ The first part (`file:`) is the protocol. Almost all APIs `HATE` file protocols.
 
 So, the first solution is to look like a respectable website by using a local server.
 
-### myserver
-
-I've written a little server for the `Spotify` API problems we were having. It runs in your `terminal` window and serves up your files just like you were on a proper web server. I'll explain how to download and install this later. Suffice it to say, it serves up your `index.html` and other static content as if it were a real web server - noj just your hard drive.
-
-This solves the first CORS problem.
-
 ## The Second Problem - Most APIs Hate Browsers
 
 It turns out that the CORS standard was designed to prevent us from doing just what we're doing - calling the APIs from the browser.
@@ -48,49 +42,6 @@ Modern browsers use the CORS standard to make sure that we're calling remote ser
 Not all of  the web servers play the game nicely - or they specifically want to prevent you from calling them from within a browser. The browsers are METICULOUS about CORS interactions. So any CORS responses we get that aren't PERFECT cause a rejection.
 
 And rejection sucks.
-
-## A Quick and Dirty Solution
-
-So, I added some code to `myserver` that acts as a proxy server. You call it with 'http://localhost/proxy/(API URL HERE). And `myserver` makes the call for you - and handles all the CORS errors.
-
-### Installing myserver
-
-Because this was created as part of the `Spotify` API problems we had, you'll find `myserver` in my `mySpotify` repo.
-
-### `git clone` or `git pull`
-
-If you haven't cloned the repo yet do the following:
-
-```
-$ cd <your git repo folder>
-$ git clone https://github.com/devcybiko/mySpotify.git
-$ cd mySpotify
-```
-
-If you already cloned `mySpotify` do this:
-
-```
-$ cd <your git repo folder>/mySpotify
-$ git pull
-```
-
-Now install `myserver`
-
-```
-$ npm install -g
-```
-
-And go to your project folder and run `myserver`
-
-```
-$ cd <your project folder>
-$ myserver
-server is listening on 80
-```
-
-__You can kill `myserver` by typing Control-C in the terminal window.__
-
-That's it - you're covered.
 
 ## Calling the proxy server from your code
 
@@ -142,6 +93,6 @@ app.use(function (req, res, next) {
 
 ## That's it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODU0MzAwODQsLTM1NjA2MTI2NiwtMT
-k0ODIyMjk3NV19
+eyJoaXN0b3J5IjpbMTEwMzE3OTgzMywtMjA4NTQzMDA4NCwtMz
+U2MDYxMjY2LC0xOTQ4MjIyOTc1XX0=
 -->
