@@ -127,8 +127,19 @@ __Remember - always run `myserver` in the same folder as your `index.html`.__
 __Remember - call your app from the _browser address bar_ using `http://localhost/index.html`__
 
 
-##
+## Setting up Node.js for CORS
+
+```
+app.use(function (req, res, next) {
+
+res.header('Access-Control-Allow-Origin', '*');
+
+res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+
+next();
+
+});```
 That's it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjUxNDE3NDJdfQ==
+eyJoaXN0b3J5IjpbODU1OTg3NDg3XX0=
 -->
