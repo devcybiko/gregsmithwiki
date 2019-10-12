@@ -43,41 +43,6 @@ Not all of  the web servers play the game nicely - or they specifically want to 
 
 And rejection sucks.
 
-## Calling the proxy server from your code
-
-When you call an API, just add `http://localhost/proxy/` to the APIs URL.
-
-Within your JavaScript code, you should create urls and make AJAX calls like this:
-
-```javascript
-// THIS IS JUST AN EXAMPLE - YOUR CODE WILL BE DIFFERENT
-var user_link = $('#user-link').val().trim();
-var repAuthKey = `vn6Eary-_CwcQYzmPx7z`;
-var ipURL = `https://www.enclout.com/api/v1/reputation/show.json?auth_token=${repAuthKey}&url=${user_link}`;
-
-// THIS IS THE IMPORTANT BIT
-var proxyURL = 'http://localhost/proxy/' + ipURL;
-//
-
-$.ajax({
-	url: proxyURL, // NOTICE THIS IS THE PROXYURL!
-	method: 'GET'
-}).then(function(response) {
-	updateDisplay(JSON.parse(response));
-});
-```
-
-## Finally - http://localhost/index.html
-
-FROM NOW ON: run `myserver` in the same folder as your `index.html` and call your app __from the browser address bar__ using the `localhost` domain name. Your URL should look like this:
-
-`http://localhost/index.html`
-
-__Remember - always run `myserver` in the same folder as your `index.html`.__
-
-__Remember - call your app from the _browser address bar_ using `http://localhost/index.html`__
-
-
 ## Setting up Node.js for CORS
 
 Put the following code at the top of your server.js...
@@ -93,6 +58,6 @@ app.use(function (req, res, next) {
 
 ## That's it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwMzE3OTgzMywtMjA4NTQzMDA4NCwtMz
-U2MDYxMjY2LC0xOTQ4MjIyOTc1XX0=
+eyJoaXN0b3J5IjpbLTIwNjM3MDM1NTksLTIwODU0MzAwODQsLT
+M1NjA2MTI2NiwtMTk0ODIyMjk3NV19
 -->
