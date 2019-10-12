@@ -131,15 +131,12 @@ __Remember - call your app from the _browser address bar_ using `http://localhos
 
 ```
 app.use(function (req, res, next) {
-
-res.header('Access-Control-Allow-Origin', '*');
-
-res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
-
-next();
-
+    res.header('Access-Control-Allow-Origin', '*');
+    res.header('Access-Control-Allow-Headers', 'Origin, X-Requested-With, Content-Type, Accept');
+    next();
 });```
-That's it. 
+
+## That's it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU1OTg3NDg3XX0=
+eyJoaXN0b3J5IjpbLTI1NDE2MTQ4OV19
 -->
