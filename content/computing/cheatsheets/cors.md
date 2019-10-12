@@ -129,6 +129,7 @@ __Remember - call your app from the _browser address bar_ using `http://localhos
 
 ## Setting up Node.js for CORS
 
+Put the following code at the top of your server.js...
 ```
 app.use(function (req, res, next) {
     res.header('Access-Control-Allow-Origin', '*');
@@ -139,5 +140,6 @@ app.use(function (req, res, next) {
 
 ## That's it. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDgyMjI5NzVdfQ==
+eyJoaXN0b3J5IjpbLTE3NDAyNjc4MjAsLTE5NDgyMjI5NzVdfQ
+==
 -->
