@@ -1,12 +1,7 @@
-# # WebDev-2019-10-14
+# Boot Camp Notes
 
 $(folders)
 $(files)
-
-
-
-> Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTA4NjA2MTAsLTExMjI4MzE4OThdfQ
-==
+eyJoaXN0b3J5IjpbNTU2Mjg2MzY5LC0xMTIyODMxODk4XX0=
 -->
