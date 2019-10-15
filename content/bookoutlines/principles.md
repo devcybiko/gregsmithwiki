@@ -21,7 +21,10 @@
 	1. Be a Hyperrealist
 		a. Dreams + Reality + Determination = A Successful Life
 	2. Truth - or more precisely, an accurate understanding of reality - is the essential foundation for any good outcome.
-	3.  
+	3.  Be radically open-minded and radically transparent
+		a. Radical open-mindedness and radical transparency are invaluable for rapid learning and effective change.
+		b. Dont let fears of what others think of you stand in your way.
+		c. Embracing radical truth and radical transparency will bring more meaningful work and more meaningful relationships 
 2. Use the 5-Step Process to Get What You Want Out of Life
 3. Be Radically Open-Minded
 4. Understand That People Are Wired Very Differently
@@ -29,5 +32,5 @@
 6. Live Principles: Putting It All Together
 7. Summary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjExNjc4NDkwNyw3MjIwMjA3ODRdfQ==
+eyJoaXN0b3J5IjpbLTQyODIwODE5MCw3MjIwMjA3ODRdfQ==
 -->
