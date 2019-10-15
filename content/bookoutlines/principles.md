@@ -24,7 +24,12 @@
 	3.  Be radically open-minded and radically transparent
 		a. Radical open-mindedness and radical transparency are invaluable for rapid learning and effective change.
 		b. Dont let fears of what others think of you stand in your way.
-		c. Embracing radical truth and radical transparency will bring more meaningful work and more meaningful relationships 
+		c. Embracing radical truth and radical transparency will bring more meaningful work and more meaningful relationships
+	4. Look to nature to learn how reality works
+	5. Evolving is life's greates accomplishment and its greatest reward
+	6. Understand nature's practical lessons.
+	7. Pain + Reflection = Progress
+	8. Weigh second- and third-order consequences
 2. Use the 5-Step Process to Get What You Want Out of Life
 3. Be Radically Open-Minded
 4. Understand That People Are Wired Very Differently
@@ -32,5 +37,5 @@
 6. Live Principles: Putting It All Together
 7. Summary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyODIwODE5MCw3MjIwMjA3ODRdfQ==
+eyJoaXN0b3J5IjpbLTEwMzA1MDU5NDgsNzIyMDIwNzg0XX0=
 -->
