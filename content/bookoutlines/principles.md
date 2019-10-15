@@ -50,10 +50,15 @@
 4. Understand That People Are Wired Very Differently
 	1. Understand the power that comes from knowing how you and others are wired.
 	2. Meaningful work and meaningful relationships carent just nice things we choose for oursevles - they are genetically programmed into us.
-	3. Understand th
+	3. Understand the great brain battles and how to control them with what "you" want.
+	4. Find out what you and others are like
+	5. Getting the right poeple in the right roles in support of your goal is the key to succeeding at whatever you choose to accomplish
 5. Learn How to Make Decisions Effectively
+	1. Recognize that
+		a. the biggest threat to good decision making is harmful emotions
+		b. decision making is a two-step process (first leanr 
 6. Live Principles: Putting It All Together
 7. Summary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTM0MjkyNjYsNzIyMDIwNzg0XX0=
+eyJoaXN0b3J5IjpbLTIxMTYwMTA3MDQsNzIyMDIwNzg0XX0=
 -->
