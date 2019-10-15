@@ -67,10 +67,7 @@
 	9. Use principles
 	10. Believability weight your decision making
 	11. Convert your principles into algorithms and have the computer make decisions alongside you.
-	12. Be cautious about t
-	 
-6. Live Principles: Putting It All Together
-7. Summary
+	12. Be cautious about trusting AI without having deep understanding
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MDY3MDY5NSw3MjIwMjA3ODRdfQ==
+eyJoaXN0b3J5IjpbLTExMjkwMDE3MjMsNzIyMDIwNzg0XX0=
 -->
