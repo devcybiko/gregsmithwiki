@@ -45,11 +45,15 @@
 	2. Practice radical open-mindedness
 	3. Appreciate the art of thoughtful disagreement
 	4. Triangulate your view with belivable people who are willing to disagree
-	5. Recognize the signs of closed-mindedness and open-mindedness that you should wat
+	5. Recognize the signs of closed-mindedness and open-mindedness that you should watch out for
+	6. Understand how you can become radically open-minded
 4. Understand That People Are Wired Very Differently
+	1. Understand the power that comes from knowing how you and others are wired.
+	2. Meaningful work and meaningful relationships carent just nice things we choose for oursevles - they are genetically programmed into us.
+	3. Understand th
 5. Learn How to Make Decisions Effectively
 6. Live Principles: Putting It All Together
 7. Summary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTI0NDkwMzAsNzIyMDIwNzg0XX0=
+eyJoaXN0b3J5IjpbLTEzOTM0MjkyNjYsNzIyMDIwNzg0XX0=
 -->
