@@ -30,12 +30,21 @@
 	6. Understand nature's practical lessons.
 	7. Pain + Reflection = Progress
 	8. Weigh second- and third-order consequences
+	9. Own your own outcomes
+	10. Look at the machine from the higher level 
 2. Use the 5-Step Process to Get What You Want Out of Life
+	1. Have clear goals
+	2. Identify and don't tolerate problems
+	3. Diagnose problems to get at their root causes
+	4. Design a plan
+	5. Push through to completion
+	6. Remember that weaknesses don't matter if you find solutions
+	7. Understand your own and others' mental maps and humility
 3. Be Radically Open-Minded
 4. Understand That People Are Wired Very Differently
 5. Learn How to Make Decisions Effectively
 6. Live Principles: Putting It All Together
 7. Summary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzA1MDU5NDgsNzIyMDIwNzg0XX0=
+eyJoaXN0b3J5IjpbLTM2ODkyNTYyMyw3MjIwMjA3ODRdfQ==
 -->
