@@ -62,9 +62,15 @@
 	4. Navigate levels effectively
 	5. Logic, reason, and common sense are your best tools for synthesizing reality and understanding what to do about it.
 	6. Make your decisions as expected value calculations
-	7. Prioritize the weighing  
+	7. Prioritize by weighing the value of additional informatin against hte cost of not deciding
+	8. Simplify!
+	9. Use principles
+	10. Believability weight your decision making
+	11. Convert your principles into algorithms and have the computer make decisions alongside you.
+	12. Be cautious about t
+	 
 6. Live Principles: Putting It All Together
 7. Summary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTQyOTEyNTUsNzIyMDIwNzg0XX0=
+eyJoaXN0b3J5IjpbLTg0MDY3MDY5NSw3MjIwMjA3ODRdfQ==
 -->
