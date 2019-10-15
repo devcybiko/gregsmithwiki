@@ -1,7 +1,7 @@
 # DataViz Resources
 
-1. [GitLab:](https://richmond.bootcampcontent.com/Richmond-Boot-Camp/UR-RICH-DATA-PT-10-2019-U-C)(https://richmond.bootcampcontent.com/Richmond-Boot-Camp/UR-RICH-DATA-PT-10-2019-U-C)
-2. [BootCampSpot](https://github.com/coding-boot-camp)
+1. [GitLab:](https://richmond.bootcampcontent.com/Richmond-Boot-Camp/UR-RICH-DATA-PT-10-2019-U-C)
+2. [BootCampSpot](https://bootcampspot.com/login)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQ5MDQ4NjM0XX0=
+eyJoaXN0b3J5IjpbLTE5NDQzNDAyMTMsNjQ5MDQ4NjM0XX0=
 -->
