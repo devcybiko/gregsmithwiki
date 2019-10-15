@@ -41,10 +41,15 @@
 	6. Remember that weaknesses don't matter if you find solutions
 	7. Understand your own and others' mental maps and humility
 3. Be Radically Open-Minded
+	1. Recognize your two barriers
+	2. Practice radical open-mindedness
+	3. Appreciate the art of thoughtful disagreement
+	4. Triangulate your view with belivable people who are willing to disagree
+	5. Recognize the signs of closed-mindedness and open-mindedness that you should wat
 4. Understand That People Are Wired Very Differently
 5. Learn How to Make Decisions Effectively
 6. Live Principles: Putting It All Together
 7. Summary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2ODkyNTYyMyw3MjIwMjA3ODRdfQ==
+eyJoaXN0b3J5IjpbLTExNTI0NDkwMzAsNzIyMDIwNzg0XX0=
 -->
