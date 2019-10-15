@@ -11,12 +11,17 @@
 8. Looking Back from a Higher Level
 
 ## Part II: Life Principles
+* Think for yourself to decide
+	* 1. What You Want
+	* 2. What is True
+	* 3. What you should do to achieve #1 in light of #
 1. Embrace Reality and Deal With It
 2. Use the 5-Step Process to Get What You Want Out of Life
 3. Be Radically Open-Minded
 4. Understand That People Are Wired Very Differently
 5. Learn How to Make Decisions Effectively
-6. 
+6. Live Principles: Putting It All Together
+7. Summary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1MTgxOTMxOSw3MjIwMjA3ODRdfQ==
+eyJoaXN0b3J5IjpbMjA1NDkzNzc4NCw3MjIwMjA3ODRdfQ==
 -->
