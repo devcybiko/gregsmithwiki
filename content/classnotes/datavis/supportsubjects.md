@@ -1,4 +1,4 @@
-# DataVis Support Subjects
+# DataViz Support Subjects
 
 This is the "wiki" page for DataVis Support Subjects. See the #supportsubjects Slack channel for more details.
 
@@ -27,6 +27,6 @@ Zoom: [https://zoom.us/j/524094448](https://zoom.us/j/524094448)
 * Deployment
 * Unix/Linux Commands
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3ODc0MzYwMTMsMTk4ODEzNjM4MSwtMj
-Q1MTc5OTk1LDE1NzM0MjE5NzddfQ==
+eyJoaXN0b3J5IjpbLTExMjUxMTY4MjAsLTE3ODc0MzYwMTMsMT
+k4ODEzNjM4MSwtMjQ1MTc5OTk1LDE1NzM0MjE5NzddfQ==
 -->
