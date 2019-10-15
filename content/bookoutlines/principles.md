@@ -56,9 +56,15 @@
 5. Learn How to Make Decisions Effectively
 	1. Recognize that
 		a. the biggest threat to good decision making is harmful emotions
-		b. decision making is a two-step process (first leanr 
+		b. decision making is a two-step process (first learning and then deciding)
+	2. Synthesize the situation at hand.
+	3. Synthesize the situation through time
+	4. Navigate levels effectively
+	5. Logic, reason, and common sense are your best tools for synthesizing reality and understanding what to do about it.
+	6. Make your decisions as expected value calculations
+	7. Prioritize the weighing  
 6. Live Principles: Putting It All Together
 7. Summary
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTYwMTA3MDQsNzIyMDIwNzg0XX0=
+eyJoaXN0b3J5IjpbLTE5NTQyOTEyNTUsNzIyMDIwNzg0XX0=
 -->
