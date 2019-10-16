@@ -42,7 +42,9 @@
 	7. Understand your own and others' mental maps and humility
 3. Be Radically Open-Minded
 	1. Recognize your two barriers
-		a. Understand
+		a. Understand your ego barrier
+		b. Your two "yous" fight to control you
+		c. Understand your blind spot barrier
 	2. Practice radical open-mindedness
 	3. Appreciate the art of thoughtful disagreement
 	4. Triangulate your view with belivable people who are willing to disagree
@@ -70,5 +72,5 @@
 	11. Convert your principles into algorithms and have the computer make decisions alongside you.
 	12. Be cautious about trusting AI without having deep understanding
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNjI5NzQ0Miw3MjIwMjA3ODRdfQ==
+eyJoaXN0b3J5IjpbLTE4MDE1OTc5MTksNzIyMDIwNzg0XX0=
 -->
