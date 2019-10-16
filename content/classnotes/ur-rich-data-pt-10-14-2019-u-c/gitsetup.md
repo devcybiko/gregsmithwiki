@@ -21,7 +21,7 @@ $(toc)
 
 ### In the terminal (gitbash) $(gotoc)
 
-_**NOTE: From now all when you hear `terminal` think `gitbash`**_
+**NOTE: From now all when you hear `terminal` think `gitbash`**
 
 1. Create a local git folder for all your git projects
 	- `mkdir ~/git`
@@ -83,6 +83,6 @@ drwxr-xr-x@ 7 greg  staff  224 Oct 14 15:46 UR-RICH-DATA-PT-10-2019-U-C.sav
 drwxr-xr-x@  9 greg  staff  288 Aug 29 14:07 DataVizClass
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODQwODc5NywtMTE4MTY2OTU1NCwxNj
+eyJoaXN0b3J5IjpbMjEwNDU4MjYyNywtMTE4MTY2OTU1NCwxNj
 Q2NzQzODUwLDY5NDgxMDY1NSwxNDI4ODg1OTMyXX0=
 -->
