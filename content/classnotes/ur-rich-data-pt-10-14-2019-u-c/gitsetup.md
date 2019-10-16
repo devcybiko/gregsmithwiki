@@ -1,5 +1,5 @@
 
-# Git Setup
+# Git, GitHub, and GitLab Setup
 
 $(toc)
 
@@ -74,14 +74,14 @@ $(toc)
 4. Clone your GitLab repository by copying the saved URL from the previous section
  - `git clone https://richmond.bootcampcontent.com/Richmond-Boot-Camp/UR-RICH-DATA-PT-10-2019-U-C`
 
-## Verify your 'git' folder is set up
+### Verify your 'git' folders are set up
 
 1. Open your Terminal or GitBash command window
 2. Type `cd` (and hit enter) to go to your home directory
 3. CD into the 'git' folder: `cd git`
 4. List the files: `ls -latr`
 
-![Screen_Shot_2019-05-09_at_11.41.22_PM](/uploads/35832d7555f6ccc9343d69b46cd8c03a/Screen_Shot_2019-05-09_at_11.41.22_PM.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk0ODEwNjU1LDE0Mjg4ODU5MzJdfQ==
+eyJoaXN0b3J5IjpbLTE2NjA1MTUwOTgsNjk0ODEwNjU1LDE0Mj
+g4ODU5MzJdfQ==
 -->
