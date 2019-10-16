@@ -77,7 +77,12 @@ $(toc)
 3. CD into the 'git' folder: `cd git`
 4. List the files: `ls -latr`
 
+```
+$ ls -latr
+drwxr-xr-x@ 7 greg  staff  224 Oct 14 15:46 UR-RICH-DATA-PT-10-2019-U-C.sav
+drwxr-xr-x@  9 greg  staff  288 Aug 29 14:07 DataVizClass
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1NzUyMjg0NCw2OTQ4MTA2NTUsMTQyOD
+eyJoaXN0b3J5IjpbMTY0Njc0Mzg1MCw2OTQ4MTA2NTUsMTQyOD
 g4NTkzMl19
 -->
