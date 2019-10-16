@@ -28,9 +28,9 @@ $(toc)
 1. Change directory to your git folder
 	- `cd ~/git`
 
-# Everyone
+## Everyone
 
-## Create a GitHub Repository
+### Create a GitHub Repository
 
 1. in your browser got to [GitHub.com](http://github.com)
 2. click `Sign Up` and enter a username, email, and password (remember them or write them down)
@@ -59,15 +59,12 @@ $(toc)
 5. Clone your GitHub repository by copying the saved URL from the previous section
  - `git clone https://github.com/devcybiko/WebDevClass`
 
-## Clone the GitLab Repository
+### Clone the GitLab Repository
 
 1. Go to [GitLab.com](https://richmond.bootcampcontent.com/Richmond-Boot-Camp/UR-RICH-DATA-PT-10-2019-U-C)
 2. Sign in (you should already have a login account. If not contact Admin via Slack)
 3. Click on the 'Copy' button to get the full URL for the GitLab Repository.
-
-### Clone your GitLab repository
-
-1. Open your Terminal command window
+4. Open your Terminal command window
 2. Type `cd` (and hit enter) to go to your home directory
 3. CD into the 'git' folder: `cd git`
 4. Clone your GitLab repository by copying the saved URL from the previous section
@@ -81,6 +78,6 @@ $(toc)
 4. List the files: `ls -latr`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzODA3MzIyOCw2OTQ4MTA2NTUsMTQyOD
+eyJoaXN0b3J5IjpbMTg1NzUyMjg0NCw2OTQ4MTA2NTUsMTQyOD
 g4NTkzMl19
 -->
