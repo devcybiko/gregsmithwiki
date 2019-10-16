@@ -50,7 +50,7 @@ _**NOTE: From now all when you hear `terminal` think `gitbash`**_
 1. Click the 'Clone or download' button
 2. Click the 'copy' button to copy the URL into your cut/paste buffer
 
-### Terminal Commands to clone your GitHub Repository $(top)
+### Terminal Commands to clone your GitHub Repository $(gotoc)
 
 1. Open your Terminal command window
 2. Type `cd` (and hit enter) to go to your home directory
@@ -83,6 +83,6 @@ drwxr-xr-x@ 7 greg  staff  224 Oct 14 15:46 UR-RICH-DATA-PT-10-2019-U-C.sav
 drwxr-xr-x@  9 greg  staff  288 Aug 29 14:07 DataVizClass
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2NDAzMTM2NywxNjQ2NzQzODUwLDY5ND
-gxMDY1NSwxNDI4ODg1OTMyXX0=
+eyJoaXN0b3J5IjpbLTExODE2Njk1NTQsMTY0Njc0Mzg1MCw2OT
+Q4MTA2NTUsMTQyODg4NTkzMl19
 -->
