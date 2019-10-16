@@ -1,4 +1,3 @@
-
 # Git, GitHub, and GitLab Setup
 
 $(toc)
@@ -82,6 +81,6 @@ $(toc)
 4. List the files: `ls -latr`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NjA1MTUwOTgsNjk0ODEwNjU1LDE0Mj
-g4ODU5MzJdfQ==
+eyJoaXN0b3J5IjpbMTQwOTIyNDM3Niw2OTQ4MTA2NTUsMTQyOD
+g4NTkzMl19
 -->
