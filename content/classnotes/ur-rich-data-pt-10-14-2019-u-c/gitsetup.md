@@ -5,7 +5,6 @@ $(toc)
 ## MacOS Git Setup
 
 1. Create a [GitHub](https://github.com) account
-
 2. Install [git](https://coolestguidesontheplanet.com/install-git-macos/)
 
 ### In the terminal
@@ -18,12 +17,11 @@ $(toc)
 ## Windows Git Setup
 
 1. Create a [GitHub](https://github.com/) account
-
 2. Install [git](https://gitforwindows.org/)
 
 ### In the terminal (gitbash)
 
-** NOTE: From now all when you hear `terminal` think `gitbash`
+_**NOTE: From now all when you hear `terminal` think `gitbash`**_
 
 1. Create a local git folder for all your git projects
 	- `mkdir ~/git`
@@ -85,6 +83,6 @@ drwxr-xr-x@ 7 greg  staff  224 Oct 14 15:46 UR-RICH-DATA-PT-10-2019-U-C.sav
 drwxr-xr-x@  9 greg  staff  288 Aug 29 14:07 DataVizClass
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTMxMzAwNTMsMTY0Njc0Mzg1MCw2OT
+eyJoaXN0b3J5IjpbLTE4MjkzMTY5NzUsMTY0Njc0Mzg1MCw2OT
 Q4MTA2NTUsMTQyODg4NTkzMl19
 -->
