@@ -2,24 +2,24 @@
 
 $(toc)
 
-## MacOS Git Setup
+## MacOS Git Setup $(gotoc)
 
 1. Create a [GitHub](https://github.com) account
 2. Install [git](https://coolestguidesontheplanet.com/install-git-macos/)
 
-### In the terminal
+### In the terminal $(gotoc)
 
 1. Create a local git folder for all your git projects
 	- `mkdir ~/git`
 1. Change directory to your git folder
 	- `cd ~/git`
 
-## Windows Git Setup
+## Windows Git Setup $(gotoc)
 
 1. Create a [GitHub](https://github.com/) account
 2. Install [git](https://gitforwindows.org/)
 
-### In the terminal (gitbash)
+### In the terminal (gitbash) $(gotoc)
 
 _**NOTE: From now all when you hear `terminal` think `gitbash`**_
 
@@ -28,9 +28,9 @@ _**NOTE: From now all when you hear `terminal` think `gitbash`**_
 1. Change directory to your git folder
 	- `cd ~/git`
 
-## Everyone
+## Everyone $(gotoc)
 
-### Create a GitHub Repository
+### Create a GitHub Repository $(gotoc)
 
 1. in your browser got to [GitHub.com](http://github.com)
 2. click `Sign Up` and enter a username, email, and password (remember them or write them down)
@@ -45,7 +45,7 @@ _**NOTE: From now all when you hear `terminal` think `gitbash`**_
 10. Check the 'Initialize this Repository with a README'
 11. Click the 'Create repository' button
 
-### Clone your GitHub Repository
+### Clone your GitHub Repository $(gotoc)
 
 1. Click the 'Clone or download' button
 2. Click the 'copy' button to copy the URL into your cut/paste buffer
@@ -59,7 +59,7 @@ _**NOTE: From now all when you hear `terminal` think `gitbash`**_
 5. Clone your GitHub repository by copying the saved URL from the previous section
  - `git clone https://github.com/devcybiko/WebDevClass`
 
-### Clone the GitLab Repository
+### Clone the GitLab Repository $(gotoc)
 
 1. Go to [GitLab.com](https://richmond.bootcampcontent.com/Richmond-Boot-Camp/UR-RICH-DATA-PT-10-2019-U-C)
 2. Sign in (you should already have a login account. If not contact Admin via Slack)
@@ -70,7 +70,7 @@ _**NOTE: From now all when you hear `terminal` think `gitbash`**_
 4. Clone your GitLab repository by copying the saved URL from the previous section
  - `git clone https://richmond.bootcampcontent.com/Richmond-Boot-Camp/UR-RICH-DATA-PT-10-2019-U-C`
 
-### Verify your 'git' folders are set up
+### Verify your 'git' folders are set up $(gotoc)
 
 1. Open your Terminal or GitBash command window
 2. Type `cd` (and hit enter) to go to your home directory
@@ -83,6 +83,6 @@ drwxr-xr-x@ 7 greg  staff  224 Oct 14 15:46 UR-RICH-DATA-PT-10-2019-U-C.sav
 drwxr-xr-x@  9 greg  staff  288 Aug 29 14:07 DataVizClass
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE2Njk1NTQsMTY0Njc0Mzg1MCw2OT
-Q4MTA2NTUsMTQyODg4NTkzMl19
+eyJoaXN0b3J5IjpbMTcwODQwODc5NywtMTE4MTY2OTU1NCwxNj
+Q2NzQzODUwLDY5NDgxMDY1NSwxNDI4ODg1OTMyXX0=
 -->
