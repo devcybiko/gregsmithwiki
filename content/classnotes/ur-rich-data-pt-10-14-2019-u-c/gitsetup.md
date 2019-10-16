@@ -4,7 +4,7 @@ $(toc)
 
 ## MacOS Git Setup
 
-1. Create a [GitHub](https://github. account
+1. Create a [GitHub](https://github.com) account
 
 2. Install [git](https://coolestguidesontheplanet.com/install-git-macos/)
 
@@ -81,6 +81,6 @@ $(toc)
 4. List the files: `ls -latr`
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNjAyNjQ5Nyw2OTQ4MTA2NTUsMTQyOD
+eyJoaXN0b3J5IjpbMTkwNzczMzA0OSw2OTQ4MTA2NTUsMTQyOD
 g4NTkzMl19
 -->
