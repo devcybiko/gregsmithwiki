@@ -10,7 +10,7 @@ $(toc)
 ### In the terminal $(gotoc)
 * `CMD-Space` (pulls up the Spotlight Search)
 * Type in `terminal` - hit enter
-* In the System Dock - right click and select `Keep in Dock`
+* In the System Dock - right click the terminal icon and select `Keep in Dock`
 
 1. Create a local git folder for all your git projects
 	- `mkdir ~/git`
@@ -86,6 +86,6 @@ drwxr-xr-x@ 7 greg  staff  224 Oct 14 15:46 UR-RICH-DATA-PT-10-2019-U-C.sav
 drwxr-xr-x@  9 greg  staff  288 Aug 29 14:07 DataVizClass
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwMzkzNzg0MSwtMTE4MTY2OTU1NCwxNj
-Q2NzQzODUwLDY5NDgxMDY1NSwxNDI4ODg1OTMyXX0=
+eyJoaXN0b3J5IjpbNjI1MjY4ODYzLC0xMTgxNjY5NTU0LDE2ND
+Y3NDM4NTAsNjk0ODEwNjU1LDE0Mjg4ODU5MzJdfQ==
 -->
