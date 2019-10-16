@@ -11,9 +11,9 @@
 8. Looking Back from a Higher Level
 
 * Think for yourself to decide
-	* 1. What You Want
-	* 2. What is True
-	* 3. What you should do to achieve #1 in light of #2, and do that with humility and open-mindedness so that you consider the best thinking available to you.
+	1. What You Want
+	2. What is True
+	3. What you should do to achieve #1 in light of #2, and do that with humility and open-mindedness so that you consider the best thinking available to you.
 * Look to the patterns of those things that affect you in order to understand the cause-effect relationships that drive them and to learn principles for dealing with them effectivly.
 
 ## Part II: Life Principles
@@ -42,6 +42,7 @@
 	7. Understand your own and others' mental maps and humility
 3. Be Radically Open-Minded
 	1. Recognize your two barriers
+		a. Understand
 	2. Practice radical open-mindedness
 	3. Appreciate the art of thoughtful disagreement
 	4. Triangulate your view with belivable people who are willing to disagree
@@ -69,5 +70,5 @@
 	11. Convert your principles into algorithms and have the computer make decisions alongside you.
 	12. Be cautious about trusting AI without having deep understanding
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkwMDE3MjMsNzIyMDIwNzg0XX0=
+eyJoaXN0b3J5IjpbMTcyNjI5NzQ0Miw3MjIwMjA3ODRdfQ==
 -->
