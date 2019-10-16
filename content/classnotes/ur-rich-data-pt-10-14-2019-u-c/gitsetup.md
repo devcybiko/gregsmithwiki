@@ -21,7 +21,9 @@ $(toc)
 
 2. Install [git](https://gitforwindows.org/)
 
-### In the terminal
+### In the terminal (gitbash)
+
+** NOTE: From now all when you hear `terminal` think `gitbash`
 
 1. Create a local git folder for all your git projects
 	- `mkdir ~/git`
@@ -83,6 +85,6 @@ drwxr-xr-x@ 7 greg  staff  224 Oct 14 15:46 UR-RICH-DATA-PT-10-2019-U-C.sav
 drwxr-xr-x@  9 greg  staff  288 Aug 29 14:07 DataVizClass
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0Njc0Mzg1MCw2OTQ4MTA2NTUsMTQyOD
-g4NTkzMl19
+eyJoaXN0b3J5IjpbLTE5MTMxMzAwNTMsMTY0Njc0Mzg1MCw2OT
+Q4MTA2NTUsMTQyODg4NTkzMl19
 -->
