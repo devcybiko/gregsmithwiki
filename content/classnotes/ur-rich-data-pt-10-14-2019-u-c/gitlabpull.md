@@ -11,7 +11,10 @@ We'll update the GitLab with such things as
 
 Do the following commands in your Terminal:
 ```
-cd ~/git/
+cd ~/git/UR-RICH-DATA-PT-10-2019-U-C
+git pull
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMjIzOTI3M119
+eyJoaXN0b3J5IjpbLTIwMzQ4MjUyMjNdfQ==
 -->
