@@ -16,8 +16,8 @@ git pull
 ls -latr
 </pre>
 
-This will pull the latest files from GitLab and list them on the ter
+This will pull the latest files from GitLab and list them on the Terminal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY1Mzg4NzUsLTgwNTcwNzU0LC0yMD
+eyJoaXN0b3J5IjpbLTExNDYxMjcwNTIsLTgwNTcwNzU0LC0yMD
 M0ODI1MjIzXX0=
 -->
