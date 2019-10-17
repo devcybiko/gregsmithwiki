@@ -1,5 +1,4 @@
-# Principles
-- Ray Dalio
+# Principles - Ray Dalio
 ## Part I: Where I'm Coming From
 1. My Call to Adventure (1949-1967)
 2. Crossing the Threshold (1967-1979)
@@ -72,5 +71,6 @@
 	11. Convert your principles into algorithms and have the computer make decisions alongside you.
 	12. Be cautious about trusting AI without having deep understanding
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MDE1OTc5MTksNzIyMDIwNzg0XX0=
+eyJoaXN0b3J5IjpbNjU4NDk2MTE5LC0xODAxNTk3OTE5LDcyMj
+AyMDc4NF19
 -->
