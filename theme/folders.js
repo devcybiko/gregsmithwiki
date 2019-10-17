@@ -14,8 +14,12 @@ module.exports = function(obj) {
     for(var file of files) {
         var mdFname = path.join(dirname, file);
         var url = mdFname.replace(obj.data.root.contentDir, "");
-        if (fs.lstatSync(mdFname).isDirectory() && file[0] !== '.') {
+        if ((fs.lstatSync(mdFname).isSymbolicLink() || fs.lstatSync(mdFname).isDirectory()) && file[0] !== '.') {
             var topic = "";
+	    if (fs.lstatSync(mdFname).isSymbolicLink()) {
+		mdFname = fs.realpathSync(mdFname); 
+		url = mdFname.replace(obj.data.root.contentDir, "");
+	    }
             var lines = gls.readTextFile(mdFname + "/index.md");
             console.log(lines);
             if (lines.length === 1 && lines[0] === '') {
