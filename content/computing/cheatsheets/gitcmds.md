@@ -54,6 +54,8 @@ if [ $# -lt 2 ]; then
 fi
 
 git status
+git
+git status
 git add -A
 
 git status
@@ -65,5 +67,5 @@ git push $repo
 git status
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyMTgxMDAxN119
+eyJoaXN0b3J5IjpbMTYyNzg0MjUsMTAyMTgxMDAxN119
 -->
