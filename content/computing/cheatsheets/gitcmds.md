@@ -42,6 +42,8 @@ git push $repo         # push to the repo
 ```
 ## gitall - shell script
 ```bash
+#!/bin/bash
+
 msg="$1"
 repo="$2"
 
@@ -54,7 +56,8 @@ if [ $# -lt 2 ]; then
 fi
 
 git status
-git
+git pull
+
 git status
 git add -A
 
@@ -67,5 +70,5 @@ git push $repo
 git status
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzg0MjUsMTAyMTgxMDAxN119
+eyJoaXN0b3J5IjpbLTQxODI2MjIzMSwxMDIxODEwMDE3XX0=
 -->
