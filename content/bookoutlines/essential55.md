@@ -1,4 +1,4 @@
-# Essential 55 Rules
+# Essential 55 Rules - Ron Clark
 
 [index](..)
 
@@ -91,5 +91,5 @@ X. If you have to go to the restroom, stand up and say, "excuse me," as you leav
 Y. When you are offered desserts or asked a question, such as "What sides would you like?" or "What dressing would you like for your salad?" ask, "What are my options?" That way, you do not name things the restaurant might not have.
 Z. Never talk to waiters or waitresses as if they are servants. Treat them with respect and kindness, and remember, they will bring your food to you. You do not want to be on the bad side of the wait staff.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwNzQyMzQ3OF19
+eyJoaXN0b3J5IjpbMTgxNzI5MzYyNywtNTA3NDIzNDc4XX0=
 -->
