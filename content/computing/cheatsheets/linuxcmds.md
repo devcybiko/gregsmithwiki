@@ -29,12 +29,8 @@
 
 |MACOS|GIT BASH|
 |---|---|
-|open . 
-(opens the current folder)|explorer . 
-(opens the current folder.)|
-|open {FILENAME} 
-(opens a specific file)|explorer {FILENAME} 
-(opens the specific file in the appropriate App.)|
+|open . (opens the current folder)|explorer . (opens the current folder.)|
+|open {FILENAME} (opens a specific file)|explorer {FILENAME} (opens the specific file in the appropriate App.)|
 
 Bash Functions
 ```sh
@@ -45,5 +41,5 @@ my_function () {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxMjE4ODUyN119
+eyJoaXN0b3J5IjpbMTY1NTEwMjQ0N119
 -->
