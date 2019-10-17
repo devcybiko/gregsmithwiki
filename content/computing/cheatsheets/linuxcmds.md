@@ -2,7 +2,7 @@
 
 * REMEMBER: Commands have a simple, space-separated format...
 
-    `command` `-options` `file1` `file2` `file3...`
+    `command` `--optons -opts` `file1` `file2` `file3...`
 
 * Very often you can find out what the 'usage' is with the `--help` option and the current version with the `--version` option.
 
@@ -25,7 +25,7 @@
 |`mkdir {FOLDERNAME}`|creates new directory (folder)
 |`touch {FILENAME}` |updates last time edited on a file (creates a file if it doesn't already exist)
 |`rm {FILENAME}`|removes a file `(danger: this PERMANENTLY removes the file - does not throw it in Trash)`
-|`rm -rf {FOLDERNAME}` |deletes a folder and everything within, note the –r (recursive) and
+|`rm -rf {FOLDERNAME}` |deletes a folder and everything within, note the –r (recursive) and -f (force)
 
 |MACOS|GIT BASH|
 |---|---|
@@ -41,5 +41,5 @@ my_function () {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTg3NTcwMDJdfQ==
+eyJoaXN0b3J5IjpbMTI1MzAxOTg5OF19
 -->
