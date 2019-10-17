@@ -16,16 +16,16 @@
 
 |Command|Description|
 |---|---|
-|cd |change directory (folder) (with no parameters, changes to `home`)|
-|cd ~ |change directory to `home` folder
-|cd ..|change directory to the previous folder (up one folder in folder tree)
-|ls|lists files in folder|
-|ls -latr| lists all files (including hidden '.' files) in long, all, time-ordered, reverse|
-|pwd |print working directory (current folder)
-|mkdir {FOLDERNAME}|creates new directory (folder)
-|touch {FILENAME} |updates last time edited on a file (creates a file if it doesn't already exist)
-|rm {FILENAME}|removes a file `(danger: this PERMANENTLY removes the file - does not throw it in Trash)`
-|rm -r {FOLDERNAME} |deletes a folder and everything within, note the –r (recursive)
+|`cd` |change directory (folder) (with no parameters, changes to `home`)|
+|`cd ~` |change directory to `home` folder
+|`cd ..` |change directory to the previous folder (up one folder in folder tree)
+|`ls`|lists files in folder|
+|`ls -latr`| lists all files (including hidden '.' files) in long, all, time-ordered, reverse|
+|`pwd` |print working directory (current folder)
+|`mkdir {FOLDERNAME}`|creates new directory (folder)
+|`touch {FILENAME}` |updates last time edited on a file (creates a file if it doesn't already exist)
+|`rm {FILENAME}`|removes a file `(danger: this PERMANENTLY removes the file - does not throw it in Trash)`
+|`rm -rf {FOLDERNAME}` |deletes a folder and everything within, note the –r (recursive) and
 
 |MACOS|GIT BASH|
 |---|---|
@@ -41,5 +41,5 @@ my_function () {
 }
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1NTEwMjQ0N119
+eyJoaXN0b3J5IjpbLTEzOTg3NTcwMDJdfQ==
 -->
