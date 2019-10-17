@@ -12,10 +12,11 @@ We'll update the GitLab with such things as
 Do the following commands in your Terminal:
 <code>
 cd ~/git/UR-RICH-DATA-PT-10-2019-U-C
+
 git pull
 </code>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTkwMTUwMDg5LC04MDU3MDc1NCwtMjAzND
-gyNTIyM119
+eyJoaXN0b3J5IjpbMTM0NDQ0MzYxMSwtODA1NzA3NTQsLTIwMz
+Q4MjUyMjNdfQ==
 -->
