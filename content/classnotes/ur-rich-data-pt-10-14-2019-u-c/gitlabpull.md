@@ -1,6 +1,6 @@
 # GitLab Pull
 
-When we udpate the GitLab Repo (UR-RICH-DATA-PT-10-2019-U-C) it's very easy to update the files.
+When we udpate the GitLab Repo (UR-RICH-DATA-PT-10-2019-U-C) it's very easy to get the latest files.
 
 We'll update the GitLab with such things as
 * Slides
@@ -16,5 +16,5 @@ git pull
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1Mjk5MTQ1MCwtMjAzNDgyNTIyM119
+eyJoaXN0b3J5IjpbMTE2MDA3NDU0MCwtMjAzNDgyNTIyM119
 -->
