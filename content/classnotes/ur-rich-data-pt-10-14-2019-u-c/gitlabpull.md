@@ -13,9 +13,11 @@ Do the following commands in your Terminal:
 <pre>
 cd ~/git/UR-RICH-DATA-PT-10-2019-U-C
 git pull
+ls -latr
 </pre>
 
+This will pull the latest files from GitLab and list them on the ter
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjMxMzgzNjksLTgwNTcwNzU0LC0yMD
+eyJoaXN0b3J5IjpbLTE5MDY1Mzg4NzUsLTgwNTcwNzU0LC0yMD
 M0ODI1MjIzXX0=
 -->
