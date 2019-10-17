@@ -10,7 +10,7 @@
 	* Left-Curly-Brace: `{`
 	* Right-Curly-Brace: `}`
 * Tick `'` (apostrophe)
-* BackTick `\``
+* BackTick <code>`</code>
 * Quote `"` (double-quotes)
 * Bang `!` (Exclamation Point)
 * 
@@ -18,5 +18,5 @@
 * "Sub" can also indicate calling a method: `foo(a)` ("call foo sub a")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE0OTg0MTA4LDE1MzcwOTc5MTldfQ==
+eyJoaXN0b3J5IjpbLTEyNzg3NTYyMjksMTUzNzA5NzkxOV19
 -->
