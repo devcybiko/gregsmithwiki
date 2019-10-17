@@ -12,7 +12,7 @@ module.exports = function(obj) {
     console.log(dirname);
     var files = fs.readdirSync(dirname);
     for(var file of files) {
-        if (file.endsWith(".md") && (file !== "index.md") && (file !== "readme.md")) {
+        if (file[0] !== '.' && file.endsWith(".md") && (file !== "index.md") && (file !== "readme.md")) {
             var mdFname = path.join(dirname, file);
             var url = mdFname.replace(obj.data.root.contentDir, "");
             var lines = gls.readTextFile(mdFname);

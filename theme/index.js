@@ -14,7 +14,7 @@ module.exports = function(obj) {
     for(var file of files) {
         var mdFname = path.join(dirname, file);
         var url = mdFname.replace(obj.data.root.contentDir, "");
-        if (fs.lstatSync(mdFname).isDirectory()) {
+        if (fs.lstatSync(mdFname).isDirectory() && file[0] !== '.') {
             var lines = gls.readTextFile(mdFname + "/index.md");
             var topic = lines[0].replaceAll("#", '').trim();
             html += `<li><u><a href=${url}>${topic}</a></u></li>`;
