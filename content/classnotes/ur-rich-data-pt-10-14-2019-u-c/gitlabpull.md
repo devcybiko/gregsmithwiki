@@ -10,12 +10,13 @@ We'll update the GitLab with such things as
 ## Instructions
 
 Do the following commands in your Terminal:
-<pre>cd ~/git/UR-RICH-DATA-PT-10-2019-U-C
+<pre>
+cd ~/git/UR-RICH-DATA-PT-10-2019-U-C
 git pull
 ls -latr</pre>
 
 This will pull the latest files from GitLab and list them on the Terminal.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTkyNzM4OTYsLTgwNTcwNzU0LC0yMD
-M0ODI1MjIzXX0=
+eyJoaXN0b3J5IjpbLTc4MzY5MzgxOCwtODA1NzA3NTQsLTIwMz
+Q4MjUyMjNdfQ==
 -->
