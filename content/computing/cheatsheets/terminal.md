@@ -8,7 +8,11 @@
 4. NOTE: You can hit the ENTER key at any time (not just at the end of the line)
 	1. So, you cursor-left, edit, and hit ENTER in the middle of the command and it will submit it
 	2. You don't have to cursor all the way to the right before you hit ENTER
-5. Use the TAB key to `autocomplete
+5. Use the TAB key to `autocomplete` file names
+	6. Enter the first few letters of the file name and hit 'TAB' and the Terminal will type the rest
+	7. If you hear a 'bell' and you don't see the completed filename, it's because there are more than one completions
+	8. Hit the TAB key twice and you'll see a list of possible completions
+	9. Continue typing characters until 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg2NDA5NzIyXX0=
+eyJoaXN0b3J5IjpbLTExNDQ4NDYxMjddfQ==
 -->
