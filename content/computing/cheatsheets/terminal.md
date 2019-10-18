@@ -12,10 +12,10 @@
 	2. You don't have to cursor all the way to the right before you hit ENTER
 7. Use the `TAB` key to `autocomplete` file names
 	6. Enter the first few letters of the file name and hit `TAB` and the Terminal will type the rest
-	7. If you hear a 'bell' and you don't see the completed filename, it's because there are more than one completions
-	8. Hit the TAB key twice and you'll see a list of possible completions
-	9. Continue typing characters and hit TAB again
-8. In case that wasn't clear: Hitting TAB+TAB (hitting TAB twice) shows a list of files
+	7. If you hear a `bell` and you don't see the completed filename, it's because there is more than one completions
+	8. Hit the `TAB` key twice and you'll see a list of possible completions
+	9. Continue typing characters and hit `TAB` again
+8. In case that wasn't clear: Hitting `TAB`+`TAB` (hitting `TAB` twice) shows a list of files
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDMzNjMyNF19
+eyJoaXN0b3J5IjpbMTE3MDI0ODI1Nl19
 -->
