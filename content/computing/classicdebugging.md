@@ -22,8 +22,13 @@
 14. If you keep getting the same errror despite the fact that you made a change - make sure you saved the file.
 15. If you keep getting the same errror despite the fact that you made a change - make sure you edited the right file - in the right folder.
 16. FOr code that is taking a long time to run, consider returning a static value at the top of the function that is slow during the testing.
+17. Challenge your Assumptions
+	1. Are you sure the value you're passing was received?
+	19. Are you in the right folder?
+	20. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgxODA3MDE0LDgzODg2NDA4OSwxNTI0OD
-IyOTk3LDkxNjU2NDcwMSwyMTQxMDI5MjIyLC05MDEzMTE3NjAs
-MTQ5NTUxODI3MSwtMTQ0NzAyMDQxNSwxODA1NjE2MzU4XX0=
+eyJoaXN0b3J5IjpbLTc1OTczNDA4LDU4MTgwNzAxNCw4Mzg4Nj
+QwODksMTUyNDgyMjk5Nyw5MTY1NjQ3MDEsMjE0MTAyOTIyMiwt
+OTAxMzExNzYwLDE0OTU1MTgyNzEsLTE0NDcwMjA0MTUsMTgwNT
+YxNjM1OF19
 -->
