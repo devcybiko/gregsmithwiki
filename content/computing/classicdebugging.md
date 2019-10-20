@@ -25,10 +25,10 @@
 17. Challenge your Assumptions
 	1. Are you sure the value you're passing was received?
 	19. Are you in the right folder?
-	20. 
+	20. Did you use the right URL?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc1OTczNDA4LDU4MTgwNzAxNCw4Mzg4Nj
-QwODksMTUyNDgyMjk5Nyw5MTY1NjQ3MDEsMjE0MTAyOTIyMiwt
-OTAxMzExNzYwLDE0OTU1MTgyNzEsLTE0NDcwMjA0MTUsMTgwNT
-YxNjM1OF19
+eyJoaXN0b3J5IjpbMTQ0MTQ4MjM3MCw1ODE4MDcwMTQsODM4OD
+Y0MDg5LDE1MjQ4MjI5OTcsOTE2NTY0NzAxLDIxNDEwMjkyMjIs
+LTkwMTMxMTc2MCwxNDk1NTE4MjcxLC0xNDQ3MDIwNDE1LDE4MD
+U2MTYzNThdfQ==
 -->
