@@ -1,4 +1,4 @@
-# Greg Smith Wiki
+# Greg Smith WikiDown
 
 $(folders)
 $(files)
