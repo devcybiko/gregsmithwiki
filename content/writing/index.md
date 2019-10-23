@@ -5,8 +5,7 @@ I discovered I had a talent for writing in middle school. I had written a scienc
 However, the next year I discovered computers, and I was hooked. It would be nearly 30 years before I returned to writing and created the Agile Writer Method.
 
 $(folders)
-
 $(files)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTc5NDQwOTVdfQ==
+eyJoaXN0b3J5IjpbLTY2NjkyODE0MSwtMTA1Nzk0NDA5NV19
 -->
