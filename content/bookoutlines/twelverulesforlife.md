@@ -1,5 +1,7 @@
 # 12 Rules for Life - Jordan Peterson
 ## An Antidote to Chaos
+by Jordan Peterson
+
 1. Stand up straight with your shoulders back.
 2. Treat yourself like someone you are responsible for helping
 3. Make friends with people who want the best for you
@@ -15,5 +17,5 @@
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5NDgzODk4OF19
+eyJoaXN0b3J5IjpbMTU4NzE1ODk1MywxNDk0ODM4OTg4XX0=
 -->
