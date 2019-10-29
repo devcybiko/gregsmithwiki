@@ -1,5 +1,5 @@
 # Greg's Rules
-1.  I only do things where I either produce something, or learn something. All else is waste.
+1.  Only do things where I either produce something, or learn something. All else is waste.
 	1. Spending time with people reenforces harmony in relationships.
 	2. Consider if what you're doing right now satisfies the rule.
 	3. Consider not watching TV (sports, sit-coms, movies)
