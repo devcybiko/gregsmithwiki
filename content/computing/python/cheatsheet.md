@@ -1,6 +1,8 @@
 # Python CheatSheet
 
-* Variables
+$(toc)
+
+## Variables
 	* Use upper and lower case letters
 	* Plus "_" and "$" if necessary
 	* Assign values with '=' sign
@@ -8,21 +10,22 @@
 `foo = 1`
 `bar = "hiya"`
 
-* Constants
-	* numeric constants (digits, period, more digits)
-	* 
-* Print to the console
+## Constants
+	* numeric constants (digits, period, more digits) `3.14159`
+	* string constants (double-quote, characters, ending double-quote) `"hello world"`
+
+## Console I/O
 `print("string...")`
+`name = input("This is a prompt")`
 
-
+## For Loops
 * Remember: put a colon at the end of the line
 * Remember: indentation indicates "scope"
-
 ```
 for i in range(0, 100):
 	print(i)
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2NzE1MTc1N119
+eyJoaXN0b3J5IjpbMjk5OTkyMzA1XX0=
 -->
