@@ -47,11 +47,10 @@ else:
 
 ### While Loop
 ```python
-
 	shopping = "y"
 while shopping == "y":
 	shopping = input("still shopping (y/n)")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTYxOTk2MiwxNjQ0MjkwMDBdfQ==
+eyJoaXN0b3J5IjpbMzcyODU4Njc2LDE2NDQyOTAwMF19
 -->
