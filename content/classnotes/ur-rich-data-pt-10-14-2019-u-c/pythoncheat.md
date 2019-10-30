@@ -24,6 +24,7 @@ print(f"Expert status: {expert_status}")
 `name = input("This is a prompt")`
 
 ## Conditionals
+
 	if (user_choice ==  "r"  and computer_choice ==  "p"):
 		print("You chose rock. The computer chose paper.")
 		print("Sorry. You lose.")
@@ -52,5 +53,5 @@ print(f"Expert status: {expert_status}")
 		shopping = input("still shopping (y/n)")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NjY5MDcwMF19
+eyJoaXN0b3J5IjpbLTE4MTk3ODkxNzhdfQ==
 -->
