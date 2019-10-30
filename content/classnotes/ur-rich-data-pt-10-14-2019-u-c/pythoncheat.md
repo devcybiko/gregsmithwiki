@@ -24,18 +24,16 @@ print(f"Expert status: {expert_status}")
 `name = input("This is a prompt")`
 
 ## Conditionals
-```
+	if (user_choice ==  "r"  and computer_choice ==  "p"):
+		print("You chose rock. The computer chose paper.")
+		print("Sorry. You lose.")
+	elif (user_choice ==  "r"  and computer_choice ==  "s"):
+		print("You chose rock. The computer chose scissors.")
+		print("Yay! You won.")
+	else:
+		print("I don't understand that!")
+		print("Next time, choose from 'r', 'p', or 's'.")
 
-if (user_choice ==  "r"  and computer_choice ==  "p"):
-	print("You chose rock. The computer chose paper.")
-	print("Sorry. You lose.")
-elif (user_choice ==  "r"  and computer_choice ==  "s"):
-	print("You chose rock. The computer chose scissors.")
-	print("Yay! You won.")
-else:
-	print("I don't understand that!")
-	print("Next time, choose from 'r', 'p', or 's'.")
-```
 ## Loops
 * Remember: put a colon at the end of the line
 * Remember: indentation indicates "scope"
@@ -54,5 +52,5 @@ else:
 		shopping = input("still shopping (y/n)")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAwMDQ3NjM2XX0=
+eyJoaXN0b3J5IjpbLTI5NjY5MDcwMF19
 -->
