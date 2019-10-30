@@ -3,10 +3,10 @@
 $(toc)
 
 ## Variables
-	* Use upper and lower case letters
-	* Plus "_" and "$" if necessary
-	* Assign values with '=' sign
-	* can take any kind of value (string, number, etc)
+* Use upper and lower case letters
+* Plus "_" and "$" if necessary
+* Assign values with '=' sign
+* can take any kind of value (string, number, etc)
 `foo = 1`
 `bar = "hiya"`
 
@@ -16,8 +16,8 @@ print(f"Expert status: {expert_status}")
 ```
 
 ## Constants
-	* numeric constants (digits, period, more digits) `3.14159`
-	* string constants (double-quote, characters, ending double-quote) `"hello world"`
+* numeric constants (digits, period, more digits) `3.14159`
+* string constants (double-quote, characters, ending double-quote) `"hello world"`
 
 ## Console I/O
 `print("string...")`
@@ -54,5 +54,5 @@ else:
 		shopping = input("still shopping (y/n)")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDA4NzEzOTg4XX0=
+eyJoaXN0b3J5IjpbNTAwMDQ3NjM2XX0=
 -->
