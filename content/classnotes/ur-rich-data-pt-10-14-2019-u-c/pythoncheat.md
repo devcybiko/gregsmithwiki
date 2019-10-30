@@ -25,6 +25,7 @@ print(f"Expert status: {expert_status}")
 
 ## Conditionals
 ```
+
 if (user_choice ==  "r"  and computer_choice ==  "p"):
 	print("You chose rock. The computer chose paper.")
 	print("Sorry. You lose.")
@@ -41,16 +42,18 @@ else:
 
 ### For Loop
 ```
+
 for i in range(0, 100):
 	print(i)
 ```
 
 ### While Loop
 ```python
+
 shopping = "y"
 while shopping == "y":
 	shopping = input("still shopping (y/n)")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0NjY0NzAzNl19
+eyJoaXN0b3J5IjpbODgwMjAwMTBdfQ==
 -->
