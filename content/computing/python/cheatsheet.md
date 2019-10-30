@@ -10,6 +10,11 @@ $(toc)
 `foo = 1`
 `bar = "hiya"`
 
+```python
+# An f-string accepts all data types without conversion
+print(f"Expert status: {expert_status}")
+```
+
 ## Constants
 	* numeric constants (digits, period, more digits) `3.14159`
 	* string constants (double-quote, characters, ending double-quote) `"hello world"`
@@ -18,14 +23,22 @@ $(toc)
 `print("string...")`
 `name = input("This is a prompt")`
 
-## For Loops
+## Conditionals
+
+## Loops
 * Remember: put a colon at the end of the line
 * Remember: indentation indicates "scope"
+
+### For Loop
 ```
 for i in range(0, 100):
 	print(i)
 ```
 
+### While Loop
+```
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk5OTkyMzA1XX0=
+eyJoaXN0b3J5IjpbOTU5NjE5ODYzXX0=
 -->
