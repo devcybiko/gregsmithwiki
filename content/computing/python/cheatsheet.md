@@ -47,9 +47,10 @@ for i in range(0, 100):
 
 ### While Loop
 ```python
+shopping = "y"
 while shopping == "y":
-    
-
+	shopping = input("still shopping (y/n)")
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MDEwNjAzXX0=
+eyJoaXN0b3J5IjpbMTQ0NjY0NzAzNl19
 -->
