@@ -26,14 +26,14 @@ print(f"Expert status: {expert_status}")
 ## Conditionals
 ```
 	if (user_choice ==  "r"  and computer_choice ==  "p"):
-		print("You chose rock. The computer chose paper.")
-		print("Sorry. You lose.")
-	elif (user_choice ==  "r"  and computer_choice ==  "s"):
-		print("You chose rock. The computer chose scissors.")
-		print("Yay! You won.")
-	else:
-		print("I don't understand that!")
-		print("Next time, choose from 'r', 'p', or 's'.")
+	print("You chose rock. The computer chose paper.")
+	print("Sorry. You lose.")
+elif (user_choice ==  "r"  and computer_choice ==  "s"):
+	print("You chose rock. The computer chose scissors.")
+	print("Yay! You won.")
+else:
+	print("I don't understand that!")
+	print("Next time, choose from 'r', 'p', or 's'.")
 ```
 ## Loops
 * Remember: put a colon at the end of the line
@@ -53,5 +53,5 @@ print(f"Expert status: {expert_status}")
 		shopping = input("still shopping (y/n)")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4MDI3OTk4LDE2NDQyOTAwMF19
+eyJoaXN0b3J5IjpbODI1NjM2MTc0LDE2NDQyOTAwMF19
 -->
