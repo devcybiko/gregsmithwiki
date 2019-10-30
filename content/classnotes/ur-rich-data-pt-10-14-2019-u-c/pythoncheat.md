@@ -42,16 +42,16 @@ else:
 ### For Loop
 ```
 	for i in range(0, 100):
-		print(i)
+	print(i)
 ```
 
 ### While Loop
 ```python
 
 	shopping = "y"
-	while shopping == "y":
-		shopping = input("still shopping (y/n)")
+while shopping == "y":
+	shopping = input("still shopping (y/n)")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODI1NjM2MTc0LDE2NDQyOTAwMF19
+eyJoaXN0b3J5IjpbLTEyNTYxOTk2MiwxNjQ0MjkwMDBdfQ==
 -->
