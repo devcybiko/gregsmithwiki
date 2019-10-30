@@ -25,7 +25,7 @@ print(f"Expert status: {expert_status}")
 
 ## Conditionals
 ```
-if (user_choice ==  "r"  and computer_choice ==  "p"):
+	if (user_choice ==  "r"  and computer_choice ==  "p"):
 		print("You chose rock. The computer chose paper.")
 		print("Sorry. You lose.")
 	elif (user_choice ==  "r"  and computer_choice ==  "s"):
@@ -53,5 +53,5 @@ if (user_choice ==  "r"  and computer_choice ==  "p"):
 		shopping = input("still shopping (y/n)")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0OTA3NDgyNiwxNjQ0MjkwMDBdfQ==
+eyJoaXN0b3J5IjpbNzE4MDI3OTk4LDE2NDQyOTAwMF19
 -->
