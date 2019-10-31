@@ -2,6 +2,8 @@
 
 * Colon (`:`) (Like, the eyes of a smiley face emoticon `:`)
 * Semi-Colon (;) (Like the eyes of a winky face emoticon ;)
+* Slash (aka Forward Slash) `/`
+* BackSlash `\`
 * Parens or Parenthesis: `()`
 	* Left-Paren: `(`
 	* Right-Paren: `)`
@@ -20,6 +22,6 @@
 * "Sub" (from 'subscript') can also indicate calling a method: `foo(a)` ("call foo sub a")
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY0Njg3NjA3MywzMDk3ODQwODcsMTA0MD
+eyJoaXN0b3J5IjpbMjEzNzIyMDQ5NSwzMDk3ODQwODcsMTA0MD
 E2NDUzNSwxNTM3MDk3OTE5XX0=
 -->
