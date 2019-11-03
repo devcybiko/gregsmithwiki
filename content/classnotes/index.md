@@ -1,7 +1,7 @@
-# Boot Camp Notes
+# Boot Camp Class Notes
 $(folders)
 $(files)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQwODY4MzUsMTU5OTgyMTEwNiw1NTYyOD
-YzNjksLTExMjI4MzE4OThdfQ==
+eyJoaXN0b3J5IjpbLTEzOTg4OTM1NzMsNjQwODY4MzUsMTU5OT
+gyMTEwNiw1NTYyODYzNjksLTExMjI4MzE4OThdfQ==
 -->
