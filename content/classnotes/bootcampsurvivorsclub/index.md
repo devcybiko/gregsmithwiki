@@ -35,7 +35,7 @@ Q: What technologies should I be looking for?
 Compared to last year, this list differs a bit. For instance, PHP was previously much further down on the “dreaded” list, while this year it broke into the top 5. C also moved up a few notches in the dreaded list, meaning that developers no longer wish to work with them.
 
 ### Top 5 most wanted languages:
-$(gregsays) *"You should work in these languages to pad your resume"*
+$(greg says="You should work in these languages to pad your resume")
 
 **Python:**  25.7%
 **JavaScript:**  17.8%
@@ -45,6 +45,6 @@ $(gregsays) *"You should work in these languages to pad your resume"*
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3NDA5MzE4LC0xNzA3NDc4NTAzLDUwND
-c1NDIwNF19
+eyJoaXN0b3J5IjpbLTgzNzI5NDI1NywtMjc0MDkzMTgsLTE3MD
+c0Nzg1MDMsNTA0NzU0MjA0XX0=
 -->
