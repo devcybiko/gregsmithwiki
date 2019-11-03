@@ -7,16 +7,14 @@ $(files)
 [StackExchange Programmer Survey](https://insights.stackoverflow.com/survey/2019)
 
 
-### FAQ
+## FAQ
 Q: How much should I be making?
-A: Between $55k and $69K/year ($27-$35/hr)
-
+A: Between $55k and $69K/year ($27-$35/hr) (see Salary.com link, above)
 
 Q: What technologies should I be looking for?
 
 Q: What technologies should I be avoiding?
 
-[https://insights.stackoverflow.com/survey/2019]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNTU0OTM2OV19
+eyJoaXN0b3J5IjpbMTc2OTY3NTk0MV19
 -->
