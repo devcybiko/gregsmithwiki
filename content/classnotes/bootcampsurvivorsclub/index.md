@@ -1,6 +1,8 @@
 # Boot Camp Survivors Club
 $(folders)
 $(files)
+
+## Resources
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2OTczMTA3NV19
+eyJoaXN0b3J5IjpbLTE0MTczNjg2NDZdfQ==
 -->
