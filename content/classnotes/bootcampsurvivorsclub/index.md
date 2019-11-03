@@ -24,6 +24,7 @@ Q: What technologies should I be looking for?
 2019 marks the fourth year in a row with Rust at the top of the loved charts.
 
 ### Top 5 most dreaded languages:
+(Greg Says: You should charge extra to work in these languages)
 
 **VBA:**  75.2%  
 **Objective-C:**  68.7%  
@@ -34,19 +35,15 @@ Q: What technologies should I be looking for?
 Compared to last year, this list differs a bit. For instance, PHP was previously much further down on the “dreaded” list, while this year it broke into the top 5. C also moved up a few notches in the dreaded list, meaning that developers no longer wish to work with them.
 
 ### Top 5 most wanted languages:
+(Greg Says: You should work in these languages to pad your resume)
 
 **Python:**  25.7%
-
 **JavaScript:**  17.8%
-
 **Go:**  15.0%
-
 **TypeScript:**  14.6%
-
 **Kotlin:**  11.1%
 
-Q: What technologies should I be avoiding?
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwMTIxMTY2N119
+eyJoaXN0b3J5IjpbNTA0NzU0MjA0XX0=
 -->
