@@ -6,5 +6,5 @@ module.exports = function(obj) {
     var html = "";
     console.log("gregsays.js");
     console.log(obj);
-    return `<img alt="Greg Says..." src="https://greg-smith.com/static/images/greg-icon-redonwhite.png"/>`;
+    return `<img width=32 alt="Greg Says..." src="https://greg-smith.com/static/images/greg-icon-redonwhite.png"/>`;
 }
