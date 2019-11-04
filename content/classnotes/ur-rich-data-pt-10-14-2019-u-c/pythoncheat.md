@@ -53,7 +53,24 @@ while shopping == "y":
 ```
 
 ### Comprehension
+$(greg says="Check out this site where I lifted the following description of a Comprehension:")
 [https://www.pythonforbeginners.com/basics/list-comprehensions-in-python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+
+The list comprehension starts with a '**[' and ']'**, to help you remember that the
+result is going to be a list.
+
+The basic syntax is
+
+`[ expression for item in list if conditional ]`
+
+This is equivalent to:
+
+```
+for item in list:
+  if conditional:
+   expression
+```
+Let's break this down and see what it does
 
 `new_list =  [expression(i)  for i in old_list if filter(i)]`
 
@@ -70,6 +87,6 @@ old list.
 **if filter(i)**
 Apply a filter with an If-statement.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzczMDU1NTAsMzcyODU4Njc2LDE2ND
-QyOTAwMF19
+eyJoaXN0b3J5IjpbNTIwMzQyNDMxLDM3Mjg1ODY3NiwxNjQ0Mj
+kwMDBdfQ==
 -->
