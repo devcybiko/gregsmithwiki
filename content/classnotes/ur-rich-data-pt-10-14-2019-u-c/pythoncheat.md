@@ -56,22 +56,18 @@ while shopping == "y":
 $(greg says="Check out this site where I lifted the following description of a Comprehension:")
 [https://www.pythonforbeginners.com/basics/list-comprehensions-in-python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 
-The list comprehension starts with a '**[' and ']'**, to help you remember that the
-result is going to be a list.
+The list comprehension starts with a '**[' and ']'**, to help you remember that the result is going to be a list.
 
 The basic syntax is
-
 `[ expression for item in list if conditional ]`
 
 This is equivalent to:
-
 ```
 for item in list:
-  if conditional:
-   expression
+    if conditional:
+       expression
 ```
 Let's break this down and see what it does
-
 `new_list =  [expression(i)  for i in old_list if filter(i)]`
 
 **new_list**    
@@ -81,12 +77,11 @@ The new list (result).
 Expression is based on the variable used for each element in the old list.
 
 **for i in old_list**
-The word for followed by the variable name to use, followed by the word in the
-old list.
+The word for followed by the variable name to use, followed by the word in the old list.
 
 **if filter(i)**
 Apply a filter with an If-statement.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4NjkzNTA4OCw1MjAzNDI0MzEsMzcyOD
-U4Njc2LDE2NDQyOTAwMF19
+eyJoaXN0b3J5IjpbLTUyNTIxNTA3NCwxNDg2OTM1MDg4LDUyMD
+M0MjQzMSwzNzI4NTg2NzYsMTY0NDI5MDAwXX0=
 -->
