@@ -6,6 +6,23 @@ It is mentioned again in "[The Rothman Disintegration](https://bigbangtheory.fan
 
 The game was originally created by  [Sam Kass](https://bigbangtheory.fandom.com/wiki/Sam_Kass "Sam Kass")  with Karen Bryla. According to an interview with Kass, the series producers did not originally ask for permission to use the game, but Kass was officially referenced by Sheldon as the creator of the game during the "[The Rothman Disintegration](https://bigbangtheory.fandom.com/wiki/The_Rothman_Disintegration "The Rothman Disintegration")", after which he states, "Hail Sam Kass!" to which  [Leonard](https://bigbangtheory.fandom.com/wiki/Leonard "Leonard"),  [Howard](https://bigbangtheory.fandom.com/wiki/Howard "Howard"), Raj, and Sheldon all then chant "Hail!" while raising their hands.
 
+## Rules:
+
+The game is an expansion on the game Rock, Paper, Scissors. Each player picks a variable and reveals it at the same time. The winner is the one who defeats the others. In a tie, the process is repeated until a winner is found.
+
+Almost always, the boys will all pick  [Spock](https://bigbangtheory.fandom.com/wiki/Spock "Spock")  at the same time and tie over and over again.
+
+* Scissors cuts Paper
+* Paper covers Rock
+* Rock crushes Lizard
+* Lizard poisons Spock
+* Spock smashes Scissors
+* Scissors decapitates Lizard
+* Lizard eats Paper
+* Paper disproves Spock
+* Spock vaporizes Rock
+* (and as it always has) Rock crushes Scissors
+
 ## Greg's Solution
 
 $(greg says="Always think in terms of generalities. Use arrays to simplify conditionals")
@@ -14,5 +31,5 @@ $(greg says="Always think in terms of generalities. Use arrays to simplify condi
 
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA3MjY4NTFdfQ==
+eyJoaXN0b3J5IjpbLTk2NDkyMjc4NywtMTI0MDcyNjg1MV19
 -->
