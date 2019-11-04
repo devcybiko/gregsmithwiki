@@ -34,42 +34,37 @@ wins=0
 losses=0
 ties=0
 while  True:
+	print("\nLet's Play Rock Paper Scissors Lizard Spock!")
+	print(f"Wins : {wins}")
+	print(f"Losses: {losses}")
+	print(f"Ties : {ties}")
+	print("\n")
 
-print("\nLet's Play Rock Paper Scissors Lizard Spock!")
-print(f"Wins : {wins}")
-print(f"Losses: {losses}")
-print(f"Ties : {ties}")
-print("\n")
+	# options = ["r", "p", "s"]
+	# winners = ["rs", "pr", "sp"]
+	options = ["r", "p", "s", "l", "x"]
+	winners = ["sp", "pr", "rl", "ls", "lx", "xs", "sl", "lp", "px", "sr", "rs"]
 
-# options = ["r", "p", "s"]
-# winners = ["rs", "pr", "sp"]
-options = ["r", "p", "s", "l", "x"]
-winners = ["sp", "pr", "rl", "ls", "lx", "xs", "sl", "lp", "px", "sr", "rs"]
+	computer_choice = random.choice(options)
+	user_choice =  input(f"Make your Choice: {options} ")
 
-computer_choice = random.choice(options)
-user_choice =  input(f"Make your Choice: {options} ")
+	if (user_choice not  in options):
+		print(f"ERROR: '{user_choice}' not in {options}\n")
+		continue
 
-if (user_choice not  in options):
-	print(f"ERROR: '{user_choice}' not in {options}\n")
-	continue
+	contest = user_choice + computer_choice
 
-contest = user_choice + computer_choice
-if (contest in winners):
-	print(f"You Win! {user_choice} beats {computer_choice}")
-	wins = wins+1
-elif user_choice == computer_choice:
-
-print(f"You Tied :/ {user_choice} loses to {computer_choice}")
-
-ties = ties+1
-
-else:
-
-print(f"You Lost :( {user_choice} ties {computer_choice}")
-
-losses = losses +  1
+	if (contest in winners):
+		print(f"You Win! {user_choice} beats {computer_choice}")
+		wins = wins+1
+	elif user_choice == computer_choice:
+		print(f"You Tied :/ {user_choice} loses to {computer_choice}")
+		ties = ties+1
+	else:
+		print(f"You Lost :( {user_choice} ties {computer_choice}")
+		losses = losses +  1
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NDUxODUyOTIsLTk2NDkyMjc4NywtMT
-I0MDcyNjg1MV19
+eyJoaXN0b3J5IjpbLTEyOTk1MTEyODYsLTE4NDUxODUyOTIsLT
+k2NDkyMjc4NywtMTI0MDcyNjg1MV19
 -->
