@@ -26,6 +26,7 @@ Almost always, the boys will all pick  [Spock](https://bigbangtheory.fandom.com/
 ## Greg's Solution
 
 $(greg says="Always think in terms of generalities. Use arrays to simplify conditionals")
+$(greg says="This solution requires only 2 lines of code to change to go from RPS to RPSLX. Can you do it in one?")
 
 ```python
 import random
@@ -65,6 +66,6 @@ while  True:
 		losses = losses +  1
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTk1MTEyODYsLTE4NDUxODUyOTIsLT
-k2NDkyMjc4NywtMTI0MDcyNjg1MV19
+eyJoaXN0b3J5IjpbLTIxMzYwMjEwMSwtMTg0NTE4NTI5MiwtOT
+Y0OTIyNzg3LC0xMjQwNzI2ODUxXX0=
 -->
