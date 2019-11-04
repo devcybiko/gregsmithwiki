@@ -51,6 +51,25 @@ else:
 while shopping == "y":
 	shopping = input("still shopping (y/n)")
 ```
+
+### Comprehension
+[https://www.pythonforbeginners.com/basics/list-comprehensions-in-python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+
+`new_list =  [expression(i)  for i in old_list if filter(i)]`
+
+**new_list**    
+The new list (result).
+
+**expression(i)**
+Expression is based on the variable used for each element in the old list.
+
+**for i in old_list**
+The word for followed by the variable name to use, followed by the word in the
+old list.
+
+**if filter(i)**
+Apply a filter with an If-statement.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzcyODU4Njc2LDE2NDQyOTAwMF19
+eyJoaXN0b3J5IjpbLTExNzczMDU1NTAsMzcyODU4Njc2LDE2ND
+QyOTAwMF19
 -->
