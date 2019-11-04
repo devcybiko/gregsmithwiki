@@ -52,7 +52,7 @@ while shopping == "y":
 	shopping = input("still shopping (y/n)")
 ```
 
-### Comprehension
+## Comprehension
 $(greg says="Check out this site where I lifted the following description of a Comprehension:")
 [https://www.pythonforbeginners.com/basics/list-comprehensions-in-python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
 
@@ -87,6 +87,6 @@ old list.
 **if filter(i)**
 Apply a filter with an If-statement.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIwMzQyNDMxLDM3Mjg1ODY3NiwxNjQ0Mj
-kwMDBdfQ==
+eyJoaXN0b3J5IjpbMTQ4NjkzNTA4OCw1MjAzNDI0MzEsMzcyOD
+U4Njc2LDE2NDQyOTAwMF19
 -->
