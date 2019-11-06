@@ -59,8 +59,21 @@ for y in roster:
         print(y)
 ```
 
-Results in the following output:
+Results in the following, expected, output:
 
+```
+<zip object at 0x7fd5280be5a0>
+first time...
+(1, 'greg', 'Boss')
+(2, 'smith', 'Sales')
+(3, 'mark', 'Sales')
+(4, 'hamill', 'HR')
+second time
+(1, 'greg', 'Boss')
+(2, 'smith', 'Sales')
+(3, 'mark', 'Sales')
+(4, 'hamill', 'HR')
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjMzNDk3ODQsOTYyMDY4NTI2XX0=
+eyJoaXN0b3J5IjpbLTEzMzM0NDA5NzIsOTYyMDY4NTI2XX0=
 -->
