@@ -2,6 +2,7 @@
 
 In class we found that a `zip` object 'runs out' of its items once you iterate over it:
 
+## Problem
 ```
 indexes=[1,2,3,4]
 employees=["greg", "smith", "mark", "hamill"]
@@ -32,6 +33,23 @@ No. Python's iterator protocol is very simple, and only provides one single meth
 
 The common pattern is to instead create a new iterator using the same procedure again.
 ```
+
+## Solution
+
+```
+indexes=[1,2,3,4]
+employees=["greg", "smith", "mark", "hamill"]
+department=["Boss", "Sales", "Sales", "HR"]
+roster=zip(indexes, employees, department)
+print(roster)
+print('first time...')
+for x in roster:
+        print(x)
+roster=zip(indexes, employees, department)
+print('second time')
+for y in roster:
+        print(y)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMxOTk3ODksOTYyMDY4NTI2XX0=
+eyJoaXN0b3J5IjpbLTE5MjI1OTMzMTMsOTYyMDY4NTI2XX0=
 -->
