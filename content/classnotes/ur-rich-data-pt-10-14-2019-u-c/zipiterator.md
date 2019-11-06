@@ -11,7 +11,7 @@ roster=zip(indexes, employees, department)
 print(roster)
 for x in roster:
         print(x)
-roster=iter(roster)
+
 for y in roster:
         print(y)
 ```
@@ -75,5 +75,6 @@ second time
 (4, 'hamill', 'HR')
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzM0NDA5NzIsOTYyMDY4NTI2XX0=
+eyJoaXN0b3J5IjpbNzI2MDAzODg0LC0xMzMzNDQwOTcyLDk2Mj
+A2ODUyNl19
 -->
