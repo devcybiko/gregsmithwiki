@@ -24,7 +24,7 @@ first time...
 (4, 'hamill', 'HR')
 second time
 ```
-$(greg says='Iterators (such as `zip`) often empty out and must be recreated and cannot be reset')
+$(greg says='Iterators [such as `zip`] often empty out and must be recreated and cannot be reset')
 Notice that the second (`for y`) iterator emits no results. This is because a `zip` output is an 'iterator.' Once you iterate across an iterator and it 'taps out', you cannot iterate across it again. See the following StackExchange for the rationale: [StackExchange](https://stackoverflow.com/questions/3266180/can-iterators-be-reset-in-python)
 ```
 No. Python's iterator protocol is very simple, and only provides one single method (`.next()`  or  `__next__()`), and no method to reset an iterator in general.
@@ -32,5 +32,5 @@ No. Python's iterator protocol is very simple, and only provides one single meth
 The common pattern is to instead create a new iterator using the same procedure again.
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk2Mzc1MzY4NCw5NjIwNjg1MjZdfQ==
+eyJoaXN0b3J5IjpbNjI2MDY0NjEzLDk2MjA2ODUyNl19
 -->
