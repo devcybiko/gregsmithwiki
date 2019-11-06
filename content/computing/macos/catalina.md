@@ -19,6 +19,10 @@ I have a student using a MacBook Pro and he can not access his html files in Chr
 I just helped a student with this a couple days ago. It’s a Catalina issue (I think). The following worked well:
 
 [https://stackoverflow.com/questions/39482690/cant-open-some-html-files-in-chrome-mac/41923908#41923908](https://stackoverflow.com/questions/39482690/cant-open-some-html-files-in-chrome-mac/41923908#41923908)
+
+[https://github.com/coding-boot-camp/FullStack-Ground](https://github.com/coding-boot-camp/FullStack-Ground)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA0NTE2MDc1OF19
+eyJoaXN0b3J5IjpbMTMyMjA2NzEyOV19
 -->
