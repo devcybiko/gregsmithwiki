@@ -45,11 +45,22 @@ print(roster)
 print('first time...')
 for x in roster:
         print(x)
-roster=zip(indexes, employees, department)
+```
+<b>
+
+```
+roster=zip(indexes, employees, department)`
+```
+</b>
+
+```
 print('second time')
 for y in roster:
         print(y)
+```
+
+Results in the following output:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjI1OTMzMTMsOTYyMDY4NTI2XX0=
+eyJoaXN0b3J5IjpbLTExNjMzNDk3ODQsOTYyMDY4NTI2XX0=
 -->
