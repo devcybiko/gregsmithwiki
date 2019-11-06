@@ -14,7 +14,11 @@ I have a student using a MacBook Pro and he can not access his html files in Chr
 
 [https://support.apple.com/guide/mac-help/change-permissions-for-files-folders-or-disks-mchlp1203/mac](https://support.apple.com/guide/mac-help/change-permissions-for-files-folders-or-disks-mchlp1203/mac)
 
+[https://cmatskas.com/interacting-with-local-data-files-using-chrome/](https://cmatskas.com/interacting-with-local-data-files-using-chrome/)
 
+I just helped a student with this a couple days ago. It’s a Catalina issue (I think). The following worked well:
+
+[https://stackoverflow.com/questions/39482690/cant-open-some-html-files-in-chrome-mac/41923908#41923908](https://stackoverflow.com/questions/39482690/cant-open-some-html-files-in-chrome-mac/41923908#41923908)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ2MjY5MzY2XX0=
+eyJoaXN0b3J5IjpbMjA0NTE2MDc1OF19
 -->
