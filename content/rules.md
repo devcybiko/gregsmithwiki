@@ -16,7 +16,8 @@
 9. Showing up is 80% of success
 10. When in conversation - ask about the other person.
 11. Find out what makes people happy - then give it to them.
+12. Competence builds Confidence
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5NTE1MDQ4NiwtMTgzMjUwMTY2LDE2Mj
-A4NTQ1MV19
+eyJoaXN0b3J5IjpbNTYxMDQ4ODQ0LDEwOTUxNTA0ODYsLTE4Mz
+I1MDE2NiwxNjIwODU0NTFdfQ==
 -->
