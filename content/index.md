@@ -7,10 +7,12 @@ $(folders)
 
 * [IBM's 200,000 Macs Have Made a Happier and More Productive Workforce, Study Finds](https://apple.slashdot.org/story/19/11/12/2133218/ibms-200000-macs-have-made-a-happier-and-more-productive-workforce-study-finds)
 
-| 200,000 Macs | 200,000 Windows |
-|-
+| Item | 200,000 Macs | 200,000 Windows |
+|-------|-----------|-------------|
+| Exceed Expectations in Performance Reviews | 122% | 100% |
+| Sales
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDEwNTMsLTIwMDA3MTg0NzAsLTE4MT
-k4NDgzNjksNzc1MDAxMTQ5LC0xNjk0MTIwMjU3LC0xNDc4ODU0
-MTQsLTUzMDQwOTQzXX0=
+eyJoaXN0b3J5IjpbLTU4MjQ3MDMwNSwtMjAwMDcxODQ3MCwtMT
+gxOTg0ODM2OSw3NzUwMDExNDksLTE2OTQxMjAyNTcsLTE0Nzg4
+NTQxNCwtNTMwNDA5NDNdfQ==
 -->
