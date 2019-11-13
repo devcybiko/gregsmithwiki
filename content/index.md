@@ -13,9 +13,11 @@ $(folders)
 | Sales Deals | 16% larger proceeds | - |
 | Likely to leave IBM | - | 17% more likely |
 | Needing Additional Software | 5% | 11% |
-| Staff Needed for Maintenance | 7 | 20 
+| Staff Needed for Maintenance | 7 | 20 |
+| Simplicity of setup | 98% satisfied | 86% satisfied (Win 7 -> 10) |
+| Needing Support | - | 5x more likely to need 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODU1NzQwOCwtMjAwMDcxODQ3MCwtMT
-gxOTg0ODM2OSw3NzUwMDExNDksLTE2OTQxMjAyNTcsLTE0Nzg4
-NTQxNCwtNTMwNDA5NDNdfQ==
+eyJoaXN0b3J5IjpbLTIwNjI0NDg1OTUsLTIwMDA3MTg0NzAsLT
+E4MTk4NDgzNjksNzc1MDAxMTQ5LC0xNjk0MTIwMjU3LC0xNDc4
+ODU0MTQsLTUzMDQwOTQzXX0=
 -->
