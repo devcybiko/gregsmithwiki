@@ -9,10 +9,11 @@ $(folders)
 
 | Item | 200,000 Macs | 200,000 Windows |
 |-------|-----------|-------------|
-| Exceed Expectations in Performance Reviews | 122% | 100% |
-| Sales
+| Exceed Expectations in Performance Reviews | 22% higer | - |
+| Sales Deals | 16% larger proceeds | - |
+| Likely to leave IBM | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4MjQ3MDMwNSwtMjAwMDcxODQ3MCwtMT
+eyJoaXN0b3J5IjpbLTI0Mzg5NTgyNiwtMjAwMDcxODQ3MCwtMT
 gxOTg0ODM2OSw3NzUwMDExNDksLTE2OTQxMjAyNTcsLTE0Nzg4
 NTQxNCwtNTMwNDA5NDNdfQ==
 -->
