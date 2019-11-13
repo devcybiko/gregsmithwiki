@@ -11,9 +11,11 @@ $(folders)
 |-------|-----------|-------------|
 | Exceed Expectations in Performance Reviews | 22% higer | - |
 | Sales Deals | 16% larger proceeds | - |
-| Likely to leave IBM | 
+| Likely to leave IBM | - | 17% more likely |
+| Needing Additional Software | 5% | 11% |
+| Staff Needed for Maintenance | 7 | 20 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0Mzg5NTgyNiwtMjAwMDcxODQ3MCwtMT
+eyJoaXN0b3J5IjpbLTM4ODU1NzQwOCwtMjAwMDcxODQ3MCwtMT
 gxOTg0ODM2OSw3NzUwMDExNDksLTE2OTQxMjAyNTcsLTE0Nzg4
 NTQxNCwtNTMwNDA5NDNdfQ==
 -->
