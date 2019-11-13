@@ -9,3 +9,7 @@ $(files)
 [https://www.npmjs.com/package/node-opennlp](https://www.npmjs.com/package/node-opennlp)
 [https://github.com/joeferner/node-java](https://github.com/joeferner/node-java)
 [https://www.npmjs.com/package/node-nlp](https://www.npmjs.com/package/node-nlp)
+
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTE4MTE1NzUyOV19
+-->
