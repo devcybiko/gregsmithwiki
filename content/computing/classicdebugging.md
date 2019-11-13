@@ -1,10 +1,10 @@
 # Classic Debugging Tips
 
 1. Computers don't lie.
-	1. If it says something's broken - it's broken
-2. If you keep getting the same error despite the fact that you made a change, make sure you're editing the same file
+	12. If it says something's broken - it's broken
+2. If you keep getting the same error despite the fact that you made a change,  make sure you're editing the same file
 	1. Make sure you saved the last file you editted
-	2. If possible, use Auto Save
+	2. If possible, use Auto Savtime
 3. Print out values
 4. Print out data types of values
 5. Insert a debug line at the start and end of a function
@@ -19,6 +19,7 @@
 10. If something suddenly stops working - what changed?
 	1. Always look at the acute errors 
 11. Stay focused - fix one thing at a time.
+12. 2. If you keep getting the same error despite the fact that you made a change,  make sure you're editing the same time
 13. If the 'cycle time' between a change and seeing it on-screen is really long, Consider breaking the problem out into a smaller sample piece of code and debugging that instead.
 14. If you keep getting the same errror despite the fact that you made a change - make sure you saved the file.
 15. If you keep getting the same errror despite the fact that you made a change - make sure you edited the right file - in the right folder.
@@ -28,8 +29,8 @@
 	19. Are you in the right folder?
 	20. Did you use the right URL?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ0MTQ4MjM3MCw1ODE4MDcwMTQsODM4OD
-Y0MDg5LDE1MjQ4MjI5OTcsOTE2NTY0NzAxLDIxNDEwMjkyMjIs
-LTkwMTMxMTc2MCwxNDk1NTE4MjcxLC0xNDQ3MDIwNDE1LDE4MD
-U2MTYzNThdfQ==
+eyJoaXN0b3J5IjpbMjEzMzgzMTYsMTQ0MTQ4MjM3MCw1ODE4MD
+cwMTQsODM4ODY0MDg5LDE1MjQ4MjI5OTcsOTE2NTY0NzAxLDIx
+NDEwMjkyMjIsLTkwMTMxMTc2MCwxNDk1NTE4MjcxLC0xNDQ3MD
+IwNDE1LDE4MDU2MTYzNThdfQ==
 -->
