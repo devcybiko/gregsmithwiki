@@ -28,6 +28,17 @@ painting_df = pd.DataFrame([
 training_data.head()
 training_data.describe()
 ```
+
+## Sorting etc...
+```
+training_data["Trainer"].unique()
+```
+
+## Aggregating
+```
+training_data["Trainer"].value_counts()
+training_data.describe()
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAxODIxMjM5XX0=
+eyJoaXN0b3J5IjpbNTE4NDE3OTkzXX0=
 -->
