@@ -22,6 +22,12 @@ painting_df = pd.DataFrame([
 
 ```
 
+## Slicing Data
+```
+training_data["Trainer"] ### select a column
+training_data["Trainer"] ### select a column
+```
+
 ## Printing Results
 
 ```
@@ -38,7 +44,9 @@ training_data["Trainer"].unique()
 ```
 training_data["Trainer"].value_counts()
 training_data.describe()
+training_data["Weight"].mean()
+training_data["Weight"].sum()
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTE4NDE3OTkzXX0=
+eyJoaXN0b3J5IjpbMTcxODEwNTM2NF19
 -->
