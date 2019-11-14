@@ -47,6 +47,15 @@ training_data.describe()
 training_data["Weight"].mean()
 training_data["Weight"].sum()
 ```
+
+## Renaming Columns
+```
+hey_arnold_renamed = hey_arnold.rename(columns={"Character_in_show": "Character",
+"color_of_hair": "Hair Color",
+"Height": "Height",
+"Football_Shaped_Head": "Football Head"
+})
+```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNjQwMzEzMDZdfQ==
+eyJoaXN0b3J5IjpbMTg3NjU3NTg4OSwtMTM2NDAzMTMwNl19
 -->
