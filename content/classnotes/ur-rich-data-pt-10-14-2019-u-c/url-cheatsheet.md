@@ -33,8 +33,10 @@ The path ends with an optional question mark `?` character. This begins a set of
 - (no path)
 - (no query parameters)
 
-2. http://wiki.greg-smith.com
-- 
+2. https://wiki.greg-smith.com
+- protocol: https (secure http)
+- domain
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTM2NjM5MjMsMjk1NDk1NDc0XX0=
+eyJoaXN0b3J5IjpbLTE5OTA0MzY0MCwtMTYxMzY2MzkyMywyOT
+U0OTU0NzRdfQ==
 -->
