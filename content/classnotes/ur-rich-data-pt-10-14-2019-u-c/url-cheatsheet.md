@@ -47,8 +47,18 @@ The path ends with an optional question mark `?` character. This begins a set of
 - path: /computing/cheatsheets/cors.md
 - (no query parameters)
 
+4. [https://wiki.greg-smith.com/search?query=mac](https://wiki.greg-smith.com/search?query=mac)
+- protocol: https (secure http)
+- domain: greg-smith.com
+- subdomain: wiki
+- path: /search
+- query parameters
+	- key=query
+	- value=mac
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDYzMzgyMTA1LC0xNjEzNjYzOTIzLDI5NT
+eyJoaXN0b3J5IjpbOTc3NzgxMjAzLC0xNjEzNjYzOTIzLDI5NT
 Q5NTQ3NF19
 -->
