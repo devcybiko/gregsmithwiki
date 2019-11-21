@@ -57,10 +57,11 @@ The path ends with an optional question mark `?` character. This begins a set of
 	- value=mac
 
 ## References
-[https://tools.ietf.org/html/rfc3986#section-3.3](https://tools.ietf.org/html/rfc3986#section-3.3)
+* [https://tools.ietf.org/html/rfc3986#section-3.3](https://tools.ietf.org/html/rfc3986#section-3.3)
+* [https://www.w3schools.com/tags/ref_urlencode.asp](https://www.w3schools.com/tags/ref_urlencode.asp)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3MzYzNzcyMCw5Nzc3ODEyMDMsLTE2MT
+eyJoaXN0b3J5IjpbMTU3ODg4MzUxNSw5Nzc3ODEyMDMsLTE2MT
 M2NjM5MjMsMjk1NDk1NDc0XX0=
 -->
