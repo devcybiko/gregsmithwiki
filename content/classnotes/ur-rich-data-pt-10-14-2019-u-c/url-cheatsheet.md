@@ -56,9 +56,11 @@ The path ends with an optional question mark `?` character. This begins a set of
 	- key=query
 	- value=mac
 
+## References
+[https://tools.ietf.org/html/rfc3986#section-3.3](https://tools.ietf.org/html/rfc3986#section-3.3)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTc3NzgxMjAzLC0xNjEzNjYzOTIzLDI5NT
-Q5NTQ3NF19
+eyJoaXN0b3J5IjpbMTA3MzYzNzcyMCw5Nzc3ODEyMDMsLTE2MT
+M2NjM5MjMsMjk1NDk1NDc0XX0=
 -->
