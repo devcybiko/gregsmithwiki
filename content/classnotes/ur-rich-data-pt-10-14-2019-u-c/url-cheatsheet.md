@@ -23,7 +23,11 @@ The filename (in the case of a webpage) generally ends in `.html`. If the filena
 More files can be requested, like `.jpg`, `.png`, and `.css` and `.js` among others.
 
 ## Query Parameters
-The path ends with an optional question mark `?` character. This begins a set of 
+The path ends with an optional question mark `?` character. This begins a set of ampersand-separated key/value pairs. Remember, key/value pairs have a `name` followed by an equals sign `=` and then any value you like. If more than one key/value pairs are needed, they are separated by ampersands `&`.
+
+## Examples
+
+http://greg-smith.com
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3ODc2Nzc3NywyOTU0OTU0NzRdfQ==
+eyJoaXN0b3J5IjpbNjQzMTYyNzQwLDI5NTQ5NTQ3NF19
 -->
