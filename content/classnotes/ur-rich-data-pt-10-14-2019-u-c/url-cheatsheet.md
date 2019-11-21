@@ -16,7 +16,9 @@ Subdomain: This is is a domain within the domain. For example, if you wanted the
 Port: The `port` is a number from 0-65535. It represents a further refinement of where the data on the server is coming from. For `http` requests, the port is almost always `80`. For `https` requests, the port is almost always `443`.
 
 ## Path
-The `path` is a slash-separated (`/`) list of "
+The `path` is a slash-separated (`/`) list of "folders" that lead to a "page". The reason I put "folders" in quotes is because it's very often not a physical folder on the server, but just a logical divison of the data leading to a filename.
+
+The filename (in the case of a webpage) generally ends in `.html`. If the filename is omitted, (for a webpage) most servers assume you're reque
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxNjEyMDc5NCwyOTU0OTU0NzRdfQ==
+eyJoaXN0b3J5IjpbLTEyNDUzOTExNzgsMjk1NDk1NDc0XX0=
 -->
