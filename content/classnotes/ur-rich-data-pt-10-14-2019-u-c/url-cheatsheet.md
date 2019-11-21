@@ -11,7 +11,12 @@ https: Secure HyperText Transfer Protocol
 ## Domain
 Domain: This is the domain name of the server you want to request HTML or API (JSON) data from. It's very often a domain name like 'google.com' or 'omdb.org'.
 
-Subdomain: This is is a domain within the domain. For example, if you wanted the API server from Google, you'd use `api.google.com`. Not every request uses this. It's often used by large enterprises to segregate different parts of their website into smaller entities (like `card.capitalone.com` and `auto.capitalone
+Subdomain: This is is a domain within the domain. For example, if you wanted the API server from Google, you'd use `api.google.com`. Not every request uses this. It's often used by large enterprises to segregate different parts of their website into smaller entities (like `card.capitalone.com` and `auto.capitalone.com`)
+
+Port: The `port` is a number from 0-65535. It represents a further refinement of where the data on the server is coming from. For `http` requests, the port is almost always `80`. For `https` requests, the port is almost always `443`.
+
+## Path
+The `path` is a slash-separated (`/`) list of "
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MjE4NDE0NywyOTU0OTU0NzRdfQ==
+eyJoaXN0b3J5IjpbMTQxNjEyMDc5NCwyOTU0OTU0NzRdfQ==
 -->
