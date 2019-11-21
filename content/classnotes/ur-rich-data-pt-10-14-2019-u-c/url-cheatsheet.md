@@ -27,7 +27,14 @@ The path ends with an optional question mark `?` character. This begins a set of
 
 ## Examples
 
-http://greg-smith.com
+1. http://greg-smith.com
+- protocol: http
+- domain: greg-smith.com
+- (no path)
+- (no query parameters)
+
+2. http://wiki.greg-smith.com
+- 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjQzMTYyNzQwLDI5NTQ5NTQ3NF19
+eyJoaXN0b3J5IjpbLTE2MTM2NjM5MjMsMjk1NDk1NDc0XX0=
 -->
