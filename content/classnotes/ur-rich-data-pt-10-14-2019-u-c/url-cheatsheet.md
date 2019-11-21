@@ -35,8 +35,14 @@ The path ends with an optional question mark `?` character. This begins a set of
 
 2. https://wiki.greg-smith.com
 - protocol: https (secure http)
-- domain
+- domain: greg-smith.com
+- subdomain: wiki
+- (no path)
+- (no query parameters)
+
+3. [https://wiki.greg-smith.com/computing/cheatsheets/cors.md](https://wiki.greg-smith.com/computing/cheatsheets/cors.md)
+- protocol: https (secure http)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTA0MzY0MCwtMTYxMzY2MzkyMywyOT
-U0OTU0NzRdfQ==
+eyJoaXN0b3J5IjpbLTEzMjU2NDk2NjIsLTE2MTM2NjM5MjMsMj
+k1NDk1NDc0XX0=
 -->
