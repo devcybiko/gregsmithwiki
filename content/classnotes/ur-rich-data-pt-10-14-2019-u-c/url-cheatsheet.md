@@ -18,7 +18,12 @@ Port: The `port` is a number from 0-65535. It represents a further refinement of
 ## Path
 The `path` is a slash-separated (`/`) list of "folders" that lead to a "page". The reason I put "folders" in quotes is because it's very often not a physical folder on the server, but just a logical divison of the data leading to a filename.
 
-The filename (in the case of a webpage) generally ends in `.html`. If the filename is omitted, (for a webpage) most servers assume you're reque
+The filename (in the case of a webpage) generally ends in `.html`. If the filename is omitted, (for a webpage) most servers assume you're requesting `index.html`.
+
+More files can be requested, like `.jpg`, `.png`, and `.css` and `.js` among others.
+
+## Query Parameters
+The path ends with an optional question mark `?` character. This begins a set of 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDUzOTExNzgsMjk1NDk1NDc0XX0=
+eyJoaXN0b3J5IjpbLTc3ODc2Nzc3NywyOTU0OTU0NzRdfQ==
 -->
