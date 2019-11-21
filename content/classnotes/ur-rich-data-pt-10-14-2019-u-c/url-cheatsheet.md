@@ -42,7 +42,13 @@ The path ends with an optional question mark `?` character. This begins a set of
 
 3. [https://wiki.greg-smith.com/computing/cheatsheets/cors.md](https://wiki.greg-smith.com/computing/cheatsheets/cors.md)
 - protocol: https (secure http)
+- domain: greg-smith.com
+- subdomain: wiki
+- path: /computing/cheatsheets/cors.md
+- (no query parameters)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjU2NDk2NjIsLTE2MTM2NjM5MjMsMj
-k1NDk1NDc0XX0=
+eyJoaXN0b3J5IjpbNDYzMzgyMTA1LC0xNjEzNjYzOTIzLDI5NT
+Q5NTQ3NF19
 -->
