@@ -33,12 +33,11 @@ Leah Barbour
 Shane Stoddard
 Alex Powers
 
-## The Minor League:
+## Team:  Miner League
 Carrie Naumann
 Dinesh Nayak
 Victoria Harvey
 
-## Team:  Miner League
 Project 1 Proposal:  Impacts on Education
 Write this as a brief summary of your interests and intent, including:
 * The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
@@ -59,7 +58,7 @@ Andrew Cummings
 Godday
 Jacob Vogt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDgzMzE3NjEsLTE4MzYyODgwMjksLT
-E0OTM0MjUxMjMsLTE4OTUyMzI1NzQsLTE3NTcwMjM2NywtMTAx
-MTU2ODA0MV19
+eyJoaXN0b3J5IjpbMTMxMzQ0NDkwNiwtMTQwODMzMTc2MSwtMT
+gzNjI4ODAyOSwtMTQ5MzQyNTEyMywtMTg5NTIzMjU3NCwtMTc1
+NzAyMzY3LC0xMDExNTY4MDQxXX0=
 -->
