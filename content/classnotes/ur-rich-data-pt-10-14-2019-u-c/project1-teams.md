@@ -32,13 +32,29 @@ Carrie Naumann
 Dinesh Nayak
 Victoria Harvey
 
+Team:  Miner League
+
+Project 1 Proposal:  Impacts on Education
+Write this as a brief summary of your interests and intent, including:
+●	The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
+	○	Government - taxes Carrie
+	○	School/neighborhood - Victoria
+	○	Student data - Dinesh
+●	The kinds of questions you'll be asking of that data
+	○	How underfunding of schools impact of neighborhoods (compare affluency to drop out rates)
+	○	Do tax revenue generating localities correlate with school success?  Do areas with shrinking tax bases have an impact on school success?
+	○	Investigate disincentives for student engagement 
+●	Possible source for such data
+	○	Census
+	○	Assessor and Property Tax Records
+	○	School attendance data
 
 ## Team Hungry Hippos:
 Andrew Cummings
 Godday
 Jacob Vogt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk5MzU5NDcsLTE4MzYyODgwMjksLT
+eyJoaXN0b3J5IjpbLTE3Nzg5OTc5NjEsLTE4MzYyODgwMjksLT
 E0OTM0MjUxMjMsLTE4OTUyMzI1NzQsLTE3NTcwMjM2NywtMTAx
 MTU2ODA0MV19
 -->
