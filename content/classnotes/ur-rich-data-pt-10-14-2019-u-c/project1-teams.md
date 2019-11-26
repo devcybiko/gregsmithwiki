@@ -41,20 +41,20 @@ Write this as a brief summary of your interests and intent, including:
 	-	School/neighborhood - Victoria
 	-	Student data - Dinesh
 * The kinds of questions you'll be asking of that data
-- How underfunding of schools impact of neighborhoods (compare affluency to drop out rates)
-- Do tax revenue generating localities correlate with school success?  Do areas with shrinking tax bases have an impact on school success?
-- Investigate disincentives for student engagement 
+	- How underfunding of schools impact of neighborhoods (compare affluency to drop out rates)
+	- Do tax revenue generating localities correlate with school success?  Do areas with shrinking tax bases have an impact on school success?
+	- Investigate disincentives for student engagement 
 * Possible source for such data
-- Census
-- Assessor and Property Tax Records
-- School attendance data
+	- Census
+	- Assessor and Property Tax Records
+	- School attendance data
 
 ## Team Hungry Hippos:
 Andrew Cummings
 Godday
 Jacob Vogt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNTg5Mjc0NiwtMTgzNjI4ODAyOSwtMT
-Q5MzQyNTEyMywtMTg5NTIzMjU3NCwtMTc1NzAyMzY3LC0xMDEx
-NTY4MDQxXX0=
+eyJoaXN0b3J5IjpbMzAxMDA0ODkwLC0xODM2Mjg4MDI5LC0xND
+kzNDI1MTIzLC0xODk1MjMyNTc0LC0xNzU3MDIzNjcsLTEwMTE1
+NjgwNDFdfQ==
 -->
