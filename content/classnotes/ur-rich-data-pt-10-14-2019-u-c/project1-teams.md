@@ -6,12 +6,11 @@ Sarah Miller
 Hannah Huntoon
 
 Questions for our project will be:  
-
 1.  Does educational attainment impact voter registration rates?
 2.  Does socioeconomic status impact voter registration rates?
-
 3. Does geographic location impact voter registration rates?  
 4. Does tenure at residence impact voter registration rates?All data will be taken from the census information provided by the United States Census Bureau specifically from the 2016 Presidential Election datasets.  
+
 Dataset 1: Reported Voting and Registration, by Age, Sex, and Educational Attainment: November 2016  
 Dataset 2: Reported Voting and Registration, by Age, for the United States, Regions, and Divisions: November 2016  
 Dataset 3: Reported Voting and Registration of Family Members, by Age and Family Income: November 2016  
@@ -21,6 +20,13 @@ Dataset 4: Reported Voting and Registration, by Duration of Residence, and Tenur
 Ross Davenport  
 Rachel Brinkley  
 Ryan Byrne
+
+Data: Border Crossing  
+Data: Population data for surrounding citiesQuestions:  
+What modes of transportation are the most utilized?  
+Congestion at different entry points? (How long it takes to get through, population of travel?)  
+Proximity of cities within 50 miles?  
+If we were going to add an entry point where would add?
 
 ## Team Angry Pandas:
 Leah Barbour
@@ -32,8 +38,7 @@ Carrie Naumann
 Dinesh Nayak
 Victoria Harvey
 
-Team:  Miner League
-
+## Team:  Miner League
 Project 1 Proposal:  Impacts on Education
 Write this as a brief summary of your interests and intent, including:
 * The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
@@ -54,7 +59,7 @@ Andrew Cummings
 Godday
 Jacob Vogt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzAxMDA0ODkwLC0xODM2Mjg4MDI5LC0xND
-kzNDI1MTIzLC0xODk1MjMyNTc0LC0xNzU3MDIzNjcsLTEwMTE1
-NjgwNDFdfQ==
+eyJoaXN0b3J5IjpbLTE0MDgzMzE3NjEsLTE4MzYyODgwMjksLT
+E0OTM0MjUxMjMsLTE4OTUyMzI1NzQsLTE3NTcwMjM2NywtMTAx
+MTU2ODA0MV19
 -->
