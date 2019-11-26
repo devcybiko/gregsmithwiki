@@ -33,6 +33,8 @@ Leah Barbour
 Shane Stoddard
 Alex Powers
 
+Is there a correlation between the music genres you listen to and your income level? We will take into account people's age groups, income, location to determine any correlation.
+
 ## Team:  Miner League
 Carrie Naumann
 Dinesh Nayak
@@ -58,7 +60,7 @@ Andrew Cummings
 Godday
 Jacob Vogt
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMzQ0NDkwNiwtMTQwODMzMTc2MSwtMT
-gzNjI4ODAyOSwtMTQ5MzQyNTEyMywtMTg5NTIzMjU3NCwtMTc1
-NzAyMzY3LC0xMDExNTY4MDQxXX0=
+eyJoaXN0b3J5IjpbNDAzMDU4Mjc2LC0xNDA4MzMxNzYxLC0xOD
+M2Mjg4MDI5LC0xNDkzNDI1MTIzLC0xODk1MjMyNTc0LC0xNzU3
+MDIzNjcsLTEwMTE1NjgwNDFdfQ==
 -->
