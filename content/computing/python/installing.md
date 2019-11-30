@@ -39,7 +39,8 @@ Python 3.7.3
 $ pip  -V  
 pip 19.0.3 from  /Users/mbbroberg/.pyenv/versions/3.7.3/lib/python3.7/site-packages/pip  (python  3.7)`
 
-Now we know for certain that we're using Python 3.7.3 and pip will update alongside it without any manual aliasing between versions. Using Moshe's recommendation to use a version manager (pyenv) enables us to easily accept future upgrades without getting confused about which Python we are running at a given time.
+Now we know for certain that we're using Python 3.7.3 and pip will update alongside it without any manual aliasing between versions. Using Moshe's recommendation to use a version manager pyenv enables us to easily accept future upgrades without getting confused about which Python we are running at a given time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTg3OTcxNDgsLTY3ODA0MTMwNl19
+eyJoaXN0b3J5IjpbLTkxMTU5NDczOSwtMjA1ODc5NzE0OCwtNj
+c4MDQxMzA2XX0=
 -->
