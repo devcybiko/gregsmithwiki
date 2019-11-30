@@ -2,7 +2,8 @@
 
 from [https://opensource.com/article/19/5/python-3-default-mac](https://opensource.com/article/19/5/python-3-default-mac)
 
-```$ brew  install  pyenv  
+```
+$ brew  install  pyenv  
 🍺  /usr/local/Cellar/pyenv/1.2.10:  634  files, 2.4MB
 ```
 Now let's install the latest Python version (3.7.3 as of this writing):
@@ -45,6 +46,6 @@ pip 19.0.3 from  /Users/mbbroberg/.pyenv/versions/3.7.3/lib/python3.7/site-packa
 ```
 Now we know for certain that we're using Python 3.7.3 and pip will update alongside it without any manual aliasing between versions. Using Moshe's recommendation to use a version manager (pyenv) enables us to easily accept future upgrades without getting confused about which Python we are running at a given time.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTc1MzcxMjgsLTEzOTQyNDYxNzYsMT
+eyJoaXN0b3J5IjpbLTE0MzkwOTQ2NzgsLTEzOTQyNDYxNzYsMT
 gzMzY2MjIwMSwtMjA1ODc5NzE0OCwtNjc4MDQxMzA2XX0=
 -->
