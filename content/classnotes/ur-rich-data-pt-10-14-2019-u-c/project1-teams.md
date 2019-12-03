@@ -59,8 +59,14 @@ Write this as a brief summary of your interests and intent, including:
 Andrew Cummings
 Godday
 Jacob Vogt
+
+We plan on looking at what causes obesity and looking into what leads to higher causes of obesity...we plan to make a heat map and mapping of the locations based on the locations of these restaurants, hopefully will be able to somehow breakdown prevalence of obesity by city as well as well as using scatter plots and bar graphs to show the relationship between sugary drink consumption and obesity, and we also plan to use bar and scatter plots to show the relationship between education, income level, and obesity
+
+Here are our datasets we plan to use
+
+[https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO)[https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO)[https://www.kaggle.com/datafiniti/fast-food-restaurants](https://www.kaggle.com/datafiniti/fast-food-restaurants)[http://data-lakecountyil.opendata.arcgis.com/datasets/3e0c1eb04e5c48b3be9040b0589d3ccf_8/data](http://data-lakecountyil.opendata.arcgis.com/datasets/3e0c1eb04e5c48b3be9040b0589d3ccf_8/data)[https://www.kaggle.com/spittman1248/cdc-data-nutrition-physical-activity-obesity](https://www.kaggle.com/spittman1248/cdc-data-nutrition-physical-activity-obesity)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDAzMDU4Mjc2LC0xNDA4MzMxNzYxLC0xOD
-M2Mjg4MDI5LC0xNDkzNDI1MTIzLC0xODk1MjMyNTc0LC0xNzU3
-MDIzNjcsLTEwMTE1NjgwNDFdfQ==
+eyJoaXN0b3J5IjpbLTEyNTY3MjIyNSw0MDMwNTgyNzYsLTE0MD
+gzMzE3NjEsLTE4MzYyODgwMjksLTE0OTM0MjUxMjMsLTE4OTUy
+MzI1NzQsLTE3NTcwMjM2NywtMTAxMTU2ODA0MV19
 -->
