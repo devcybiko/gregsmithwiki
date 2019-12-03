@@ -36,6 +36,7 @@ I have combined a few git commands into a script that I execute to check everyth
 
 Basically, I just run the following commands
 ```
+git pull
 git add -A             # add everything to the workspace
 git commit -am "$msg"  # commit everything
 git push $repo         # push to the repo
@@ -70,5 +71,6 @@ git push $repo
 git status
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxODI2MjIzMSwxMDIxODEwMDE3XX0=
+eyJoaXN0b3J5IjpbLTIzNjgyMzUzOCwtNDE4MjYyMjMxLDEwMj
+E4MTAwMTddfQ==
 -->
