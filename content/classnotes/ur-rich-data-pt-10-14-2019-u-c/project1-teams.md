@@ -28,7 +28,13 @@ Congestion at different entry points? (How long it takes to get through, populat
 Proximity of cities within 50 miles?  
 If we were going to add an entry point where would add?
 
+**Population density in north America (near borders):**
 [https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/export/?disjunctive.country&q=mexico&refine.country=Mexico&sort=population](https://public.opendatasoft.com/explore/dataset/geonames-all-cities-with-a-population-1000/export/?disjunctive.country&q=mexico&refine.country=Mexico&sort=population)
+
+**Traffic by type and volume and location etc.**
+[https://www.kaggle.com/akhilv11/border-crossing-entry-data](https://www.kaggle.com/akhilv11/border-crossing-entry-data)
+
+
 ## Team Angry Pandas:
 Leah Barbour
 Shane Stoddard
@@ -67,7 +73,7 @@ Here are our datasets we plan to use
 
 [https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO)[https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO)[https://www.kaggle.com/datafiniti/fast-food-restaurants](https://www.kaggle.com/datafiniti/fast-food-restaurants)[http://data-lakecountyil.opendata.arcgis.com/datasets/3e0c1eb04e5c48b3be9040b0589d3ccf_8/data](http://data-lakecountyil.opendata.arcgis.com/datasets/3e0c1eb04e5c48b3be9040b0589d3ccf_8/data)[https://www.kaggle.com/spittman1248/cdc-data-nutrition-physical-activity-obesity](https://www.kaggle.com/spittman1248/cdc-data-nutrition-physical-activity-obesity)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NjY4OTM2NCwtMTI1NjcyMjI1LDQwMz
+eyJoaXN0b3J5IjpbLTEwNDgwNjU4NSwtMTI1NjcyMjI1LDQwMz
 A1ODI3NiwtMTQwODMzMTc2MSwtMTgzNjI4ODAyOSwtMTQ5MzQy
 NTEyMywtMTg5NTIzMjU3NCwtMTc1NzAyMzY3LC0xMDExNTY4MD
 QxXX0=
