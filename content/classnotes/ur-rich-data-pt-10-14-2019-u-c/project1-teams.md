@@ -16,6 +16,26 @@ Dataset 2: Reported Voting and Registration, by Age, for the United States, Regi
 Dataset 3: Reported Voting and Registration of Family Members, by Age and Family Income: November 2016  
 Dataset 4: Reported Voting and Registration, by Duration of Residence, and Tenure: November 2016 (All races)
 
+## Team:  Miner League
+Carrie Naumann
+Dinesh Nayak
+Victoria Harvey
+
+Project 1 Proposal:  Impacts on Education
+Write this as a brief summary of your interests and intent, including:
+* The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
+	-	Government - taxes Carrie
+	-	School/neighborhood - Victoria
+	-	Student data - Dinesh
+* The kinds of questions you'll be asking of that data
+	- How underfunding of schools impact of neighborhoods (compare affluency to drop out rates)
+	- Do tax revenue generating localities correlate with school success?  Do areas with shrinking tax bases have an impact on school success?
+	- Investigate disincentives for student engagement 
+* Possible source for such data
+	- Census
+	- Assessor and Property Tax Records
+	- School attendance data
+
 ## Team Raptors:  
 Ross Davenport  
 Rachel Brinkley  
@@ -47,25 +67,6 @@ Correlation between stock market performance and music genre popularity
 -Pull stock market data  
 -Music sales/streaming/download data
 
-## Team:  Miner League
-Carrie Naumann
-Dinesh Nayak
-Victoria Harvey
-
-Project 1 Proposal:  Impacts on Education
-Write this as a brief summary of your interests and intent, including:
-* The kind of data you'd like to work with/field you're interested in (e.g., geodata, weather data, etc.)
-	-	Government - taxes Carrie
-	-	School/neighborhood - Victoria
-	-	Student data - Dinesh
-* The kinds of questions you'll be asking of that data
-	- How underfunding of schools impact of neighborhoods (compare affluency to drop out rates)
-	- Do tax revenue generating localities correlate with school success?  Do areas with shrinking tax bases have an impact on school success?
-	- Investigate disincentives for student engagement 
-* Possible source for such data
-	- Census
-	- Assessor and Property Tax Records
-	- School attendance data
 
 ## Team Hungry Hippos:
 Andrew Cummings
@@ -78,8 +79,9 @@ Here are our datasets we plan to use
 
 [https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO)[https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO)[https://www.kaggle.com/datafiniti/fast-food-restaurants](https://www.kaggle.com/datafiniti/fast-food-restaurants)[http://data-lakecountyil.opendata.arcgis.com/datasets/3e0c1eb04e5c48b3be9040b0589d3ccf_8/data](http://data-lakecountyil.opendata.arcgis.com/datasets/3e0c1eb04e5c48b3be9040b0589d3ccf_8/data)[https://www.kaggle.com/spittman1248/cdc-data-nutrition-physical-activity-obesity](https://www.kaggle.com/spittman1248/cdc-data-nutrition-physical-activity-obesity)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODM2MjA1OCwtMTA5NzY5NzY4MywtMT
-A0ODA2NTg1LC0xMjU2NzIyMjUsNDAzMDU4Mjc2LC0xNDA4MzMx
-NzYxLC0xODM2Mjg4MDI5LC0xNDkzNDI1MTIzLC0xODk1MjMyNT
-c0LC0xNzU3MDIzNjcsLTEwMTE1NjgwNDFdfQ==
+eyJoaXN0b3J5IjpbLTc3NTU3NTk1MiwtMTE4MzYyMDU4LC0xMD
+k3Njk3NjgzLC0xMDQ4MDY1ODUsLTEyNTY3MjIyNSw0MDMwNTgy
+NzYsLTE0MDgzMzE3NjEsLTE4MzYyODgwMjksLTE0OTM0MjUxMj
+MsLTE4OTUyMzI1NzQsLTE3NTcwMjM2NywtMTAxMTU2ODA0MV19
+
 -->
