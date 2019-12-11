@@ -40,7 +40,7 @@ Leah Barbour
 Shane Stoddard
 Alex Powers
 
-Is there a correlation between the music genres you listen to and your income level? We will take into account people's age groups, income, location to determine any correlation.
+ We've been working on how the performance of the stock market correlates to health data, including suicide rate, birth/fertility rate, divorce and marriage rates, etc. 
 
 Updated Project Focus:  
 Correlation between stock market performance and music genre popularity  
@@ -78,8 +78,8 @@ Here are our datasets we plan to use
 
 [https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO)[https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO](https://nccd.cdc.gov/dnpao_dtm/rdPage.aspx?rdReport=DNPAO_DTM.ExploreByTopic&islClass=SD&islTopic=SD2&go=GO)[https://www.kaggle.com/datafiniti/fast-food-restaurants](https://www.kaggle.com/datafiniti/fast-food-restaurants)[http://data-lakecountyil.opendata.arcgis.com/datasets/3e0c1eb04e5c48b3be9040b0589d3ccf_8/data](http://data-lakecountyil.opendata.arcgis.com/datasets/3e0c1eb04e5c48b3be9040b0589d3ccf_8/data)[https://www.kaggle.com/spittman1248/cdc-data-nutrition-physical-activity-obesity](https://www.kaggle.com/spittman1248/cdc-data-nutrition-physical-activity-obesity)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTc2OTc2ODMsLTEwNDgwNjU4NSwtMT
-I1NjcyMjI1LDQwMzA1ODI3NiwtMTQwODMzMTc2MSwtMTgzNjI4
-ODAyOSwtMTQ5MzQyNTEyMywtMTg5NTIzMjU3NCwtMTc1NzAyMz
-Y3LC0xMDExNTY4MDQxXX0=
+eyJoaXN0b3J5IjpbLTExODM2MjA1OCwtMTA5NzY5NzY4MywtMT
+A0ODA2NTg1LC0xMjU2NzIyMjUsNDAzMDU4Mjc2LC0xNDA4MzMx
+NzYxLC0xODM2Mjg4MDI5LC0xNDkzNDI1MTIzLC0xODk1MjMyNT
+c0LC0xNzU3MDIzNjcsLTEwMTE1NjgwNDFdfQ==
 -->
