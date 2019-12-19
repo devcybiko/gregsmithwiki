@@ -47,7 +47,7 @@ Notes:
 3. use the name 'id' for your primary key
 4. use the name \<tablename>_id for foreign keys
 5. use '_' to separate words in table and column names
-6. make all tables plural - using the letter 's'
+6. make all table names plural - using the letter 's'
 7. (for example 'persons' not 'people')
 ```
 CREATE TABLE persons (
@@ -147,6 +147,6 @@ WHERE condition;
 [MySQL Tutorial](http://www.mysqltutorial.org)
 [Order of Operations](https://www.w3processing.com/index.php?subMenuLoad=SQL/Data/WherePrecedence.php)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0OTQ4MDg0MywtMTA3MjQ0Mzc0MCwxOT
+eyJoaXN0b3J5IjpbMTY5MzYzODE0NiwtMTA3MjQ0Mzc0MCwxOT
 YzODk2NTY5XX0=
 -->
