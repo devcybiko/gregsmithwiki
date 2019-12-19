@@ -46,7 +46,9 @@ Notes:
 2. (databases are inconsistent across platforms regarding upper/lower case sensitivity)
 3. use the name 'id' for your primary key
 4. use the name \<tablename>_id for foreign keys
-5. use '_' to separate words
+5. use '_' to separate words in table and column names
+6. make all tables plural - using the letter 's'
+7. (for example 'persons' not 'people')
 ```
 CREATE TABLE persons (
     id int,
@@ -54,7 +56,8 @@ CREATE TABLE persons (
     first_name varchar(255),
     address varchar(255),
     city varchar(255),
-    state 
+    state varchar(2),
+    zip varchar(10)
 );
 ```
 
@@ -144,6 +147,6 @@ WHERE condition;
 [MySQL Tutorial](http://www.mysqltutorial.org)
 [Order of Operations](https://www.w3processing.com/index.php?subMenuLoad=SQL/Data/WherePrecedence.php)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjQ3MDc1MSwtMTA3MjQ0Mzc0MCwxOT
+eyJoaXN0b3J5IjpbLTk0OTQ4MDg0MywtMTA3MjQ0Mzc0MCwxOT
 YzODk2NTY5XX0=
 -->
