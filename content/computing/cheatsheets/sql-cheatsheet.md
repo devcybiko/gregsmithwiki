@@ -119,6 +119,7 @@ WHERE condition;
 
 ## References
 [MySQL Tutorial](http://www.mysqltutorial.org)
+[Order of Operations](https://www.w3processing.com/index.php?subMenuLoad=SQL/Data/WherePrecedence.php)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2Mzg5NjU2OV19
+eyJoaXN0b3J5IjpbLTEwNzI0NDM3NDAsMTk2Mzg5NjU2OV19
 -->
