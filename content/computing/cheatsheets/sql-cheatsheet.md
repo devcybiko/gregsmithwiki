@@ -33,20 +33,20 @@ CREATE TABLE Persons (
 );
 
 ```
-### Column Definitions
+### Column Definition Examples
 ```
 <name> <datatype(size)> <attributes>
 ```
-
-task_id  INT  AUTO_INCREMENT  PRIMARY KEY,
-title  VARCHAR(255)  NOT NULL,
-start_date  DATE,
-due_date  DATE,
-status  TINYINT  NOT NULL,
-priority  TINYINT  NOT NULL,
-description  TEXT,
-created_at  TIMESTAMP  DEFAULT  CURRENT_TIMESTAMP
-```
+|name| type | attributes |
+|------|-------|---------|
+|task_id | INT  |AUTO_INCREMENT  PRIMARY KEY|
+|title | VARCHAR(255)  NOT NULL,
+|start_date | DATE,
+|due_date | DATE,
+|status | TINYINT  NOT NULL,
+|priority | TINYINT  NOT NULL,
+|description | TEXT,
+|created_at | TIMESTAMP  DEFAULT  CURRENT_TIMESTAMP
 
 ## SELECT
 
@@ -134,6 +134,6 @@ WHERE condition;
 [MySQL Tutorial](http://www.mysqltutorial.org)
 [Order of Operations](https://www.w3processing.com/index.php?subMenuLoad=SQL/Data/WherePrecedence.php)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzOTE1NTc1OSwtMTA3MjQ0Mzc0MCwxOT
-YzODk2NTY5XX0=
+eyJoaXN0b3J5IjpbLTExODkyOTM5MzEsLTEwNzI0NDM3NDAsMT
+k2Mzg5NjU2OV19
 -->
