@@ -24,14 +24,6 @@ CREATE TABLE [IF NOT EXISTS] table_name(
 
 DROP TABLE [IF EXISTS] table_name;
 
-CREATE TABLE Persons (
-    PersonID int,
-    LastName varchar(255),
-    FirstName varchar(255),
-    Address varchar(255),
-    City varchar(255)
-);
-
 ```
 ### Column Definition Examples
 ```
@@ -40,13 +32,26 @@ CREATE TABLE Persons (
 |name| type | attributes |
 |------|-------|---------|
 |task_id | INT  |AUTO_INCREMENT  PRIMARY KEY|
-|title | VARCHAR(255)  NOT NULL,
-|start_date | DATE,
-|due_date | DATE,
-|status | TINYINT  NOT NULL,
-|priority | TINYINT  NOT NULL,
-|description | TEXT,
-|created_at | TIMESTAMP  DEFAULT  CURRENT_TIMESTAMP
+|title | VARCHAR(255) | NOT NULL |
+|start_date | DATE |
+|due_date | DATE| 
+|status | TINYINT | NOT NULL|
+|priority | TINYINT | NOT NULL |
+|description | TEXT |
+|created_at | TIMESTAMP | DEFAULT  CURRENT_TIMESTAMP |
+
+### Create Table Example
+Notes:
+1. use lowercase 
+```
+CREATE TABLE persons (
+    id int,
+    LastName varchar(255),
+    FirstName varchar(255),
+    Address varchar(255),
+    City varchar(255)
+);
+```
 
 ## SELECT
 
@@ -134,6 +139,6 @@ WHERE condition;
 [MySQL Tutorial](http://www.mysqltutorial.org)
 [Order of Operations](https://www.w3processing.com/index.php?subMenuLoad=SQL/Data/WherePrecedence.php)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODkyOTM5MzEsLTEwNzI0NDM3NDAsMT
-k2Mzg5NjU2OV19
+eyJoaXN0b3J5IjpbMTc2NTYyMjgyMSwtMTA3MjQ0Mzc0MCwxOT
+YzODk2NTY5XX0=
 -->
