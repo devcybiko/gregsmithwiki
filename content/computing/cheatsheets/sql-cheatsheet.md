@@ -42,14 +42,19 @@ DROP TABLE [IF EXISTS] table_name;
 
 ### Create Table Example
 Notes:
-1. use lowercase 
+1. use lowercase table and column names
+2. (databases are inconsistent across platforms regarding upper/lower case sensitivity)
+3. use the name 'id' for your primary key
+4. use the name \<tablename>_id for foreign keys
+5. use '_' to separate words
 ```
 CREATE TABLE persons (
     id int,
-    LastName varchar(255),
-    FirstName varchar(255),
-    Address varchar(255),
-    City varchar(255)
+    last_name varchar(255),
+    first_name varchar(255),
+    address varchar(255),
+    city varchar(255),
+    state 
 );
 ```
 
@@ -139,6 +144,6 @@ WHERE condition;
 [MySQL Tutorial](http://www.mysqltutorial.org)
 [Order of Operations](https://www.w3processing.com/index.php?subMenuLoad=SQL/Data/WherePrecedence.php)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2NTYyMjgyMSwtMTA3MjQ0Mzc0MCwxOT
+eyJoaXN0b3J5IjpbLTEwNjQ3MDc1MSwtMTA3MjQ0Mzc0MCwxOT
 YzODk2NTY5XX0=
 -->
