@@ -4,9 +4,8 @@
 
 # 11 Things the Most Productive People Do Every Day
 
-# By  Travis Bradberry|Jan. 2nd, 2020
+## By  Travis Bradberry|Jan. 2nd, 2020
 
-Send to Kindle
 
 Make 2020 your most productive year yet.
 
@@ -23,8 +22,6 @@ Being disorganized is costly, in terms of both money and time. But if you can co
 While Benjamin Franklin’s estimation is overstated, spending time getting organized is still a valuable investment. Experts estimate that every hour spent in planning and organizing saves three to four hours of time that would otherwise be wasted.
 
 There’s a reason why people who are the calmest and least stressed are the ones who get the most done—they understand the importance of organization, and they’ve adapted their habits accordingly. The good news is that you can become more organized and productive too, just by emulating the habits that they rely on.
-
-**Trending:  [How to Want What You’ve Got in a World of Infinite Choice](https://nextbigideaclub.com/conversation-how-to-want-what-youve-got-in-a-world-of-infinite-choice/19734/)**
 
 **They don’t let their desks get cluttered.**  You may think you know exactly where, and in which stack of paper, you can find a particular document. But you’re kidding yourself if you don’t think you’d be more productive with a clean and organized desk. Just the act of organizing the stuff on your desk helps you organize it in your mind. In addition, research conducted at Princeton University revealed that the more our brains are bombarded by the competing stimuli on a cluttered desk, the less we’re able to focus. And this wasn’t just subjective evidence; they were able to see the difference in MRIs of the subjects’ brain activity.
 
@@ -55,5 +52,5 @@ Every minute you spend looking for something you misplaced, or trying to remembe
 _This post was  [originally published](https://www.linkedin.com/pulse/11-things-organized-productive-people-do-every-day-bradberry-1f/)  by  [Dr. Travis Bradberry](https://www.linkedin.com/pulse/11-things-organized-productive-people-do-every-day-bradberry-1f/)  on LinkedIn._
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE5Njg2NDc3N119
+eyJoaXN0b3J5IjpbLTExNTYzNTAwOTVdfQ==
 -->
