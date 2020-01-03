@@ -4,7 +4,8 @@
 2. Set up Hosted Zone
 3. Add MX Record
 	1. 10 inbound-smtp. us-east-1.amazonaws.com
-4. 
+4. Create SNS Topic
+5.  Create SNS Subscription (email forward)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwMDEyNjI3XX0=
+eyJoaXN0b3J5IjpbLTE2MjE3ODczMDZdfQ==
 -->
