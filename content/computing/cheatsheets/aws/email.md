@@ -7,7 +7,9 @@
 4. Create SNS Topic
 5.  Create SNS Subscription (email forward)
 	1. Receive Confirmation email and Click Confirm
-6. Create SES 
+6. Create SES record
+	7. Set Notifications to forward to new SNS Subscription
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxMTUwNjE5NywyMDYyODgxNTI4XX0=
+eyJoaXN0b3J5IjpbMTM2NDczMTcwNywtODExNTA2MTk3LDIwNj
+I4ODE1MjhdfQ==
 -->
