@@ -10,8 +10,10 @@
 6. Create SES record for the domain
 	7. Set Notifications to forward to new SNS Topic
 7. Create SNS Rule for the domain
-	8. 
+
+[https://aws.amazon.com/blogs/messaging-and-targeting/forward-incoming-email-to-an-external-destination/](https://aws.amazon.com/blogs/messaging-and-targeting/forward-incoming-email-to-an-external-destination/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDkyOTk0OCwxOTU0NTg4Njc1LC0xOD
-Y0MzUzNDU5LC04MTE1MDYxOTcsMjA2Mjg4MTUyOF19
+eyJoaXN0b3J5IjpbMTMwNzE1MDM2MywxMTM0OTI5OTQ4LDE5NT
+Q1ODg2NzUsLTE4NjQzNTM0NTksLTgxMTUwNjE5NywyMDYyODgx
+NTI4XX0=
 -->
