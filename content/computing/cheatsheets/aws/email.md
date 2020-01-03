@@ -6,6 +6,7 @@
 	1. 10 inbound-smtp. us-east-1.amazonaws.com
 4. Create SNS Topic
 5.  Create SNS Subscription (email forward)
+	1. Receive Confirmation email and Click Confirm
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MjE3ODczMDZdfQ==
+eyJoaXN0b3J5IjpbMjA2Mjg4MTUyOF19
 -->
