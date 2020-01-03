@@ -7,6 +7,7 @@
 4. Create SNS Topic
 5.  Create SNS Subscription (email forward)
 	1. Receive Confirmation email and Click Confirm
+6. Create SES 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2Mjg4MTUyOF19
+eyJoaXN0b3J5IjpbLTgxMTUwNjE5NywyMDYyODgxNTI4XX0=
 -->
