@@ -12,8 +12,9 @@
 7. Create SNS Rule for the domain
 
 [https://aws.amazon.com/blogs/messaging-and-targeting/forward-incoming-email-to-an-external-destination/](https://aws.amazon.com/blogs/messaging-and-targeting/forward-incoming-email-to-an-external-destination/)
+-   [http://www.daniloaz.com/en/use-gmail-with-your-own-domain-for-free-thanks-to-amazon-ses-lambda/](http://www.daniloaz.com/en/use-gmail-with-your-own-domain-for-free-thanks-to-amazon-ses-lambda/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwNzE1MDM2MywxMTM0OTI5OTQ4LDE5NT
-Q1ODg2NzUsLTE4NjQzNTM0NTksLTgxMTUwNjE5NywyMDYyODgx
-NTI4XX0=
+eyJoaXN0b3J5IjpbLTY5MzAxMjg2NywxMzA3MTUwMzYzLDExMz
+Q5Mjk5NDgsMTk1NDU4ODY3NSwtMTg2NDM1MzQ1OSwtODExNTA2
+MTk3LDIwNjI4ODE1MjhdfQ==
 -->
