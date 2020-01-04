@@ -11,10 +11,15 @@
 	7. Set Notifications to forward to new SNS Topic
 7. Create SNS Rule for the domain
 
+Steps for updating / adding new forwards
+8. Add domain to SNS
+9. Add domain to Forwarding Rule
+10.Update Lambda with from/to email address
+ 
 [https://aws.amazon.com/blogs/messaging-and-targeting/forward-incoming-email-to-an-external-destination/](https://aws.amazon.com/blogs/messaging-and-targeting/forward-incoming-email-to-an-external-destination/)
 -   [http://www.daniloaz.com/en/use-gmail-with-your-own-domain-for-free-thanks-to-amazon-ses-lambda/](http://www.daniloaz.com/en/use-gmail-with-your-own-domain-for-free-thanks-to-amazon-ses-lambda/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MzAxMjg2NywxMzA3MTUwMzYzLDExMz
-Q5Mjk5NDgsMTk1NDU4ODY3NSwtMTg2NDM1MzQ1OSwtODExNTA2
-MTk3LDIwNjI4ODE1MjhdfQ==
+eyJoaXN0b3J5IjpbLTgwOTE2NDY2MiwtNjkzMDEyODY3LDEzMD
+cxNTAzNjMsMTEzNDkyOTk0OCwxOTU0NTg4Njc1LC0xODY0MzUz
+NDU5LC04MTE1MDYxOTcsMjA2Mjg4MTUyOF19
 -->
