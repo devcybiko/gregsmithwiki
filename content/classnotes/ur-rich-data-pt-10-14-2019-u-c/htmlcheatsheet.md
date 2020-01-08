@@ -8,7 +8,15 @@ querystring :: (key=value) & (key=value)...
 
 ```
 <!DOCTYPE  html>
+<html  lang="en-us">
+<head>
+<meta  charset="UTF-8">
+<title>My First Page</title>
+</head>
+```
+html :: <tag> htmltext </tag>
+htmltext :: any_text | 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc1MDg5MTM5LC0xMTYxMTQyNzY4LC0xOT
-U4MzIzNjYwXX0=
+eyJoaXN0b3J5IjpbODM0NDQ4NTQsLTExNjExNDI3NjgsLTE5NT
+gzMjM2NjBdfQ==
 -->
