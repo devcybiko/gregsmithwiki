@@ -15,9 +15,11 @@ querystring :: (key=value) & (key=value)...
   </head>
 </html>
 ```
-htmlformat :: <tag> htmltext </tag>
+htmlformat :: <tag attrs...> htmltext </tag>
 htmltext :: any_text | <htmlformat>
+attrs :: key="value"
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MjUxODEzMzUsLTExNjExNDI3NjgsLT
+eyJoaXN0b3J5IjpbLTE1NDA5ODc0MDgsLTExNjExNDI3NjgsLT
 E5NTgzMjM2NjBdfQ==
 -->
