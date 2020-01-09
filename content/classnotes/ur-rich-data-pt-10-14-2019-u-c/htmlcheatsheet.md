@@ -10,6 +10,7 @@ querystring :: (key=value) & (key=value)...
 <!DOCTYPE  html>
 <html  lang="en-us">
   <head>
+	  foo bar baz...
     <meta  charset="UTF-8">
     <title>My First Page</title>
   </head>
@@ -30,6 +31,6 @@ tag :: img, b, p, html, body, head, a, form, input
 key :: style, href, src...
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEzNjY1MDg1LC0xMTYxMTQyNzY4LC0xOT
-U4MzIzNjYwXX0=
+eyJoaXN0b3J5IjpbLTEwNzQ1NzUxNDMsLTExNjExNDI3NjgsLT
+E5NTgzMjM2NjBdfQ==
 -->
