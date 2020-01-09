@@ -19,7 +19,10 @@ htmlformat :: <tag attrs...> htmltext </tag>
 htmltext :: any_text | <htmlformat>
 attrs :: key="value"
 
+tag :: img, b, p, html, body, head, a, form, input
+attr
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA5ODc0MDgsLTExNjExNDI3NjgsLT
-E5NTgzMjM2NjBdfQ==
+eyJoaXN0b3J5IjpbOTIxOTY0OTg0LC0xMTYxMTQyNzY4LC0xOT
+U4MzIzNjYwXX0=
 -->
