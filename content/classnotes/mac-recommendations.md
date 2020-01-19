@@ -15,8 +15,10 @@
 -   [https://www.apple.com/shop/refurbished](https://www.apple.com/shop/refurbished)
 -   Sign up for [Dropbox.com](http://dropbox.com/) and get the app. It will synchronize your files with their cloud storage. If your Mac is lost, stolen or needs replacing - all your data will be backed up. Any storage solution will do including [Box.com](http://box.com/) and [iCloud.com](http://icloud.com/) (Apple's backup system). You can get a 2GB Dropbox for free.
 - **TOTAL COST**: About $1439 for the MacBook plus $100 for dongles/hub/case. And $9.95/mo for 1TB Dropbox.com backups.
-- Final Thoughts: Macs retain their value. I will upgrade my Mac every 2-3 years. I sell my old Mac on eBay for about 50% the price of a new Mac. Then I buy a new Mac on the Apple/Refurbish site, saving another 15%. This means I get an upgrad
+- Final Thoughts: Macs retain their value. I will upgrade my Mac every 2-3 years. I sell my old Mac on eBay for about 50% the price of a new Mac. Then I buy a new Mac on the Apple/Refurbish site, saving another 15%. This means I get an upgrade every 2-3 years for 35% the cost of a new Mac.
+- Also, consider getting the best Mac you can afford. Macs are not user-upgradable. Both the memory and SSD are soldered in place.
+- Finally compare this to the purchase of a car. If you spend $25,000 for a 'nused' car
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTU5MDgzMiwtNTUxNjEzMDkyLDIwNj
+eyJoaXN0b3J5IjpbMTkxNDY2NTQwNSwtNTUxNjEzMDkyLDIwNj
 g3MzIyNTEsMzIxMjgyOTM3XX0=
 -->
