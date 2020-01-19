@@ -2,11 +2,11 @@
 
 ## A MacBook Air is Fine, MacBook Pro is better
 
--   i5 processor of any speed should be OK. (An i7 processor will be more powerful, but not necessary.)
--   16GB is recommended for software development (remember the more RAM, the more tabs you can have open on your browser and the more apps/programs you can run simultaneously). 8GB will get you by, but your Mac may feel sluggish under heavy usage.
--   512GB storage (SSD) is recommended. But you can get by on 256GB. I recommend 512GB because you'll likely load a lot of disk intensive programs (MS-Office, VSCode, Mac Development tools, MySQL, Mongodb, Anaconda).
+-   **i5 processor** of any speed should be OK. (An i7 processor will be more powerful, but not necessary.)
+-   **16GB RAM** is recommended for software development (remember the more RAM, the more tabs you can have open on your browser and the more apps/programs you can run simultaneously). 8GB will get you by, but your Mac may feel sluggish under heavy usage.
+-   **512GB storage (SSD)** is recommended. But you can get by on 256GB. I recommend 512GB because you'll likely load a lot of disk intensive programs (MS-Office, VSCode, Mac Development tools, MySQL, Mongodb, Anaconda).
 -   MacBook Air only has 2 USB-C side ports. I recommend getting a couple add-ons:
--   a USB-C hub: ($70) [https://www.amazon.com/gp/product/B07QQ11BP6/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B07QQ11BP6/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1)
+-   **A USB-C hub:** ($70) [https://www.amazon.com/gp/product/B07QQ11BP6/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B07QQ11BP6/ref=ppx_yo_dt_b_asin_title_o08_s01?ie=UTF8&psc=1)
 -   and a few converter dongles for any USB-A devices you have: ($7.75 for three) [https://www.amazon.com/gp/product/B07DNQ9FD9/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B07DNQ9FD9/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
 -   Together they will add about $70 to your purchase, but you'll find them very handy.
 -   Optionally, consider getting a case to carry your "dongles" in: ($18)
@@ -19,6 +19,6 @@
 - Also, consider getting the best Mac you can afford. Macs are not user-upgradable. Both the memory and SSD are soldered in place.
 - Finally compare this to the purchase of a car. If you spend $25,000 for a 'nused' car - consider how many hours you actually drive it a day. Maybe 2hrs/day. In contrast consider how many hours a day you'll use your Mac. For me it's about 8-12 hours a day. It's easy to see that dollar-for-dollar getting a "professional" Mac makes sense if you're going to be a professional developer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjE4NDQ0MjMsMTQ5MzQ1NTUwMywtNT
-UxNjEzMDkyLDIwNjg3MzIyNTEsMzIxMjgyOTM3XX0=
+eyJoaXN0b3J5IjpbMTM2MjI3NjM0NywxNDkzNDU1NTAzLC01NT
+E2MTMwOTIsMjA2ODczMjI1MSwzMjEyODI5MzddfQ==
 -->
