@@ -15,10 +15,10 @@
 -   [https://www.apple.com/shop/refurbished](https://www.apple.com/shop/refurbished)
 -   Sign up for [Dropbox.com](http://dropbox.com/) and get the app. It will synchronize your files with their cloud storage. If your Mac is lost, stolen or needs replacing - all your data will be backed up. Any storage solution will do including [Box.com](http://box.com/) and [iCloud.com](http://icloud.com/) (Apple's backup system). You can get a 2GB Dropbox for free.
 - **TOTAL COST**: About $1439 for the MacBook plus $100 for dongles/hub/case. And $9.95/mo for 1TB Dropbox.com backups.
-- Final Thoughts: Macs retain their value. I will upgrade my Mac every 2-3 years. I sell my old Mac on eBay for about 50% the price of a new Mac. Then I buy a new Mac on the Apple/Refurbish site, saving another 15%. This means I get an upgrade every 2-3 years for 35% the cost of a new Mac.
+- Final Thoughts: Macs retain their value. I will upgrade my Mac every 2-3 years. I sell my old Mac on eBay for about 50% the price of a new Mac. Then I buy a new Mac on the Apple/Refurbish site, saving another 15%. This means I get an upgrade every 2-3 years for 35% the cost of a new Mac. But I have Macs that are 9 years old and still perform as well as the day I bought them.
 - Also, consider getting the best Mac you can afford. Macs are not user-upgradable. Both the memory and SSD are soldered in place.
 - Finally compare this to the purchase of a car. If you spend $25,000 for a 'nused' car - consider how many hours you actually drive it a day. Maybe 2hrs/day. In contrast consider how many hours a day you'll use your Mac. For me it's about 8-12 hours a day. It's easy to see that dollar-for-dollar getting a "professional" Mac makes sense if you're going to be a professional developer.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5MzQ1NTUwMywtNTUxNjEzMDkyLDIwNj
-g3MzIyNTEsMzIxMjgyOTM3XX0=
+eyJoaXN0b3J5IjpbLTE3NjE4NDQ0MjMsMTQ5MzQ1NTUwMywtNT
+UxNjEzMDkyLDIwNjg3MzIyNTEsMzIxMjgyOTM3XX0=
 -->
