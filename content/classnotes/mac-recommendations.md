@@ -14,6 +14,7 @@
 -   Also, I recommended the Apple Refurbished/Clearance site. You get 15% off the price and the device has had a personal review and carries the same warrantee as a ‘new’ Mac. If your Mac breaks down they’ll repair or replace (potentially with a new Mac)
 -   [https://www.apple.com/shop/refurbished](https://www.apple.com/shop/refurbished)
 -   Last thought... sign up for [Dropbox.com](http://dropbox.com/) and get the app. It will syncronize your files with their cloud storage. If your Mac is lost, stolen or need replacing - all your data will be backed up. Any storage solution will do including [Box.com](http://box.com/) and [iCloud.com](http://icloud.com/) (Apple's backup system). You can get a 2GB Dropbox for free.
+- TOTAL COST: About $1439 for the MacBook plus $100 for dongles/hub/case. And $9
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIxMjgyOTM3XX0=
+eyJoaXN0b3J5IjpbLTE0MjM5OTc1NDIsMzIxMjgyOTM3XX0=
 -->
