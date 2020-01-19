@@ -11,7 +11,7 @@
 -   Together they will add about $70 to your purchase, but you'll find them very handy.
 -   Optionally, consider getting a **case to carry** your "dongles" in: ($18)
 -   [https://www.amazon.com/gp/product/B017SKRWL4/ref=ppx_yo_dt_b_asin_title_o08_s02?ie=UTF8&psc=1](https://www.amazon.com/gp/product/B017SKRWL4/ref=ppx_yo_dt_b_asin_title_o08_s02?ie=UTF8&psc=1) (This one is about $18, but any carrying case will do)
--   Also, I recommended the **Apple Refurbished/Clearance site**. You get **15% off** the price and the device has had a personal review and carries the same warrantee as a ‘new’ Mac. If your Mac breaks down they’ll repair or replace it (potentially with a new Mac)
+-   Also, I recommended the **Apple Refurbished/Clearance site**. You get **15% off** the price and the device gets a personal review and carries the same warrantee as a ‘new’ Mac. If your Mac breaks down they’ll repair or replace it (potentially with a new Mac)
 -   [https://www.apple.com/shop/refurbished](https://www.apple.com/shop/refurbished)
 -   Sign up for [**Dropbox.com**](http://dropbox.com/) and get the app. It will synchronize your files with their cloud storage. If your Mac is lost, stolen or needs replacing - all your data will be backed up. Any storage solution will do including [Box.com](http://box.com/) and [iCloud.com](http://icloud.com/) (Apple's backup system). You can get a 2GB Dropbox for free.
 - **TOTAL COST**: About **$1439** for the MacBook plus $100 for dongles/hub/case. And $9.95/mo for 1TB Dropbox.com backups.
@@ -19,6 +19,6 @@
 - Also, consider getting the best Mac you can afford. Macs are not user-upgradable. Both the memory and SSD are soldered in place.
 - Finally compare this to the purchase of a car. If you spend $25,000 for a 'nused' car - consider how many hours you actually drive it a day. Maybe 2hrs/day. In contrast consider how many hours a day you'll use your Mac. For me it's about 8-12 hours a day. **It's easy to see that dollar-for-dollar getting a "professional" Mac makes sense if you're going to be a professional developer.**
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDU3NDEwOCwxNDkzNDU1NTAzLC01NT
+eyJoaXN0b3J5IjpbMTU4NDI0NTM1NCwxNDkzNDU1NTAzLC01NT
 E2MTMwOTIsMjA2ODczMjI1MSwzMjEyODI5MzddfQ==
 -->
