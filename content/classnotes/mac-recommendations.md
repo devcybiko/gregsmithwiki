@@ -56,7 +56,8 @@
 -   Tab Launcher
 -   Postgres 12  
     
--   * Homebrew [https://brew.sh/](https://brew.sh/)  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+-   Homebrew [https://brew.sh/](https://brew.sh/)
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
 -   ~/bin/setlinks
 -   Java JDK ([http://jdk.java.net/](http://jdk.java.net/), /Library/Java/JavaVirtualMachines/jdk-13.0.1.jdk)
 -   JEnv (homebrew)
