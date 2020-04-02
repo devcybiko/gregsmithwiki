@@ -1,17 +1,9 @@
 # NAIWE Staging
 
-Site is stored on AWS EC2 and MySQL
+$(files)
+$(folders)
 
-## Details
-url: https://agilewriters.info
-
-## MySQL Access
-You can access the staging database using your credentials. The host name is
-* MySQL Workbench: https://www.mysql.com/products/workbench/
-* Host: public-scratch.cvwwn9esnrpn.us-east-1.rds.amazonaws.com
-* UserName: (your firstname followed by your lastname, all lower case)
-* Password: (see the slack channel)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjgyMTA4MDE4XX0=
+eyJoaXN0b3J5IjpbMTIxOTAxMDcwXX0=
 -->
