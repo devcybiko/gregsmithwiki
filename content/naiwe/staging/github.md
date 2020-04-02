@@ -8,8 +8,9 @@
 2. Clone your fork of the repo
 	* copy the forked URL from your account
 	* on your computer goto your ~/git folder
+	* `cd ~/git`
 	* `git clone <your git fork url here>`
-3. `cd` to your folder 
+3. cd to the naiwe-prod folder
   * `cd ~/git/naiwe-prod`
 4. Switch to the `staging` branch (this is where you'll do all your work)
   * `git checkout staging`
@@ -22,5 +23,5 @@
 7. Go to your forked repo and verify the change
 8. Then, as a test, create a PR against the `staging` branch of the main repo.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMxMDMyNjY5MF19
+eyJoaXN0b3J5IjpbODk3MDY3NjU2XX0=
 -->
