@@ -7,6 +7,7 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
   * https://affiliate-program.amazon.com/help/node/topic/G202102380
  * Login with the `director@naiwe.com` username and password
  * Click the `Product Linking -> Product Links` menu item
+ * In the `Search for Any Product` box, find the `Search -> For` text field and enter either the ASIN (Amazon Serial Identy Number) or ISBN number and click `Go`
  * 
 ## 
 * Go to https://naiwe.com
@@ -15,5 +16,5 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
 * Find the `— Books Published by NAIWE Experts` link and click it to edit
 * [](https://affiliate-program.amazon.com/help/node/topic/G202102380).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NzIzMjg5NF19
+eyJoaXN0b3J5IjpbMTk2NjA4Njk1OF19
 -->
