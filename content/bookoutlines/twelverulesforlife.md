@@ -13,9 +13,10 @@ by Jordan Peterson
 9. Assume that the person you are listening to might know something you don't
 10. Be precise in your speech
 11. Do not bother children when they are skateboarding
-12. Pet a cat when you encounter one on the strett
+12. Pet a cat when you encounter one on the street
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NzE1ODk1MywxNDk0ODM4OTg4XX0=
+eyJoaXN0b3J5IjpbNDc4NTA1ODYsMTU4NzE1ODk1MywxNDk0OD
+M4OTg4XX0=
 -->
