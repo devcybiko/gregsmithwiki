@@ -12,7 +12,7 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
  * For the book/product you want, click the orange `Get Link` button.
  * See the `Build a link to a specific page from Amazon using the tools below.` box and accept the defaults.
  * In the `3. Get HTML Code For This Product Link` click the `Highlight HTML` button
- * Copy the HTML (using the Control-C (Windows) or Cmd-C (Mac) button)
+ * Copy the HTML (using the `Control-C (Windows)` or `Cmd-C (Mac)` button)
  * (Leave this window open in case you need to return to it to copy the HTML again.)
 ## Edit the Expert-Books Page
 * Go to https://naiwe.com
@@ -25,11 +25,12 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
 	* Each author is divided out with an `<h2>` tag.
 	* Under each `<h2>` tag is a `<figure>` tag for each book.
 	* Within the `<figure>` tag is an `<iframe>` tag. This is what you want to replace.
-* Highlight the `<iframe>` ... `</iframe>` text
-* Paste the HTML from the Affiliate Link step (use the Control-V (Windows) or Cmd-V (Mac) key)
+* Highlight the text beginning with `<iframe>` and ending with `</iframe>`.
+* Paste the HTML from the Affiliate Link step (use the `Control-V` (Windows) or `Cmd-V` (Mac) key)
 	* Be careful not to disrupt any code surrounding the `<iframe>`
 * Review your changes by clicking the `Preview Changes` button (upper-right corner of the screen)
-* If you're not satisfied with the change, continue to edit the 
+* If you're not satisfied with the change, continue to edit the HTML and refresh the preview with the `Preview Changes`button
+* Finally, whe
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQxOTAwMzE5MF19
+eyJoaXN0b3J5IjpbMTc5OTA5MzM1OF19
 -->
