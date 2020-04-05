@@ -26,6 +26,9 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
 	* Within the `<figure>` tag is an `<iframe>` tag. This is what you want to replace.
 * Highlight the `<iframe>` ... `</iframe>` text
 * Paste the HTML from the Affiliate Link step (use the Control-V (Windows) or Cmd-V (Mac) key)
+	* Be careful not to disrupt any code surrounding the `<iframe>`
+* Review your changes by clicking the `Preview Changes` button (upper-right corner of the screen)
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0MTU1NTg4NF19
+eyJoaXN0b3J5IjpbMTY2MjcwOTE4NF19
 -->
