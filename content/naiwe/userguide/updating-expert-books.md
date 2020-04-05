@@ -20,6 +20,10 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
 * In the Dashboard Sidebar menu, click the `Pages` menu item
 * Find the `— Books Published by NAIWE Experts` link and click it to edit the page
 * Locate the entry you want to change
+	* This can be challenging as HTML is very cryptic.
+	* Each author is divided out with an `<h2>` tag.
+	* Under each `<h2>` tag is a `<figure>` tag for each book.
+	* Within the `<figure>` tag is an `<i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5NDQ1MDg2Nl19
+eyJoaXN0b3J5IjpbMTI4OTIyMzY0OV19
 -->
