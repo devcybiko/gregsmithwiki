@@ -13,13 +13,13 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
  * See the `Build a link to a specific page from Amazon using the tools below.` box and accept the defaults.
  * In the `3. Get HTML Code For This Product Link` click the `Highlight HTML` button
  * Copy the HTML (using the Control-C (Windows) or Cmd-C (Mac) button)
- * (Leave this window open in case 
-## 
+ * (Leave this window open in case you need to return to it to copy the HTML again.)
+## Edit the Expert-Books Page
 * Go to https://naiwe.com
 * Login as usual (using the `Member Login` button and an admin username/password)
 * In the Dashboard Sidebar menu, click the `Pages` menu item
-* Find the `— Books Published by NAIWE Experts` link and click it to edit
-* [](https://affiliate-program.amazon.com/help/node/topic/G202102380).
+* Find the `— Books Published by NAIWE Experts` link and click it to edit the page
+* Locate the entry you want to change
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUwMTMyMjA3N119
+eyJoaXN0b3J5IjpbLTc5NDQ1MDg2Nl19
 -->
