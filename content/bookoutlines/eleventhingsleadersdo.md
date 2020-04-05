@@ -1,11 +1,8 @@
-
-![nextbigideaclub.com](https://www.google.com/s2/favicons?domain=nextbigideaclub.com)
-
-
 # 11 Things the Most Productive People Do Every Day
 
 ## By  Travis Bradberry|Jan. 2nd, 2020
 
+![nextbigideaclub.com](https://www.google.com/s2/favicons?domain=nextbigideaclub.com)
 
 Make 2020 your most productive year yet.
 
@@ -52,5 +49,5 @@ Every minute you spend looking for something you misplaced, or trying to remembe
 _This post was  [originally published](https://www.linkedin.com/pulse/11-things-organized-productive-people-do-every-day-bradberry-1f/)  by  [Dr. Travis Bradberry](https://www.linkedin.com/pulse/11-things-organized-productive-people-do-every-day-bradberry-1f/)  on LinkedIn._
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTYzNTAwOTVdfQ==
+eyJoaXN0b3J5IjpbLTU3MjY0MzgxNywtMTE1NjM1MDA5NV19
 -->
