@@ -1,4 +1,3 @@
-
 # Python CheatSheet
 
 $(toc)
@@ -53,5 +52,5 @@ while shopping == "y":
 	shopping = input("still shopping (y/n)")
 ```
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNDg3ODEyMl19
+eyJoaXN0b3J5IjpbMTQ0NjY0NzAzNiwxNDI0ODc4MTIyXX0=
 -->
