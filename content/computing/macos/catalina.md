@@ -22,7 +22,8 @@ I just helped a student with this a couple days ago. It’s a Catalina issue (I 
 
 [https://github.com/coding-boot-camp/FullStack-Ground](https://github.com/coding-boot-camp/FullStack-Ground)
 
-
+Mongodb help:
+https://wesleytsai.io/2015/07/26/mongodb-server-directory-permission-denied/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMjA2NzEyOV19
+eyJoaXN0b3J5IjpbMTIxMDIzOTAwNSwxMzIyMDY3MTI5XX0=
 -->
