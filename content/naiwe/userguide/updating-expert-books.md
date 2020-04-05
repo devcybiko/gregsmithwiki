@@ -30,7 +30,7 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
 	* Be careful not to disrupt any code surrounding the `<iframe>`
 * Review your changes by clicking the `Preview Changes` button (upper-right corner of the screen)
 * If you're not satisfied with the change, continue to edit the HTML and refresh the preview with the `Preview Changes`button
-* Finally, whe
+* Finally, when you're satisfied with the changes, click the `Update` button to publish the changes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5OTA5MzM1OF19
+eyJoaXN0b3J5IjpbLTU4Mzc2NTAzMV19
 -->
