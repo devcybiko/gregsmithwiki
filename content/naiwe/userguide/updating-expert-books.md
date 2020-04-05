@@ -19,6 +19,7 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
 * Login as usual (using the `Member Login` button and an admin username/password)
 * In the Dashboard Sidebar menu, click the `Pages` menu item
 * Find the `— Books Published by NAIWE Experts` link and click it to edit the page
+* Make sure to select the `Text` mode editor (There are three tabs: `Visual`, `Text`, and `Page Builder`)
 * Locate the entry you want to change
 	* This can be challenging as HTML is very cryptic.
 	* Each author is divided out with an `<h2>` tag.
@@ -28,7 +29,7 @@ The Expert Books page is in the main WordPress Multi-User (WPMU) site. The page 
 * Paste the HTML from the Affiliate Link step (use the Control-V (Windows) or Cmd-V (Mac) key)
 	* Be careful not to disrupt any code surrounding the `<iframe>`
 * Review your changes by clicking the `Preview Changes` button (upper-right corner of the screen)
-* 
+* If you're not satisfied with the change, continue to edit the 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2MjcwOTE4NF19
+eyJoaXN0b3J5IjpbLTQxOTAwMzE5MF19
 -->
