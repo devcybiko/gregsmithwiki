@@ -28,7 +28,7 @@ In a virtual world it can get pretty confusing when talking about folders, direc
   * "OS X Host" for MacOS
 
 * Download the NAIWE Virtual Machine Image here:
-  * [NAIWE VM](http://greg-smith.com/NAIWE.ova.gpg) (4GB)
+  * [NAIWE VM](https://gregsmithcom.s3.amazonaws.com/greg-smith.com/static/NAIWE.ova.gpg) (4GB)
   * (Get a cup of coffee. Depending on your network this can take from 5 to 120 minutes to download)
 
 * Import the NAIWE VM into the VirtualBox Manager
