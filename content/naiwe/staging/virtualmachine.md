@@ -1,6 +1,6 @@
 # Virtual Machine Instructions
 
-A virtual machine is a version of another computer running within your computer. This feat is accomplished by installing a "VirtualBox" server on your machine. Once installed, a copy of another computer, it's operating system, and files are stored on your computer. Then, the VirtualBox server will run that other computer on your computer's hardware. You can read more about [System Virtual Machines](https://en.wikipedia.org/wiki/Virtual_machine) on Wikipedia.
+A virtual machine is a version of another computer running within your computer. This feat is accomplished by installing a "VirtualBox" server on your machine. Once installed, a copy of another computer, it's operating system, and files are stored on your computer. Then, the VirtualBox server will run that other computer on your computer's hardware. You can read more about [System Virtual Machines](https://en.wikipedia.org/wiki/System_virtual_machine) on Wikipedia.
 
 In our case, the NAIWE VM will act just like 'naiwe.com' in the cloud, only it sits inside your computer. A copy of NAIWE.com's operating system (Linux), files, and database tables (archived April 2, 2020) have been installed on the VM.
 
@@ -14,11 +14,11 @@ We'll also configure your computer so that when you access 'http://naiwe.com' it
 
 In a virtual world it can get pretty confusing when talking about folders, directories, files, etc... and which computer they live on. Here are some terms and definitions that will help us keep them all straight.
 
-* Host: This is your physical computer. It is the computer that is running the VirtualBox Manager softare
-* Guest: This is the virtual computer running inside the VirtualBox Manager software
-* VirtualBox Manager: This is the graphical user interface for managing your VMs
-* VM: Virtual Machine: Alternately the file that has your Guest operating system on it, and the running instance of that file
-* NAIWE VM: an instance of all software and files that make up the unique NAIWE site
+* *Host*: This is your physical computer. It is the computer that is running the VirtualBox Manager softare
+* *Guest*: This is the virtual computer running inside the VirtualBox Manager software
+* *VirtualBox Manager*: This is the graphical user interface for managing your VMs
+* *VM: Virtual Machine*: Alternately the file that has your Guest operating system on it, and the running instance of that file
+* *NAIWE VM*: an instance of all software and files that make up the unique NAIWE site
 
 ## Download, Install, and Configure your NAIWE VM
 * Download the VirtualBox software here:
@@ -28,7 +28,7 @@ In a virtual world it can get pretty confusing when talking about folders, direc
   * "OS X Host" for MacOS
 
 * Download the NAIWE Virtual Machine Image here:
-  * [NAIWE VM](http://greg-smith/NAIWE.ova.gpg) (4GB)
+  * [NAIWE VM](http://greg-smith.com/NAIWE.ova.gpg) (4GB)
   * (Get a cup of coffee. Depending on your network this can take from 5 to 120 minutes to download)
 
 * Import the NAIWE VM into the VirtualBox Manager
@@ -39,11 +39,11 @@ In a virtual world it can get pretty confusing when talking about folders, direc
   * (once imported, you can delete or archive the NAIWE.ova file)
   * (or hang on to it if you feel you might want to start over)
 
-* Configure computer so it can communicate with the NAIWE VM
+* Configure the Host computer so it can communicate with the NAIWE VM
   * Execute the following command in a terminal to allow your computer to connect to the VM
   * `VBoxManage hostonlyif create`
 
-* Configure the NAIWE VM to point to your `naiwe-staging` folder
+* Configure the NAIWE VM to point to your `naiwe-staging` folder on the Host
   * Click on the "NAIWE" VM in the VirtualBox Manager
   * Click on the orange "Settings" Button
   * Click on the "Shared Folders" Icon
@@ -52,5 +52,5 @@ In a virtual world it can get pretty confusing when talking about folders, direc
   * Click on the "Folder Path:" and select "Other..." to navigate to the "naiwe-staging" Repo folder on your computer
   * Click on "OK"
 
-![NAIWE Guest Shared Folders](/assets/css/images/naiwe-shared-folders.png)
-![NAIWE Host Shared Folders](/assets/css/images/naiwe-host-shared-folders.png)
+![NAIWE Guest Shared Folders](/assets/images/naiwe-guest-shared-folders.png)
+![NAIWE Host Shared Folders](/assets/images/naiwe-guest-shared-folders.png)
