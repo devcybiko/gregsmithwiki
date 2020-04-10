@@ -21,11 +21,11 @@ In a virtual world it can get pretty confusing when talking about folders, direc
 * *NAIWE VM*: an instance of all software and files that make up the unique NAIWE site
 
 ## Download, Install, and Configure your NAIWE VM
-* Download the VirtualBox software here:
+* Download and Install VBoxManage hostonlyif createthe VirtualBox software here:
   * [VirtualBox (from Oracle)](https://www.virtualbox.org/wiki/Downloads)
   * Be sure to click the right link for your OS
-  * "Windows Host" for Microsoft Windows
-  * "OS X Host" for MacOS
+  * `Windows Host` for Microsoft Windows
+  * `OS X Host` for Macintosh OS X (MacOS)
 
 * Download the NAIWE Virtual Machine Image here:
   * [NAIWE VM](https://gregsmithcom.s3.amazonaws.com/greg-smith.com/static/NAIWE.ova.gpg) (4GB)
@@ -53,4 +53,4 @@ In a virtual world it can get pretty confusing when talking about folders, direc
   * Click on "OK"
 
 ![NAIWE Guest Shared Folders](/assets/images/naiwe-guest-shared-folders.png)
-![NAIWE Host Shared Folders](/assets/images/naiwe-guest-shared-folders.png)
+![NAIWE Host Shared Folders](/assets/images/naiwe-host-shared-folders.png)
