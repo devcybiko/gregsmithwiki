@@ -1,11 +1,9 @@
-# Database Tables
+# WPMU Database Tables
 
 
 [https://deliciousbrains.com/wordpress-multisite-database-tour/](https://deliciousbrains.com/wordpress-multisite-database-tour/)
 
-## Database naiwe_wpmu
-
-### The main WPMU tables
+## The main WPMU tables
 -   wp_users - the user table
 -   wp_blogs - the master blog list
 	-   blog_id(1) = [naiwe.com](http://naiwe.com)
@@ -35,7 +33,7 @@
 -   wp_usermeta
 -   wp_users
 
-### The Individual Member/Blog tables
+## The Individual Member/Blog tables
 **The `*` indicates a blog_id number**
 -   wp_*_ak_twitter
 -   wp_*_am_product_category
@@ -96,7 +94,7 @@
 -   wp_*_uam_accessgroup_to_object
 -   wp_*_uam_accessgroups
 
-### The bbPress (forums) Tables
+## The bbPress (forums) Tables
 -   wp_bb_forums
 -   wp_bb_meta
 -   wp_bb_posts
@@ -105,7 +103,7 @@
 -   wp_bb_terms
 -   wp_bb_topics
 
-### The BuddyPress (members & search) Tables
+## The BuddyPress (members & search) Tables
 -   wp_bp_activity
 -   wp_bp_activity_meta
 -   wp_bp_friends
@@ -125,11 +123,11 @@
 -   wp_bp_xprofile_groups
 -   wp_bp_xprofile_meta
 
-### The Duplicator Pro pages (unknown plugin)
+## The Duplicator Pro pages (unknown plugin)
 -   wp_duplicator_pro_entities
 -   wp_duplicator_pro_packages
 
-### The WordFence tables (malicious attacks plugin)
+## The WordFence tables (malicious attacks plugin)
 -   wp_wfBadLeechers
 -   wp_wfBlockedCommentLog
 -   wp_wfBlockedIPLog
@@ -158,5 +156,5 @@
 -   wp_wfThrottleLog
 -   wp_wfVulnScanners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzQ2MTI2N119
+eyJoaXN0b3J5IjpbLTc3NDExNjE5M119
 -->
