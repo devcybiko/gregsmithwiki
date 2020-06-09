@@ -24,7 +24,7 @@ module.exports = function(obj) {
             if (dollar >= 0) line = line.substring(0, dollar);
             line = line.replaceAll("#", '').trim();
             url = line;
-            url = "#" + url.toLowerCase().replaceAll(' ', '-').replaceAll('[^-a-z0-9]', '');
+            url = "#" + url.toLowerCase().replaceAll(' ', '-').replaceAll('[^_-a-z0-9]', '');
             html += `<li><a href=${url}>${line}</a></li>`;        
         }
     }

@@ -54,3 +54,7 @@ In a virtual world it can get pretty confusing when talking about folders, direc
 
 ![NAIWE Guest Shared Folders](/assets/images/naiwe-guest-shared-folders.png)
 ![NAIWE Host Shared Folders](/assets/images/naiwe-host-shared-folders.png)
+
+## Running the NAIWE VM
+
+## Developing with the NAIWE VM
