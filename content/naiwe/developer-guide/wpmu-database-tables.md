@@ -123,7 +123,8 @@
 -   wp_bp_xprofile_groups
 -   wp_bp_xprofile_meta
 
-## The Duplicator Pro pages (unknown plugin)
+## The Duplicator Pro pages (plugin)
+(Create, schedule and transfer a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly - I don't think we use/need this anymore)
 -   wp_duplicator_pro_entities
 -   wp_duplicator_pro_packages
 
@@ -156,5 +157,5 @@
 -   wp_wfThrottleLog
 -   wp_wfVulnScanners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc3NDExNjE5M119
+eyJoaXN0b3J5IjpbLTM4NDY5OTQ3MiwtNzc0MTE2MTkzXX0=
 -->
