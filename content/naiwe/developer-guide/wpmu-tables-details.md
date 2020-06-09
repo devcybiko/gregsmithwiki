@@ -1,6 +1,7 @@
 # WPMU Table Details
 (from [https://deliciousbrains.com/tour-wordpress-database/](https://deliciousbrains.com/tour-wordpress-database/))
 
+$(index)
 ## wp_posts
 
 The posts table is arguably the most important table in the WordPress database. Its name sometimes throws people who believe it purely contains their blog posts. However, albeit badly named, it is an extremely powerful table that stores various types of content including posts, pages, menu items, media attachments and any custom post types that a site uses.
@@ -284,5 +285,5 @@ This table records the user who registers a new site once it has been activated.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3NTE1Nzc3NF19
+eyJoaXN0b3J5IjpbLTE1NzY3Njc4MzVdfQ==
 -->
