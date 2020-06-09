@@ -4,12 +4,16 @@
 [https://deliciousbrains.com/wordpress-multisite-database-tour/](https://deliciousbrains.com/wordpress-multisite-database-tour/)
 
 ## Database naiwe_wpmu
+
+### The two main tables
 -   wp_users - the user table
 -   wp_blogs - the master blog list
 	-   blog_id(1) = [naiwe.com](http://naiwe.com)
 	-   blog_id(41) = [news.naiwe.com](http://news.naiwe.com)
 	-   blog_id(973) = agilewriters
+-   wp_blog_versions
 
+### The Individual Member/Blog tables
 **The `*` indicates a blog_id number**
 -   wp_*_ak_twitter
 -   wp_*_am_product_category
@@ -70,7 +74,7 @@
 -   wp_*_uam_accessgroup_to_object
 -   wp_*_uam_accessgroups
 
-**
+### The Blog Buddy Tables
 -   wp_bb_forums
 -   wp_bb_meta
 -   wp_bb_posts
@@ -78,8 +82,8 @@
 -   wp_bb_term_taxonomy
 -   wp_bb_terms
 -   wp_bb_topics
--   wp_blog_versions
--   wp_blogs
+
+### The Buddy Pro Tables
 -   wp_bp_activity
 -   wp_bp_activity_meta
 -   wp_bp_friends
@@ -150,5 +154,5 @@
 -   wp_wfThrottleLog
 -   wp_wfVulnScanners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ1MzI3MzldfQ==
+eyJoaXN0b3J5IjpbMTE3Njg1MzIzM119
 -->
