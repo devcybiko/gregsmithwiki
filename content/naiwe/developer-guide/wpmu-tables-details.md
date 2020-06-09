@@ -127,7 +127,7 @@ WordPress’ user management is one of its strongest features and one that makes
 -   **user_status**  – was used in Multisite pre WordPress 3.0 to indicate a spam user.
 -   **display_name**  – desired name to be used publicly in the site, can be user_login, user_nicename, first name or last name defined in wp_usermeta.
 
-#### wp_usermeta
+## wp_usermeta
 
 This table stores any further information related to the users. You will see other user profile fields for a user in the dashboard that are stored here.
 
@@ -136,7 +136,7 @@ This table stores any further information related to the users. You will see oth
 -   **meta_key**  – an identifying key for the piece of data.
 -   **meta_value**  – the actual piece of data.
 
-#### wp_options
+## wp_options
 
 The options table is the place where all of the site’s configuration is stored, including data about the theme, active plugins, widgets, and temporary cached data. It is typically where other plugins and themes store their settings.
 
@@ -149,7 +149,7 @@ The table is another example of a vertical key/value pair table to allow it to s
 
 Did you know that when performing migrations of databases using  [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/)  you can tell the plugin to preserve specific options in the target database using the  [‘wpmdb_preserved_options’](https://github.com/deliciousbrains/wp-migrate-db-pro-tweaks/blob/master/wp-migrate-db-pro-tweaks.php#L34)  filter?
 
-#### wp_links
+## wp_links
 
 During the rise of popularity of blogging, having a blogroll (links to other sites) on your site was very much in fashion. This table holds all those links for you.
 
@@ -172,9 +172,8 @@ Nowadays blogrolls are used less and less and as of WordPress 3.5 the administra
 Someone has produced a helpful entity relationship diagram to explain the relationships between all the tables and posted it on the  [WordPress codex](http://codex.wordpress.org/Database_Description#Database_Diagram). This was created at version 3.8 but the structure is still current:
 
 ![Diagram of the WordPress Database](https://cdn.deliciousbrains.com/content/uploads/2017/12/12112837/wordpress-database-tables-diagram.png)  
-_Source:  [WordPress](http://codex.wordpress.org/Database_Description#Database_Diagram)_
 
-### WordPress Multisite Database Tour
+## WordPress Multisite Database Tour
 
 When a WordPress site is  [converted to a Multisite install](http://codex.wordpress.org/Create_A_Network), a “network” of subsites is created. The existing site is converted to the first subsite in the network. The database classes the network itself as a site (wp_site), and each subsite as a blog (wp_blogs).
 
@@ -205,7 +204,7 @@ The following tables are created during the network installation to help manage 
 -   [wp_signups](https://deliciousbrains.com/tour-wordpress-database/#wp_signups)
 -   [wp_registration_log](https://deliciousbrains.com/tour-wordpress-database/#wp_registration_log)
 
-#### wp_site
+## wp_site
 
 This table will contain the one network for the installation although the table is structured to allow multiple networks in one database. This has never been implemented in WordPress itself, but can be managed using a plugin like  [WP Multi Network](https://wordpress.org/plugins/wp-multi-network/)  or  [Networks for WordPress](https://wordpress.org/plugins/networks-for-wordpress/).
 
@@ -213,7 +212,7 @@ This table will contain the one network for the installation although the table 
 -   **domain**  – base domain of the site.
 -   **path**  – path of the site.
 
-#### wp_sitemeta
+## wp_sitemeta
 
 This table is like the wp_options for the network. It stores all the network related configuration and information, as well as other data such as settings for network enabled plugins.
 
@@ -239,7 +238,7 @@ All the subsites in the network are stored in this table.
 -   **deleted**  – if the blog has been deleted.
 -   **lang_id**  – language ID of the blog.
 
-#### wp_blogmeta
+## wp_blogmeta
 
 Introduced in  [WordPress 5.1](https://make.wordpress.org/core/2019/01/28/multisite-support-for-site-metadata-in-5-1/), wp_blogmeta is new database table to store metadata associated with sites. This means you don’t need to use the options table to store data about the site and have to use  `switch_to_blog()`  before accessing it.
 
@@ -248,7 +247,7 @@ Introduced in  [WordPress 5.1](https://make.wordpress.org/core/2019/01/28/multis
 -   **meta_key**  – an identifying key for the piece of data.
 -   **meta_value**  – the actual piece of data.
 
-#### wp_blog_versions
+## wp_blog_versions
 
 When you upgrade the version of WordPress your site is running there are sometimes database changes. Upgrading a Multisite install to a new WordPress version will make those changes to the global tables. However, the set of tables for the subsites in the network will also need to have the upgrade applied. This table records the database version of each blog in the network, so WordPress knows which blogs need the upgrade and updates it after it has been run.
 
@@ -256,7 +255,7 @@ When you upgrade the version of WordPress your site is running there are sometim
 -   **db_version**  – the current WordPress DB revision for the blogs tables.
 -   **last_updated**  – the time and date of the last upgrade.
 
-#### wp_signups
+## wp_signups
 
 This table stores data on blogs which have been signed up for but not activated when the network allows new sites to be registered. Once a site is activated the record is deleted and a record is created in wp_blogs.
 
@@ -272,7 +271,7 @@ This table stores data on blogs which have been signed up for but not activated 
 -   **activation_key**  – activation key used in emails to active the blog.
 -   **meta**  – data about the signup.
 
-#### wp_registration_log
+## wp_registration_log
 
 This table records the user who registers a new site once it has been activated.
 
@@ -282,135 +281,8 @@ This table records the user who registers a new site once it has been activated.
 -   **blog_id**  – the blog ID. (Reference to the  [wp_blogs](https://deliciousbrains.com/tour-wordpress-database/#wp_blogs)  table.)
 -   **date_registered**  – time and data the blog was registered.
 
-### Connecting to the WordPress Database
 
-The most common way to connect to the WordPress database is with  [phpMyAdmin](https://www.phpmyadmin.net/), a web based administration tool for MySQL databases. It comes installed on a variety of web hosts (usually through cPanel), as well as  [local development environments](https://deliciousbrains.com/xampp-mamp-local-dev/)  like MAMP.
 
-If you have SSH access to the server you can follow  [our guide to connecting](https://spinupwp.com/doc/connecting-database/)  over the CLI or using an app like  [TablePlus](https://tableplus.com/).
-
-## WordPress Database and Query Optimization
-
-If your site has frequent content updates or is a busy site, then your WordPress database will be performing many UPDATE and DELETE statements that over time, can lead to the MySQL data files becoming fragmented. This can cause unnecessarily large database sizes and can impact the performance of the database.
-
-Tables can be optimized using the  `OPTIMIZE TABLE`  MySQL statement or by using a database tool like phpMyAdmin. For tables using the InnoDB storage engine, the query rebuilds the table to update index statistics and frees up unused space. For example:
-
-```
- OPTIMIZE TABLE wp_postmeta
-
-```
-
-There are other things you can do to keep the size of the WordPress database to a reasonable size to keep it fast. WordPress revisions functionality is a powerful and helpful part of the editing experience, but an infinite amount of revisions are stored by default, which is generally unnecessary and can be limited by setting the following constant:
-
-```
-define( 'WP_POST_REVISIONS', 10 );
-
-```
-
-WordPress also autosaves posts, pages and custom post types every minute. This interval can be lengthened with the following constant:
-
-```
-define( 'AUTOSAVE_INTERVAL', 300 );
-
-```
-
-WordPress will also store deleted posts in the trash for 30 days before it clears them out. This interval can be shortened with the following constant:
-
-```
-define( 'EMPTY_TRASH_DAYS', 3 );
-
-```
-
-### Indexes
-
-One of the most important factors in database speed and performance is a database index. An index can be created in one or more columns, which allows the database to quickly search for data in the columns, as well as efficiently ordering the columns.
-
-The default WordPress database has indexes on a number of columns across its tables. For example, the  `wp_postmeta`  table has the  `post_id`  column which holds a reference to the post that the piece of meta relates to.
-
-When searching for all the post meta for a specific post ID, this index makes the query as fast as possible. This is important on tables like the post meta table, which can have millions of rows of data.
-
-Indexes should be an important consideration when creating  [custom WordPress tables](https://deliciousbrains.com/creating-custom-table-php-wordpress/), especially if part of a plugin you plan to distribute. Table and SQL query performance on large scale sites should be thought about when designing table structures.
-
-I wrote about adding indexes to custom tables, and identifying slow SQL queries in a WordPress database in my article on  [SQL query optimization](https://deliciousbrains.com/sql-query-optimization/).
-
-## Migrating WordPress Databases
-
-Because WordPress stores the site URL and file path inside the database in various places, moving from different servers or migrating from a development site URL to a live site URL can be tricky.
-
-The site URL is stored in the  `wp_options`  table in the  `home`  and  `site_url`  options, the  `wp_posts`  GUID column, as well as anywhere absolute URLs for images and other assets are stored.
-
-Luckily, migration tools exist to make migrating a WordPress database a quick and easy process. Handy with WP CLI? Then take a look at the  `search-replace`  command to perform a URL replacement right from the command line:
-
-```
-$ wp search-replace 'http://example.test' 'http://example.com'
-
-```
-
-Or if you prefer to use a plugin with a powerful UI to allow you to export, import, and push and pull databases between sites, then take a look at  [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/).
-
-![](https://cdn.deliciousbrains.com/content/uploads/2020/05/22073813/feature-progress.png)
-
-It can also take care of migrating your media, plugins, and themes between sites as well as backing up your database before performing a migration. Backing up your WordPress database should be part of any developers database contingency plan.
-
-## Database Security
-
-I’ve already mentioned the importance of database backups. This is something that should be performed regularly (along with your site’s wp-content directory) to ensure you can revert back to a previous version if your database gets corrupted or hacked.
-
-An important aspect of this, is off-site backups, to a cloud provider like Amazon S3 or DigitalOcean Spaces. If your server goes down, then having access to a recent backup stored safely elsewhere is extremely important. SpinupWP allows you to  [configure site backups](https://spinupwp.com/doc/site-backups/)  on a schedule to various storage providers.
-
-[Tim Nash](https://twitter.com/tnash)  makes an  [excellent point about the need to regularly test your backups](https://timnash.co.uk/backup-strategies/), because a backup is worthless unless it can be restored properly.
-
-### Wrapping Up
-
-The WordPress database is a critical part of any WordPress website, so it’s worth understanding as much about it as possible.
-
-Hopefully this guide has covered a lot of the important aspects of the WordPress database that can help you level up as a WordPress developer.
-
-Do you have any questions about the WordPress Database? Let us know in the comments.
-
-This entry was tagged  [WordPress](https://deliciousbrains.com/tag/wordpress/),  [Development](https://deliciousbrains.com/tag/development/),  [WordPress Development Tips](https://deliciousbrains.com/tag/wordpress-development-tips/),  [Database](https://deliciousbrains.com/tag/database/),  [Tour](https://deliciousbrains.com/tag/tour/),  [MySQL](https://deliciousbrains.com/tag/mysql/).
-
-### ABOUT THE AUTHOR
-
-![](https://assets.deliciousbrains.com/avatar/920dd5ed3b01d7185cc421e15e75ef07?s=120&d=mm&r=g)
-
-#### [Iain Poulson](https://deliciousbrains.com/author/iain-poulson/)
-
-Iain is a WordPress and PHP developer from England. He builds free and premium plugins, as well as occasionally blogging about WordPress. Moonlights as a PhpStorm evangelist.
-
-[@polevaultweb](https://twitter.com/polevaultweb)  [polevaultweb.com](https://polevaultweb.com/)
-
-[![](https://uploads.convertflow.co/production/websites/1704/ccNcJzS3GTgPVispgxKA_convertflow_ome.jpg)](https://deliciousbrains.com/wp-offload-media/)
-
-SIGN UP FOR THE LATEST PRODUCT NEWS AND UPDATES
-
-[](https://deliciousbrains.com/)[](https://deliciousbrains.com/)
-
-Delicious Brains Inc.
-
--   Explore
-    
--   [Home](https://deliciousbrains.com/)
--   [Blog](https://deliciousbrains.com/blog/)
--   [Contact Us](https://deliciousbrains.com/contact-us/)
--   [My Account](https://deliciousbrains.com/my-account/)
-
--   Company
-    
--   [About](https://deliciousbrains.com/about/)
--   [Careers](https://deliciousbrains.com/about/#careers)
--   [Giving Back](https://deliciousbrains.com/about/#giving-back)
--   [Affiliates](https://deliciousbrains.com/affiliates/)
-
--   Products
-    
--   [WP Migrate DB Pro](https://deliciousbrains.com/wp-migrate-db-pro/)
--   [WP Offload Media](https://deliciousbrains.com/wp-offload-media/)
--   [WP Offload SES](https://deliciousbrains.com/wp-offload-ses/)
--   [SpinupWP](https://spinupwp.com/)
-
-© 2013–2020 DELICIOUS BRAINS INC. ALL RIGHTS RESERVED.
-
-[PRIVACY POLICY](https://deliciousbrains.com/privacy-policy/)|[TERMS AND CONDITIONS](https://deliciousbrains.com/terms-conditions/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1NzMzNzFdfQ==
+eyJoaXN0b3J5IjpbLTQ3NTE1Nzc3NF19
 -->
