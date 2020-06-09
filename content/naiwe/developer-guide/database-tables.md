@@ -96,7 +96,7 @@
 -   wp_*_uam_accessgroup_to_object
 -   wp_*_uam_accessgroups
 
-### The Blog Buddy Tables
+### The bbPress (forums) Tables
 -   wp_bb_forums
 -   wp_bb_meta
 -   wp_bb_posts
@@ -158,5 +158,5 @@
 -   wp_wfThrottleLog
 -   wp_wfVulnScanners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxOTMxNjgxN119
+eyJoaXN0b3J5IjpbMTQ1NTAyMjUzOV19
 -->
