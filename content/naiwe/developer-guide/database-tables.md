@@ -105,7 +105,7 @@
 -   wp_bb_terms
 -   wp_bb_topics
 
-### The Buddy Pro Tables
+### The BuddyPress (members & search) Tables
 -   wp_bp_activity
 -   wp_bp_activity_meta
 -   wp_bp_friends
@@ -158,5 +158,5 @@
 -   wp_wfThrottleLog
 -   wp_wfVulnScanners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1NTAyMjUzOV19
+eyJoaXN0b3J5IjpbMTg1MzQ2MTI2N119
 -->
