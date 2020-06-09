@@ -30,6 +30,8 @@ In a virtual world it can get pretty confusing when talking about folders, direc
 * Download the NAIWE Virtual Machine Image here:
   * [NAIWE VM](https://gregsmithcom.s3.amazonaws.com/greg-smith.com/static/NAIWE.ova.gpg) (4GB)
   * (Get a cup of coffee. Depending on your network this can take from 5 to 120 minutes to download)
+  * It will be encrypted so you'll need to un-encrypt it using GPG
+	  * https://gnupg.org/download/index.html
 
 * Import the NAIWE VM into the VirtualBox Manager
   * `VirtualBox -> File -> Import Appliance`
@@ -58,3 +60,6 @@ In a virtual world it can get pretty confusing when talking about folders, direc
 ## Running the NAIWE VM
 
 ## Developing with the NAIWE VM
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3ODk2Njk5ODFdfQ==
+-->
