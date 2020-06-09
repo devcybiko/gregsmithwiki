@@ -5,13 +5,35 @@
 
 ## Database naiwe_wpmu
 
-### The two main tables
+### The main WPMU tables
 -   wp_users - the user table
 -   wp_blogs - the master blog list
 	-   blog_id(1) = [naiwe.com](http://naiwe.com)
 	-   blog_id(41) = [news.naiwe.com](http://news.naiwe.com)
 	-   blog_id(973) = agilewriters
 -   wp_blog_versions
+-   wp_network_log
+-   wp_network_postmeta
+-   wp_network_posts
+-   wp_network_rebuildqueue
+-   wp_network_term_relationships
+-   wp_network_term_taxonomy
+-   wp_network_terms
+-   wp_options
+-   wp_pro_sites
+-   wp_pro_sites_daily_stats
+-   wp_pro_sites_signup_stats
+-   wp_registration_log
+-   wp_signups
+-   wp_site
+-   wp_site_posts
+-   wp_site_term_relationships
+-   wp_site_terms
+-   wp_sitecategories
+-   wp_sitemeta
+-   wp_term_counts
+-   wp_usermeta
+-   wp_users
 
 ### The Individual Member/Blog tables
 **The `*` indicates a blog_id number**
@@ -102,30 +124,12 @@
 -   wp_bp_xprofile_fields
 -   wp_bp_xprofile_groups
 -   wp_bp_xprofile_meta
+
+### The Duplicator Pro pages (unknown plugin)
 -   wp_duplicator_pro_entities
 -   wp_duplicator_pro_packages
--   wp_network_log
--   wp_network_postmeta
--   wp_network_posts
--   wp_network_rebuildqueue
--   wp_network_term_relationships
--   wp_network_term_taxonomy
--   wp_network_terms
--   wp_options
--   wp_pro_sites
--   wp_pro_sites_daily_stats
--   wp_pro_sites_signup_stats
--   wp_registration_log
--   wp_signups
--   wp_site
--   wp_site_posts
--   wp_site_term_relationships
--   wp_site_terms
--   wp_sitecategories
--   wp_sitemeta
--   wp_term_counts
--   wp_usermeta
--   wp_users
+
+### The WordFence tables (malicious attacks plugin)
 -   wp_wfBadLeechers
 -   wp_wfBlockedCommentLog
 -   wp_wfBlockedIPLog
@@ -154,5 +158,5 @@
 -   wp_wfThrottleLog
 -   wp_wfVulnScanners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3Njg1MzIzM119
+eyJoaXN0b3J5IjpbLTUxOTMxNjgxN119
 -->
