@@ -3,13 +3,14 @@
 
 [https://deliciousbrains.com/wordpress-multisite-database-tour/](https://deliciousbrains.com/wordpress-multisite-database-tour/)
 
-**naiwe_wpmu - the list of member sites**
+## Database naiwe_wpmu
 -   wp_users - the user table
 -   wp_blogs - the master blog list
--   blog_id(1) = [naiwe.com](http://naiwe.com)
--   blog_id(41) = [news.naiwe.com](http://news.naiwe.com)
--   blog_id(973) = agilewriters
+	-   blog_id(1) = [naiwe.com](http://naiwe.com)
+	-   blog_id(41) = [news.naiwe.com](http://news.naiwe.com)
+	-   blog_id(973) = agilewriters
 
+**The `*` indicates a blog_id number**
 -   wp_*_ak_twitter
 -   wp_*_am_product_category
 -   wp_*_categories
@@ -68,6 +69,8 @@
 -   wp_*_toolset_post_guid_id
 -   wp_*_uam_accessgroup_to_object
 -   wp_*_uam_accessgroups
+
+**
 -   wp_bb_forums
 -   wp_bb_meta
 -   wp_bb_posts
@@ -147,5 +150,5 @@
 -   wp_wfThrottleLog
 -   wp_wfVulnScanners
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDM1MTczODhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzQ1MzI3MzldfQ==
 -->
