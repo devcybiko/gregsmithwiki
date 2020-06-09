@@ -1,72 +1,7 @@
 # WPMU Table Details
-(from [https://deliciousbrains.com/tour-wordpress-database/](https://deliciousbrains.com/tour-wordpress-database/)
+(from [https://deliciousbrains.com/tour-wordpress-database/](https://deliciousbrains.com/tour-wordpress-database/))
 
-Let’s get started!
-
--   [The WordPress Database](https://deliciousbrains.com/tour-wordpress-database/#wordpress-database)
-    -   [MySQL Storage Engines](https://deliciousbrains.com/tour-wordpress-database/#storage-engines)
-    -   [Character Sets and Collations](https://deliciousbrains.com/tour-wordpress-database/#charsets-collations)
--   [Tour of the WordPress Database](https://deliciousbrains.com/tour-wordpress-database/#tour)
-    -   [The Tables](https://deliciousbrains.com/tour-wordpress-database/#tables)
-    -   [WordPress Multisite Database Tour](https://deliciousbrains.com/tour-wordpress-database/#multisite-tour)
-    -   [Connecting to the WordPress Database](https://deliciousbrains.com/tour-wordpress-database/#connecting)
--   [WordPress Database and Query Optimization](https://deliciousbrains.com/tour-wordpress-database/#optimization)
-    -   [Indexes](https://deliciousbrains.com/tour-wordpress-database/#indexes)
--   [Migrating WordPress Databases](https://deliciousbrains.com/tour-wordpress-database/#migrating)
--   [Database Security](https://deliciousbrains.com/tour-wordpress-database/#security)
-
-## The WordPress Database
-
-The database is an essential part of a WordPress website. WordPress uses the MySQL database management system and  [requires](https://wordpress.org/about/requirements/)  MySQL version 5.6 and higher.
-
-It also works on MariaDB version 10.1 or greater. MariaDB is a fully GPL licensed fork of MySQL, that can be used as a drop-in replacement for MySQL. Kinsta have written a  [deep dive into the history of MariaDB and some of its differences to MySQL](https://kinsta.com/blog/mariadb-vs-mysql/).
-
-Pro Tip:  [SpinupWP](https://spinupwp.com/)  supports MySQL 5.7 (but being dropped with Ubuntu 20), MySQL 8 as well as the latest version of MariaDB
-
-### MySQL Storage Engines
-
-A storage engine is the part of the database that is responsible for reading and writing data. Since MySQL 5.5 the default storage engine has been InnoDB. It is the most commonly used storage engine, as it has row-level locking instead of full table-level locking (super important when you’re doing a mysqldump export/backup), has support for transactions (allowing you to commit and rollback SQL statements), and has full support for foreign keys and relationship constraints.
-
-MyISAM was the storage engine used in the past by WordPress and you might still have older WordPress sites running on it. Some sites might even have a mix of tables using both MyISAM and InnoDB storage engines.
-
-Pro Tip:  [Convert MyISAM to InnoDB](https://kinsta.com/knowledgebase/convert-myisam-to-innodb/)  with phpMyAdmin to improve database performance.
-
-You might have come across  [character encoding problems](https://deliciousbrains.com/wp-migrate-db-pro/doc/invalid-text/)  when migrating your WordPress database from one server to another, and wondered what are these charsets and collations that are mentioned on support articles. So what are character sets and collations?
-
-A MySQL character set is a set of characters that are allowed in a string. In an alphabet there are 26 characters – a to z. Each letter is assigned a number, for example, a = 1, b = 2, c = 3 and so on. The letter is the symbol and the associated number is the encoding.
-
-**The combination of all letters a to z, and their corresponding number encodings is what makes a character set.**  MySQL supports many character sets that allow you to store almost any character in a string.
-
-A MySQL collation is a set of rules used to compare characters in a particular character set. To compare strings, the database uses the character encoding numbers to perform the comparison. An example of a Collation rule, is a case insensitive collation where strings are compared even if they are in lower or uppercase characters. Collations can get quite complicated as the  [MySQL documentation describes](https://dev.mysql.com/doc/refman/8.0/en/charset-general.html):
-
-> most collations have many rules, not just for whether to distinguish lettercase, but also for whether to distinguish accents (an “accent” is a mark attached to a character as in German Ö), and for multiple-character mappings (such as the rule that Ö = OE in one of the two German collations).
-
-MySQL allows you to specify character sets and collations at four levels: the server, database, table, and column.
-
-For WordPress sites, the recommended charset is  `utf8mb4`  and the recommended collation is  `utf8mb4_unicode_ci`.  [WordPress 4.2](https://make.wordpress.org/core/2015/04/02/the-utf8mb4-upgrade/)  upgraded the tables from the  `utf8`  charset to  `utf8mb4`, allowing the storage of 4 byte characters which means any Unicode characters can be stored in the database. Our very own Peter Tasker wrote a great  [guide for developers on how Unicode works](https://deliciousbrains.com/how-unicode-works/).
-
-## Tour of the WordPress Database
-
-In the following section, all of the tables will be referred to using the default prefix of ‘wp_’. However, for  [security](https://deliciousbrains.com/wordpress-security-fundamentals/)  reasons it is  [recommended](http://codex.wordpress.org/Hardening_WordPress#Security_through_obscurity)  to use a different prefix when installing your WordPress sites.
-
-If you are looking for a description of the structure of the tables, with column data types and indexes, then take a look at the  [WordPress codex](http://codex.wordpress.org/Database_Description#Table_Details).
-
-### The Tables
-
--   [wp_posts](https://deliciousbrains.com/tour-wordpress-database/#wp_posts)
--   [wp_postmeta](https://deliciousbrains.com/tour-wordpress-database/#wp_postmeta)
--   [wp_comments](https://deliciousbrains.com/tour-wordpress-database/#wp_comments)
--   [wp_commentmeta](https://deliciousbrains.com/tour-wordpress-database/#wp_commentmeta)
--   [wp_terms](https://deliciousbrains.com/tour-wordpress-database/#wp_terms)
--   [wp_termmeta](https://deliciousbrains.com/tour-wordpress-database/#wp_termmeta)
--   [wp_term_taxonomy](https://deliciousbrains.com/tour-wordpress-database/#wp_term_taxonomy)
--   [wp_term_relationships](https://deliciousbrains.com/tour-wordpress-database/#wp_term_relationships)
--   [wp_users](https://deliciousbrains.com/tour-wordpress-database/#wp_users)
--   [wp_usermeta](https://deliciousbrains.com/tour-wordpress-database/#wp_usermeta)
--   [wp_options](https://deliciousbrains.com/tour-wordpress-database/#wp_options)
--   [wp_links](https://deliciousbrains.com/tour-wordpress-database/#wp_links)
-
-#### wp_posts
+## wp_posts
 
 The posts table is arguably the most important table in the WordPress database. Its name sometimes throws people who believe it purely contains their blog posts. However, albeit badly named, it is an extremely powerful table that stores various types of content including posts, pages, menu items, media attachments and any custom post types that a site uses.
 
@@ -96,7 +31,7 @@ The table’s flexible content nature is provided by the ‘post_type’ column 
 -   **post_mime_type**  – only used for attachments, the MIME type of the uploaded file.
 -   **comment_count**  – total number of comments, pingbacks and trackbacks.
 
-#### wp_postmeta
+## wp_postmeta
 
 This table holds any extra information about individual posts. It is a vertical table using key/value pairs to store its data, a technique WordPress employs on a number of tables throughout the database allowing WordPress core, plugins and themes to store unlimited data.
 
@@ -105,7 +40,7 @@ This table holds any extra information about individual posts. It is a vertical 
 -   **meta_key**  – an identifying key for the piece of data.
 -   **meta_value**  – the actual piece of data.
 
-#### wp_comments
+##  wp_comments
 
 Any post that allows discussion can have comments posted to it. This table stores those comments and some specific data about them. Further information can be stored in  [wp_commentmeta](https://deliciousbrains.com/tour-wordpress-database/#wp_commentmeta).
 
@@ -125,7 +60,7 @@ Any post that allows discussion can have comments posted to it. This table store
 -   **comment_parent**  – refers to another comment when this comment is a reply.
 -   **user_id**  – ID of the comment author if they are a registered user on the site. (Reference to the  [wp_users](https://deliciousbrains.com/tour-wordpress-database/#wp_users)  table.)
 
-#### wp_commentmeta
+## wp_commentmeta
 
 This table stores any further information related to a comment.
 
@@ -134,7 +69,7 @@ This table stores any further information related to a comment.
 -   **meta_key**  – an identifying key for the piece of data.
 -   **meta_value**  – the actual piece of data.
 
-#### wp_terms
+## wp_terms
 
 Terms are items of a taxonomy used to classify objects. Taxonomy what? WordPress allows items like posts and custom post types to be classified in various ways. For example, when creating a post in WordPress, by default you can add a category and some tags to it. Both ‘Category’ and ‘Tag’ are examples of a  [taxonomy](https://wordpress.org/support/article/taxonomies/), basically a way to group things together.
 
@@ -145,7 +80,7 @@ To classify this post (how meta of me) I would give it a category of ‘Guide’
 -   **slug**  – the URL friendly slug of the name.
 -   **term_group**  – ability for themes or plugins to group terms together to use aliases. Not populated by WordPress core itself.
 
-#### wp_termmeta
+## wp_termmeta
 
 [WordPress 4.4](https://wordpress.org/support/wordpress-version/version-4-4/)  introduced a new table to store metadata about terms – wp_termmeta. Term meta can be accessed similar to post meta with helper functions  `add_term_meta`,  `get_term_meta`,  `update_term_meta`  and  `delete_term_meta`.
 
@@ -169,7 +104,7 @@ The structure of this table allows you to use the same term across different tax
 -   **parent**  – ID of a parent term. Used for hierarchical taxonomies like Categories.
 -   **count**  – number of post objects assigned the term for this taxonomy.
 
-#### wp_term_relationships
+## wp_term_relationships
 
 So far we have seen how terms and their taxonomies are stored in the database, but have yet to see how WordPress stores the critical data when it comes to using taxonomies. The post exists in wp_posts and when we actually assign the category and tags through the WordPress dashboard it is the  [junction table](http://en.wikipedia.org/wiki/Junction_table)  that records that information. Each row defines a relationship between a post (object) in wp_posts and a term of a certain taxonomy in wp_term_taxonomy.
 
@@ -477,5 +412,5 @@ Delicious Brains Inc.
 
 [PRIVACY POLICY](https://deliciousbrains.com/privacy-policy/)|[TERMS AND CONDITIONS](https://deliciousbrains.com/terms-conditions/)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDA0MDExNDZdfQ==
+eyJoaXN0b3J5IjpbOTQ1NzMzNzFdfQ==
 -->
