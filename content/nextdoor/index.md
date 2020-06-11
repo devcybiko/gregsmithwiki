@@ -1,5 +1,9 @@
 # NextDoor Violation Tree
 
+Is the reported violation...
+* In the Main NewsFeed?
+* In a Group or Topic?
+* In a Private Message?
 Is the Neighbor: 
 * Attacking, 
 * berating, 
@@ -11,7 +15,8 @@ Is the Neighbor:
 * trolling, or 
 * swearing at others
 * This includes communication within a group or via private message.
-* [Yes] [No]
+* [Yes] 
+* [No]
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzczMjgxNjExXX0=
+eyJoaXN0b3J5IjpbOTAyNDg2NTI0XX0=
 -->
