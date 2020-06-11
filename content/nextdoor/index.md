@@ -1,23 +1,9 @@
-#NextDoor V Tree
-* In theMain NewsFeed?
-*In a G?* In a Private Message?
-* 
-Is the Neighbor: 
-* Attacking, 
-* berating, 
-* bullying, 
-* belittling, 
-* insulting, 
-* harassing, 
-* threatening, 
-* trolling, or 
-* swearing at others
-* This includes communication within a group or via private message.
-* [Yes] 
-* [No
+# NextDoor Decision Tree
 
-
-> Written with [StackEdit](https://stackedit.io/).
+Is the reported posting
+* In the [Main Feed](mainfeed.md)
+* In a [Group or Topic](grouportopic.md)
+* In the [Private Message](mainfeed.md)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNTk4OTk4N119
+eyJoaXN0b3J5IjpbLTczMzUzMTc5XX0=
 -->
