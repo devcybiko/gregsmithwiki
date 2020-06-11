@@ -28,7 +28,8 @@ Is it a negative posting?
 * * Yes
 * * * Does the Poster know the person or how to contact them?
 * * * Yes: 
-* * * * Main Disallowed: Personal Dispute 
+* * * * Main Newsfeed? [Disallowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
+* * * * 
 
 
 Is it a personal attack?
@@ -36,6 +37,6 @@ Is it a personal attack?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjY4Nzg0OTAyLDIyNjMyODc2OCwtMjAwNj
-E0OTU3M119
+eyJoaXN0b3J5IjpbLTEzNzkwODU3MjYsMjI2MzI4NzY4LC0yMD
+A2MTQ5NTczXX0=
 -->
