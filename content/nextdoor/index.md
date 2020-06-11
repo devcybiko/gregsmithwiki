@@ -34,13 +34,14 @@ Is it a negative posting or regarding safety?
 * * * No
 * * * * [Allowed: Public Shaming / Safety](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 * * No - it's against a service provider
-* * * 
+* * * [Allowed: Public Shaming][(https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* Did the person involved ask for the p
 
 Is it a personal attack?
 * Does the Poster Know the person?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwODY0MjQ2OCwyMjYzMjg3NjgsLTIwMD
+eyJoaXN0b3J5IjpbMTU0NTYzMTQ0NCwyMjYzMjg3NjgsLTIwMD
 YxNDk1NzNdfQ==
 -->
