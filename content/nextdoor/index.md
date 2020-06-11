@@ -10,17 +10,17 @@ Is the reported Posting
 * threatening, 
 * trolling, or 
 * swearing at others
-* Yes: [Disallowed](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* Yes: [Disallowed: Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 Is the reported posting
 * about  concerns with community moderation in the main newsfeed. (complaining about content removed or reported)
-* Yes: [Disallowed](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* Yes: [Disallowed: Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 Is the reported posting
 * Stating a view, 
 * Stating an opinion, or 
 * Disagreeing with someone in a civil and respectful manner
-* [Yes ](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* Yes: [Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 Is it a negative posting or regarding safety?
 * Yes
@@ -49,6 +49,6 @@ Is it a personal attack?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYwNDI4OTY0LDIyNjMyODc2OCwtMjAwNj
-E0OTU3M119
+eyJoaXN0b3J5IjpbLTk1MDYxODAwLDM2MDQyODk2NCwyMjYzMj
+g3NjgsLTIwMDYxNDk1NzNdfQ==
 -->
