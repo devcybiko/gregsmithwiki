@@ -20,7 +20,7 @@ Is the reported posting
 * Stating a view, 
 * Stating an opinion, or 
 * Disagreeing with someone in a civil and respectful manner
-* Yes: [Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* Yes: [Allowed: Not Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 Is it a negative posting or regarding safety?
 * Yes
@@ -44,11 +44,7 @@ Is it a negative posting or regarding safety?
 * * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 
-Is it a personal attack?
-* Does the Poster Know the person?
-* * No: Allowed
-* Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk1MDYxODAwLDM2MDQyODk2NCwyMjYzMj
-g3NjgsLTIwMDYxNDk1NzNdfQ==
+eyJoaXN0b3J5IjpbMTczMDA0ODI2NSwzNjA0Mjg5NjQsMjI2Mz
+I4NzY4LC0yMDA2MTQ5NTczXX0=
 -->
