@@ -1,6 +1,6 @@
 # NextDoor Decision Tree
 
-Is the reported Posting is
+Is the reported Posting
 * Attacking, 
 * berating, 
 * bullying, 
@@ -34,7 +34,7 @@ Is it a negative posting or regarding safety?
 * * * No
 * * * * [Allowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 * * No - it's against a service provider
-* * * [Allowed: Public Shaming][(https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* * * [Allowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 * Did the person involved in the posting ask for the posting to be removed?
 * * Yes: [Disallow: 
 
@@ -43,6 +43,6 @@ Is it a personal attack?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwOTU0MzQ3LDIyNjMyODc2OCwtMjAwNj
-E0OTU3M119
+eyJoaXN0b3J5IjpbMTE0Nzc1NDU4NCwyMjYzMjg3NjgsLTIwMD
+YxNDk1NzNdfQ==
 -->
