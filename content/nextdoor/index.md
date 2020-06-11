@@ -37,10 +37,11 @@ Is it a negative posting or regarding safety?
 * * * Does it contain personal attacks, public shaming, libel or name calling. 
 * * * * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 * * * * No: [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+
 * Did the person involved in the posting ask for the posting to be removed?
 * * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 * Did a parent or guardian request that a photo of a minor be removed
-* * * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 
 Is it a personal attack?
@@ -48,6 +49,6 @@ Is it a personal attack?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNTY3NDQyNCwyMjYzMjg3NjgsLTIwMD
-YxNDk1NzNdfQ==
+eyJoaXN0b3J5IjpbMzYwNDI4OTY0LDIyNjMyODc2OCwtMjAwNj
+E0OTU3M119
 -->
