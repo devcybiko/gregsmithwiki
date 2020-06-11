@@ -58,6 +58,8 @@ Is it in the Urgent Reports Category:
 * Sending a test urgent alert.
 * Sending multiple urgent alerts about the same issue when there is no new information.
 * * Yes: [Disallow: Not Urgent](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#5)
+* Warning  neighbors about things like local tornados, fires, downed power lines, etc that require neighbors to shelter or avoid a certain area.
+* * Yes: [Allow: Urgent](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#5)
 
 Is the reported posting
 * Stating a view, 
@@ -66,6 +68,6 @@ Is the reported posting
 * Yes: [Allowed: Not Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4OTcyNjM4MTksMzYwNDI4OTY0LDIyNj
+eyJoaXN0b3J5IjpbLTEzNTg4NzU3NjAsMzYwNDI4OTY0LDIyNj
 MyODc2OCwtMjAwNjE0OTU3M119
 -->
