@@ -32,16 +32,17 @@ Is it a negative posting or regarding safety?
 * * * * Private Message? [Allowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
 * * * * Poster repeats after Other requested Poster Stops? [Disallowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
 * * * No
-* * * * [Allowed: Public Shaming / Safety](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* * * * [Allowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 * * No - it's against a service provider
 * * * [Allowed: Public Shaming][(https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
-* Did the person involved ask for the p
+* Did the person involved in the posting ask for the posting to be removed?
+* * Yes: [Disallow: 
 
 Is it a personal attack?
 * Does the Poster Know the person?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0NTYzMTQ0NCwyMjYzMjg3NjgsLTIwMD
-YxNDk1NzNdfQ==
+eyJoaXN0b3J5IjpbNTgwOTU0MzQ3LDIyNjMyODc2OCwtMjAwNj
+E0OTU3M119
 -->
