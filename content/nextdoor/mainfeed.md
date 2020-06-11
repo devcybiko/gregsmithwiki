@@ -1,8 +1,18 @@
 # Main Feed
 
-Is the reported Violation
-Is the reported violation...
+
+Is the reported Posting is
+* Attacking, 
+* berating, 
+* bullying, 
+* belittling, 
+* insulting, 
+* harassing, 
+* threatening, 
+* trolling, or 
+* swearing at others
+* Then: [Disallowed](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjA2NjM4MDIyXX0=
+eyJoaXN0b3J5IjpbMTMzOTUzODQ1OV19
 -->
