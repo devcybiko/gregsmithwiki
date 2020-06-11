@@ -13,8 +13,10 @@ Is the reported Posting
 * Yes: [Disallowed: Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 Does the reported posting
-* discriminate against, threaten, or insult groups, based on 
-*race, color, national origin, religion, gender, gender identity, sexual orientation, political affiliation, age, veteran status or disability.
+* Discriminate against, threaten, or insult groups, based on race, color, national origin, religion, gender, gender identity, sexual orientation, political affiliation, age, veteran status or disability.
+* Promote the events or activities of  hate groups](https://en.wikipedia.org/wiki/Hate_group)  or  [terrorist organizations](https://en.wikipedia.org/wiki/List_of_designated_terrorist_groups).
+* Use derogatory racial terms or code words that insult or reduce one’s humanity?
+* Describe people who are homeless or who have committed crimes with inflammatory language (e.g. "scum" or "animals").
 * Yes: [Disallowed: Discrimination & Hate Speech](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#4)
 
 Does the 
@@ -51,6 +53,6 @@ Is it a negative posting or regarding safety?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDQxODA3OTUsMzYwNDI4OTY0LDIyNj
-MyODc2OCwtMjAwNjE0OTU3M119
+eyJoaXN0b3J5IjpbLTM5OTYwNjc1OSwzNjA0Mjg5NjQsMjI2Mz
+I4NzY4LC0yMDA2MTQ5NTczXX0=
 -->
