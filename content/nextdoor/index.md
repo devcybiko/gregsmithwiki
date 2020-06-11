@@ -61,11 +61,11 @@ Is it in the Urgent Reports Category:
 * Warning  neighbors about things like local tornados, fires, downed power lines, etc that require neighbors to shelter or avoid a certain area.
 * * Yes: [Allow: Urgent](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#5)
 
-Is the reported posting
-Goes against my beliefs, values or politics*
-Commercial or self promotion
+Does the reported posting
+* Go against reporter's beliefs, values or politics
+* *Commercial or self promotion
 Over-posting
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg2NzgwMzU4OCwzNjA0Mjg5NjQsMjI2Mz
-I4NzY4LC0yMDA2MTQ5NTczXX0=
+eyJoaXN0b3J5IjpbMTExODY2MzYyMiwxODY3ODAzNTg4LDM2MD
+QyODk2NCwyMjYzMjg3NjgsLTIwMDYxNDk1NzNdfQ==
 -->
