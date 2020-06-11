@@ -43,7 +43,9 @@ Is it a negative posting about a business or service provider?
 * * No: [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#2)
 
 Is it a report about a Crime or Suspicious Activity?
-* Posts that assume someone is suspicious because of their race or ethnicity.
+* Is it suspicious because of their race or ethnicity?
+* * Yes: [Disallow: Racial Profiling](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#5)
+* Are descriptions of individuals vague  - as to cast suspicion over an entire race or ethnicity.
 
 
 
@@ -54,6 +56,6 @@ Is the reported posting
 * Yes: [Allowed: Not Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4NjA0MDk4MSwzNjA0Mjg5NjQsMjI2Mz
-I4NzY4LC0yMDA2MTQ5NTczXX0=
+eyJoaXN0b3J5IjpbLTU5Nzk5MTMwLDM2MDQyODk2NCwyMjYzMj
+g3NjgsLTIwMDYxNDk1NzNdfQ==
 -->
