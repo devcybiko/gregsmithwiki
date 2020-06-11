@@ -22,7 +22,7 @@ Is the reported posting
 * Disagreeing with someone in a civil and respectful manner
 * [Yes ](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
-Is it a negative posting?
+Is it a negative posting or regarding safety?
 * Yes
 * * Is it against another person?
 * * Yes
@@ -33,13 +33,14 @@ Is it a negative posting?
 * * * * Poster repeats after Other requested Poster Stops? [Disallowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
 * * * No
 * * * * [Allowed: Public Shaming / Safety](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
-* 
+* * No - it's against a service provider
+* * * 
 
 Is it a personal attack?
 * Does the Poster Know the person?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MzQ3MzE0MzUsMjI2MzI4NzY4LC0yMD
-A2MTQ5NTczXX0=
+eyJoaXN0b3J5IjpbLTMwODY0MjQ2OCwyMjYzMjg3NjgsLTIwMD
+YxNDk1NzNdfQ==
 -->
