@@ -30,7 +30,7 @@ Is it a negative posting?
 * * * Yes: 
 * * * * Main Newsfeed? [Disallowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
 * * * * Private Message? [Allowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
-* * * * Repeats after Other requested Poster Stops? [Disallowed: Personal Dispuate](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
+* * * * Poster repeats after Other requested Poster Stops? [Disallowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
 
 
 Is it a personal attack?
@@ -38,6 +38,6 @@ Is it a personal attack?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNzUyNTEwMSwyMjYzMjg3NjgsLTIwMD
+eyJoaXN0b3J5IjpbMTE2NTE5NjU3MSwyMjYzMjg3NjgsLTIwMD
 YxNDk1NzNdfQ==
 -->
