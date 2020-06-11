@@ -13,9 +13,9 @@ Is the reported Posting
 * Yes: [Disallowed: Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 Does the reported posting
-* discriminate against, 
-* threaten, or insult groups, based on race, color, national origin, religion, gender, gender identity, sexual orientation, political affiliation, age, veteran status or disability.
-* 
+* discriminate against, threaten, or insult groups, based on 
+* race, color, national origin, religion, gender, gender identity, sexual orientation, political affiliation, age, veteran status or disability.
+* Yes: 
 Is the reported posting
 * about  concerns with community moderation in the main newsfeed. (complaining about content removed or reported)
 * Yes: [Disallowed: Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
@@ -49,6 +49,6 @@ Is it a negative posting or regarding safety?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMjU2MDE2NywzNjA0Mjg5NjQsMjI2Mz
-I4NzY4LC0yMDA2MTQ5NTczXX0=
+eyJoaXN0b3J5IjpbNzM0OTM5MDE4LDM2MDQyODk2NCwyMjYzMj
+g3NjgsLTIwMDYxNDk1NzNdfQ==
 -->
