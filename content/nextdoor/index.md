@@ -14,8 +14,10 @@ Is the reported Posting
 
 Does the reported posting
 * discriminate against, threaten, or insult groups, based on 
-* race, color, national origin, religion, gender, gender identity, sexual orientation, political affiliation, age, veteran status or disability.
-* Yes: 
+*race, color, national origin, religion, gender, gender identity, sexual orientation, political affiliation, age, veteran status or disability.
+* Yes: [Disallowed: Discrimination & Hate Speech](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#4)
+
+Does the 
 Is the reported posting
 * about  concerns with community moderation in the main newsfeed. (complaining about content removed or reported)
 * Yes: [Disallowed: Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
@@ -49,6 +51,6 @@ Is it a negative posting or regarding safety?
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzM5MjM1MDksMzYwNDI4OTY0LDIyNj
+eyJoaXN0b3J5IjpbLTE2MDQxODA3OTUsMzYwNDI4OTY0LDIyNj
 MyODc2OCwtMjAwNjE0OTU3M119
 -->
