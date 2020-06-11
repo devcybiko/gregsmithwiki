@@ -22,6 +22,10 @@ Is the reported posting
 * Disagreeing with someone in a civil and respectful manner
 * [Yes ](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
+Is it a personal attack?
+* Does the Poster Know the person?
+* * No
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI2MzI4NzY4LC0yMDA2MTQ5NTczXX0=
+eyJoaXN0b3J5IjpbLTE4NDYxODM1NjksMjI2MzI4NzY4LC0yMD
+A2MTQ5NTczXX0=
 -->
