@@ -43,11 +43,13 @@ Is it a negative posting about a business or service provider?
 * * No: [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#2)
 
 Is it a report about a Crime or Suspicious Activity?
+* Is it in the Crime & Safety Category? (or if it is an emergency, using an "urgent alert").
 * Is it suspicious because of their race or ethnicity?
 * * Yes: [Disallow: Racial Profiling](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#5)
-* Are descriptions of individuals vague  - as to cast suspicion over an entire race or ethnicity.
-
-
+* Are descriptions of individuals vague  - so as to cast suspicion over an entire race or ethnicity.
+* * Yes: [Disallow: Racial Profiling](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#5)
+* Does the post Identify a suspect by race and sex alone (including in the subject line of a post).
+* * Yes: [Disallow: Racial Profiling](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#5)
 
 Is the reported posting
 * Stating a view, 
@@ -56,6 +58,6 @@ Is the reported posting
 * Yes: [Allowed: Not Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5Nzk5MTMwLDM2MDQyODk2NCwyMjYzMj
-g3NjgsLTIwMDYxNDk1NzNdfQ==
+eyJoaXN0b3J5IjpbLTgzMjk0NzMwOCwzNjA0Mjg5NjQsMjI2Mz
+I4NzY4LC0yMDA2MTQ5NTczXX0=
 -->
