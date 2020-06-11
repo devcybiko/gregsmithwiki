@@ -53,6 +53,11 @@ Is it a report about a Crime or Suspicious Activity?
 * * Yes: [Disallow: Racial Profiling](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#5)
 
 Is it in the Urgent Reports Category:
+* Sending an urgent alert for non-urgent reasons?
+* Sending an urgent alert to promote a business or sale.
+* Sending a test urgent alert.
+* Sending multiple urgent alerts about the same issue when there is no new information.
+* * Yes: [Disallow: Not Urgent](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#5)
 
 Is the reported posting
 * Stating a view, 
@@ -61,6 +66,6 @@ Is the reported posting
 * Yes: [Allowed: Not Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTk4NDkwOTMsMzYwNDI4OTY0LDIyNj
+eyJoaXN0b3J5IjpbLTE4OTcyNjM4MTksMzYwNDI4OTY0LDIyNj
 MyODc2OCwtMjAwNjE0OTU3M119
 -->
