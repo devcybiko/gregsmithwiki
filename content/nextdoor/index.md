@@ -44,7 +44,6 @@ Is it a negative posting about a business or service provider?
 * * * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#2)
 * * * No: [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#2)
 
-
 Is the reported posting
 * Stating a view, 
 * Stating an opinion, or 
@@ -52,6 +51,6 @@ Is the reported posting
 * Yes: [Allowed: Not Disagreements and conflict](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjkwOTkxOTAsMzYwNDI4OTY0LDIyNj
-MyODc2OCwtMjAwNjE0OTU3M119
+eyJoaXN0b3J5IjpbLTU0MDY4OTEyNCwzNjA0Mjg5NjQsMjI2Mz
+I4NzY4LC0yMDA2MTQ5NTczXX0=
 -->
