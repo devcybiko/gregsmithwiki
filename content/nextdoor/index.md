@@ -31,14 +31,15 @@ Is it a negative posting?
 * * * * Main Newsfeed? [Disallowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
 * * * * Private Message? [Allowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
 * * * * Poster repeats after Other requested Poster Stops? [Disallowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
-* * No
-* * * 
+* * * No
+* * * * [Allowed: Public Shaming / Safety](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* 
 
 Is it a personal attack?
 * Does the Poster Know the person?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNDY0MjkxNiwyMjYzMjg3NjgsLTIwMD
-YxNDk1NzNdfQ==
+eyJoaXN0b3J5IjpbLTE3MzQ3MzE0MzUsMjI2MzI4NzY4LC0yMD
+A2MTQ5NTczXX0=
 -->
