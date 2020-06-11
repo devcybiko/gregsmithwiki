@@ -34,16 +34,20 @@ Is it a negative posting or regarding safety?
 * * * No
 * * * * [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 * * No - it's against a service provider
-* * * Does it contain personal attacks, public shaming, libel or name calling. [Dllowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
-* * * [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* * * Does it contain personal attacks, public shaming, libel or name calling. 
+* * * * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* * * * No: [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
 * Did the person involved in the posting ask for the posting to be removed?
-* * Yes: [Disallow: 
+* * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* Did a parent or guardian request that a photo of a minor be removed
+* * * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+
 
 Is it a personal attack?
 * Does the Poster Know the person?
 * * No: Allowed
 * Does the Poster 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1MjMzNzIzNiwyMjYzMjg3NjgsLTIwMD
+eyJoaXN0b3J5IjpbLTEwNTY3NDQyNCwyMjYzMjg3NjgsLTIwMD
 YxNDk1NzNdfQ==
 -->
