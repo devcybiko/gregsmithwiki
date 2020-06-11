@@ -36,19 +36,19 @@ Is it a negative posting or regarding safety?
 * * * * Private Message? [Allowed: Not Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
 * * * * Poster repeats after Other requested Poster Stops? [Disallowed: Personal Dispute](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#3)
 * * * No
-* * * * [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* * * * [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#2)
 * * No - it's against a service provider
 * * * Does it contain personal attacks, public shaming, libel or name calling. 
-* * * * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
-* * * * No: [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* * * * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#2)
+* * * * No: [Allowed: Not Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#2)
 
 * Did the person involved in the posting ask for the posting to be removed?
-* * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#2)
 * Did a parent or guardian request that a photo of a minor be removed
-* * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#1)
+* * Yes: [Disallowed: Public Shaming](https://help.nextdoor.com/s/article/be-helpful-not-hurtful?language=en_US#2)
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzM0OTM5MDE4LDM2MDQyODk2NCwyMjYzMj
-g3NjgsLTIwMDYxNDk1NzNdfQ==
+eyJoaXN0b3J5IjpbLTEwNzM5MjM1MDksMzYwNDI4OTY0LDIyNj
+MyODc2OCwtMjAwNjE0OTU3M119
 -->
