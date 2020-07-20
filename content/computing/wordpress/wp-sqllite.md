@@ -10,8 +10,10 @@
 * unzip sqlite-integtration.1.7.zip
 * cd sqlite-integration
 * cp db.php ../..  # or should it be mv?
-* cd ../..
-* 
+* cd ../../..
+* cp wp-config-sample.php wp-config.php
+* vi wp-config.php
+<
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTQzMTE5NTcsMzQ0Mjk4NDAxXX0=
+eyJoaXN0b3J5IjpbMjUwNjg3MDk3LDM0NDI5ODQwMV19
 -->
