@@ -25,7 +25,7 @@ https://api.wordpress.org/secret-key/1.1/salt
 * http://localhost:80
 * fill in the blanks
 * login to the control panel
-* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODQ5MjMwODI1LDM0NDI5ODQwMV19
+eyJoaXN0b3J5IjpbLTQ1OTUwNTk5OSw4NDkyMzA4MjUsMzQ0Mj
+k4NDAxXX0=
 -->
