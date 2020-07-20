@@ -21,7 +21,11 @@ https://api.wordpress.org/secret-key/1.1/salt
 
 * cd .. # demo folder
 * chown -R user:user wordpress/*
-
+## in the browser
+* http://localhost:80
+* fill in the blanks
+* login to the control panel
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU4NDM4Mjg3NiwzNDQyOTg0MDFdfQ==
+eyJoaXN0b3J5IjpbODQ5MjMwODI1LDM0NDI5ODQwMV19
 -->
