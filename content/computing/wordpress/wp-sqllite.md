@@ -19,7 +19,9 @@ etc...
 https://api.wordpress.org/secret-key/1.1/salt
 ```
 
-* 
+* cd .. # demo folder
+* chown -R user:user wordpress/*
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMzUyMTM3NywzNDQyOTg0MDFdfQ==
+eyJoaXN0b3J5IjpbMTU4NDM4Mjg3NiwzNDQyOTg0MDFdfQ==
 -->
