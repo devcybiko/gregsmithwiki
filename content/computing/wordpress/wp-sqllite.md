@@ -7,7 +7,7 @@
 * unzip latest.zip
 * cd wordpress/wp-content/plugins
 * wget https://downloads.wordpress.org/plugin/sqlite-integration.1.7.zip
-* unzip sqlite-integtration.1.7.zip
+* unzip sqlite-integration.1.7.zip
 * cd sqlite-integration
 * cp db.php ../..  # or should it be mv?
 * cd ../../..
@@ -26,6 +26,6 @@ https://api.wordpress.org/secret-key/1.1/salt
 * fill in the blanks
 * login to the control panel
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ1OTUwNTk5OSw4NDkyMzA4MjUsMzQ0Mj
-k4NDAxXX0=
+eyJoaXN0b3J5IjpbOTM1MjY0OTgxLC00NTk1MDU5OTksODQ5Mj
+MwODI1LDM0NDI5ODQwMV19
 -->
