@@ -13,7 +13,9 @@
 * cd ../../..
 * cp wp-config-sample.php wp-config.php
 * vi wp-config.php
-<
+```
+define('AUTH_KEY', '...');
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjUwNjg3MDk3LDM0NDI5ODQwMV19
+eyJoaXN0b3J5IjpbMzkwNzQxODQ4LDM0NDI5ODQwMV19
 -->
