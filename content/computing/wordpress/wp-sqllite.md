@@ -15,7 +15,11 @@
 * vi wp-config.php
 ```
 define('AUTH_KEY', '...');
+etc...
+https://api.wordpress.org/secret-key/1.1/salt
+```
 
+* 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzkwNzQxODQ4LDM0NDI5ODQwMV19
+eyJoaXN0b3J5IjpbLTcyMzUyMTM3NywzNDQyOTg0MDFdfQ==
 -->
