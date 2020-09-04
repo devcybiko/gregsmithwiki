@@ -12,7 +12,7 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 * cnbc-makeit: https://www.cnbc.com/about-make-it/]
 * the1440: https://join1440.com/?utm_source=newsletter_CM
 * pbs newshour: https://www.facebook.com/newshour/M53NaDIVPgQ2d
-* bbcnews: bbcnews: https://www.facebook.com/bbcnews
+* bbcnews: https://www.facebook.com/bbcnews
 * nbcnews: https://www.facebook.com/NBCNews
 * cnn-5-things: https://www.cnn.com/account/register
 
@@ -20,9 +20,8 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 * styleweekly: https://www.facebook.com/StyleWeekly
 * nextdoor: https://nextdoor.com/news_feed/
 
-
 ## reading
-* shortform summarized books: [https://www.shortform.com/app/home](https://www.shortform.com/app/home)
+* shortform summarized books: https://www.shortform.com/app/home
 
 ## right-wing
 * dailysignal: https://www.dailysignal.com/
@@ -41,9 +40,9 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 ## Heroes
 * positive psychology: https://www.facebook.com/positivepsychologycourses
 * scott allison’s heroes blog: https://blog.richmond.edu/heroes/
-* heroism science think tank:  [https://www.facebook.com/groups/258399710930494/](https://www.facebook.com/groups/258399710930494/)
+* heroism science think tank:  https://www.facebook.com/groups/258399710930494/
 * joseph campbell foundation: https://www.jcf.org/getting-to-know-you/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDc1NDEsMTcyMDE1MzA2MywtODcyMz
-IxOTM4XX0=
+eyJoaXN0b3J5IjpbMTI2NTI2NTE3NywxNzIwMTUzMDYzLC04Nz
+IzMjE5MzhdfQ==
 -->
