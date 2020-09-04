@@ -4,7 +4,7 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 ## movies
 * reel heroes: http://reelheroes.net
 * film authority: https://film-authority.com/
-* peggy at the movies: https://peggyatthemovies.com/2020/08/23/review-unhinged-2020-solstice-studios/
+* peggy at the movies: https://peggyatthemovies.com
 
 ## news
 * aljazeera: https://www.aljazeera.com/
@@ -43,6 +43,6 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 * heroism science think tank:  https://www.facebook.com/groups/258399710930494/
 * joseph campbell foundation: https://www.jcf.org/getting-to-know-you/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2NTI2NTE3NywxNzIwMTUzMDYzLC04Nz
-IzMjE5MzhdfQ==
+eyJoaXN0b3J5IjpbLTIwNjQ4NTg3OTYsMTcyMDE1MzA2MywtOD
+cyMzIxOTM4XX0=
 -->
