@@ -1,5 +1,6 @@
 # Blogs I Follow
-${gregsays
+$(greg says="These are the main blogs I follow - not all are proper 'blogs'")
+
 ## movies
 * film authority: https://film-authority.com/
 * peggy at the movies: https://peggyatthemovies.com/2020/08/23/review-unhinged-2020-solstice-studios/
@@ -40,5 +41,5 @@ ${gregsays
 * heroism science think tank:  [https://www.facebook.com/groups/258399710930494/](https://www.facebook.com/groups/258399710930494/)
 * joseph campbell foundation: https://www.jcf.org/getting-to-know-you/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNjU3MDg5MV19
+eyJoaXN0b3J5IjpbLTg3MjMyMTkzOF19
 -->
