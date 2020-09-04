@@ -2,16 +2,17 @@
 $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 
 ## movies
+* reel heroes: http://reelheroes.net
 * film authority: https://film-authority.com/
 * peggy at the movies: https://peggyatthemovies.com/2020/08/23/review-unhinged-2020-solstice-studios/
 
 ## news
 * aljazeera: https://www.aljazeera.com/
 * ted: https://www.ted.com/
-* cnbc-makeit: [https://www.cnbc.com/about-make-it/](https://www.cnbc.com/about-make-it/)
+* cnbc-makeit: https://www.cnbc.com/about-make-it/]
 * the1440: https://join1440.com/?utm_source=newsletter_CM
 * pbs newshour: https://www.facebook.com/newshour/M53NaDIVPgQ2d
-* bbcnews: bbcnews: [https://www.facebook.com/bbcnews/](https://www.facebook.com/bbcnews/)
+* bbcnews: bbcnews: https://www.facebook.com/bbcnews
 * nbcnews: https://www.facebook.com/NBCNews
 * cnn-5-things: https://www.cnn.com/account/register
 
@@ -43,6 +44,6 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 * heroism science think tank:  [https://www.facebook.com/groups/258399710930494/](https://www.facebook.com/groups/258399710930494/)
 * joseph campbell foundation: https://www.jcf.org/getting-to-know-you/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzI5ODA3ODYsMTcyMDE1MzA2MywtOD
-cyMzIxOTM4XX0=
+eyJoaXN0b3J5IjpbMTcyNDc1NDEsMTcyMDE1MzA2MywtODcyMz
+IxOTM4XX0=
 -->
