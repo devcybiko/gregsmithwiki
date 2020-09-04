@@ -13,6 +13,7 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 * pbs newshour: https://www.facebook.com/newshour/M53NaDIVPgQ2d
 * bbcnews: bbcnews: [https://www.facebook.com/bbcnews/](https://www.facebook.com/bbcnews/)
 * nbcnews: https://www.facebook.com/NBCNews
+* cnn-5-things: https://www.cnn.com/account/register
 
 ## local
 * styleweekly: https://www.facebook.com/StyleWeekly
@@ -41,5 +42,5 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 * heroism science think tank:  [https://www.facebook.com/groups/258399710930494/](https://www.facebook.com/groups/258399710930494/)
 * joseph campbell foundation: https://www.jcf.org/getting-to-know-you/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg3MjMyMTkzOF19
+eyJoaXN0b3J5IjpbMTcyMDE1MzA2MywtODcyMzIxOTM4XX0=
 -->
