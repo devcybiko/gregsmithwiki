@@ -35,6 +35,7 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 * macworld: https://www.macworld.com/
 * national geographic: https://www.nationalgeographic.com/
 * arstechnica: https://www.facebook.com/arstechnica
+* slash/dot: https://www.facebook.com/slashdot
 
 ## Heroes
 * positive psychology: https://www.facebook.com/positivepsychologycourses
@@ -42,5 +43,6 @@ $(greg says="These are the main blogs I follow - not all are proper 'blogs'")
 * heroism science think tank:  [https://www.facebook.com/groups/258399710930494/](https://www.facebook.com/groups/258399710930494/)
 * joseph campbell foundation: https://www.jcf.org/getting-to-know-you/
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMDE1MzA2MywtODcyMzIxOTM4XX0=
+eyJoaXN0b3J5IjpbLTE0NzI5ODA3ODYsMTcyMDE1MzA2MywtOD
+cyMzIxOTM4XX0=
 -->
