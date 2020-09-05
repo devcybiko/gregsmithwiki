@@ -1,9 +1,11 @@
 # Trump "Suckers & Losers"
 
+## 9/5/2020 - Overviews
 * MSNBC/FOX - "It Fits" - 9/5/2020 - https://www.youtube.com/watch?v=TmJra9TTyFI
-* 
+* MSNBC/FOX - Suckers & Losers Timelin - https://youtu.be/vhOBGB5FP0M?t=531
 * MSNBC - Former Naval Officer - https://youtu.be/XRnDxsoWkT8
-*
+
+## Articles
 * The Atlantic - the first article. - https://www.theatlantic.com/politics/archive/2020/09/trump-americans-who-died-at-war-are-losers-and-suckers/615997/
 * AP News - Corroborating The Atlantic - 
 https://apnews.com/b823f2c285641a4a09a96a0b195636ed
@@ -32,7 +34,7 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2Nzg5MTkxMSwtMTA2NjgxMzE4NiwtMT
-k0MjU3NzU2MSwtMTczNDUxOTcwOSw1NjA3MDQyODAsMTMyNDc4
-MTM1Nl19
+eyJoaXN0b3J5IjpbLTE4NjY2NDAyNDYsLTM2Nzg5MTkxMSwtMT
+A2NjgxMzE4NiwtMTk0MjU3NzU2MSwtMTczNDUxOTcwOSw1NjA3
+MDQyODAsMTMyNDc4MTM1Nl19
 -->
