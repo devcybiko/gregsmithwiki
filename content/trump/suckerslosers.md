@@ -22,8 +22,10 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 * Vox - summary - https://www.vox.com/2020/9/4/21422733/atlantic-trump-military-suckers-losers-explained
 
+* Trump : Avoiding The Vietnam Draft - https://www.youtube.com/watch?v=FSv1PhiReBY&feature=youtu.be&t=26&fbclid=IwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI
 
+* General Mattis Criticizes
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTcxODkwMDkzLDU2MDcwNDI4MCwxMzI0Nz
-gxMzU2XX0=
+eyJoaXN0b3J5IjpbLTExNzQ4ODE3MjYsNTYwNzA0MjgwLDEzMj
+Q3ODEzNTZdfQ==
 -->
