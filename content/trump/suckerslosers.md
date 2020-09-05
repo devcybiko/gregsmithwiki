@@ -1,8 +1,10 @@
 # Trump "Suckers & Losers"
 
+## Memrorial Day Weekend
+* Trump Killing Stars and Stripes - https://youtu.be/vhOBGB5FP0M
 ## 9/5/2020 - Overviews
 * MSNBC/FOX - "It Fits" - 9/5/2020 - https://www.youtube.com/watch?v=TmJra9TTyFI
-* MSNBC/FOX - Suckers & Losers Timelin - https://youtu.be/vhOBGB5FP0M?t=531
+* MSNBC/FOX - Suckers & Losers Timeline - https://youtu.be/vhOBGB5FP0M?t=531
 * MSNBC - Former Naval Officer - https://youtu.be/XRnDxsoWkT8
 
 ## Articles
@@ -35,7 +37,7 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDQ4NDgwNjAsLTM2Nzg5MTkxMSwtMT
-A2NjgxMzE4NiwtMTk0MjU3NzU2MSwtMTczNDUxOTcwOSw1NjA3
-MDQyODAsMTMyNDc4MTM1Nl19
+eyJoaXN0b3J5IjpbMTA2MDI0MzY4NiwtMzY3ODkxOTExLC0xMD
+Y2ODEzMTg2LC0xOTQyNTc3NTYxLC0xNzM0NTE5NzA5LDU2MDcw
+NDI4MCwxMzI0NzgxMzU2XX0=
 -->
