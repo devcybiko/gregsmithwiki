@@ -12,6 +12,8 @@ https://apnews.com/b823f2c285641a4a09a96a0b195636ed
 * Daily Mail (Trump Blames John Kelly) - 
 https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-Kelly-claims-called-dead-troops-losers.html
 
+* Jennifer Griffin of Fox News Central - Corroborates The Atlantic - https://twitter.com/JenGriffinFNC?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1301972706699640833%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.rawstory.com%2F2020%2F09%2Ffox-news-confirms-shocking-story-on-trumps-contempt-for-american-troops-after-the-president-argued-it-was-fake%2F&fbclid=IwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI
+
 * Newsweek - Trump calls for Jennifer Griffin's Firing from Fox News - https://www.newsweek.com/donald-trump-veterans-suckers-jennifer-griffin-1529849
 
 * Fox News - https://www.forbes.com/sites/markjoyella/2020/09/05/fox-news-journalists-defend-colleague-targeted-by-president-trump/#2c9b060c2a84
@@ -22,6 +24,6 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMDM1NDc3Niw1NjA3MDQyODAsMTMyND
-c4MTM1Nl19
+eyJoaXN0b3J5IjpbOTcxODkwMDkzLDU2MDcwNDI4MCwxMzI0Nz
+gxMzU2XX0=
 -->
