@@ -1,0 +1,14 @@
+[1] Liberman, Mark (August 20, 2017). "Ask Language Log: How to pronounce "Antifa"?". Language Log. Retrieved June 11, 2020.
+^ "'Radical left bad people': Trump says Antifa groups will be labelled terrorists". ABC News. May 31, 2020. Retrieved June 1, 2020.
+^ Bogel-Burroughs, Nicholas; Garcia, Sandra E. (May 31, 2020). "What Is Antifa, the Movement Trump Wants to Declare a Terror Group?". The New York Times. ISSN 0362-4331. Retrieved June 1, 2020.
+^ Suerth, Jessica (May 31, 2020). "President Trump deems Antifa a terrorist organization, points to far-left groups for many violent protests". WRAL. Retrieved June 1, 2020.
+^ Hennessey, Kathleen; Kunzelman, Michael (May 31, 2020). "George Floyd protests: as riots spread, officials fear right-wing extremists and Antifa fan the flames". The Sydney Morning Herald. Retrieved June 1, 2020.
+^ LaFree, Gary (2018). "Is Antifa a Terrorist Group?". Society. 55 (3): 248–252. doi:10.1007/s12115-018-0246-x. ISSN 1936-4725. S2CID 149530376. In general, antifa falls on the less structured side of this continuum. It is not a highly organized entity. It has not persisted over time. There is little evidence of a chain of command or a stable leadership structure. To this point in time antifa seems to be more of a movement than a group.
+^ Jump up to: a b Klein, Adam (2019). "From Twitter to Charlottesville: Analyzing the Fighting Words Between the Alt-Right and Antifa". International Journal of Communication. 13: 22. ISSN 1932-8036. This present climate of partisan tribalism has given rise to new actors and factions representing the far ends of the political spectrum. [...] On the far left, Antifa represents a fast-growing crusade designed to confront all forms of fascism, principally the aforementioned groups but also, at times, law enforcement. Antifa has no single spokesperson but rather presents its movement as a collective of nameless vigilantes, typically outfitted in concealing masks and black combat gear, ready for battle.
+^ Jump up to: a b c d e f g h Cammeron, Brenna (August 14, 2017). "Antifa: Left-wing militants on the rise". BBC News. Retrieved November 7, 2017.
+^ Beinart, Peter (August 16, 2017). "What Trump Gets Wrong About Antifa". The Atlantic. Retrieved August 16, 2017.
+^ Rothman, Lily (February 25, 2019). "What the Artist Behind a Comics-Style History of Anti-Fascist Resistance Thinks You Should Know About Antifa". Time. Retrieved July 22, 2019.
+^ Jump up to: a b c Bogel-Burroughs, Nicholas (July 2, 2019). "What Is Antifa? Explaining the Movement to Confront the Far Right". The New York Times. Retrieved July 13, 2019.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNTI4MjU3OTQ3XX0=
+-->
