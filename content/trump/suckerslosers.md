@@ -34,8 +34,12 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 - Parody - Temporary Bone Spurs - https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjVrc_DfZL04%26fbclid%3DIwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI&h=AT0IbeETugoxhNE0hMu4XOtwPD7QbpuSBawPRc2uNOzn87MN2uA2H77aMcENDqzn2Lg-sHjPFQz5Pc7oibAsQbRqhgIEWCntZ2_lyD1axEvUelGAcs2ZNqnoMrnY2Np3UlI7dqrgdQ&__tn__=H-R&c[0]=AT3nvT4ef0LcEBgXnQjPbeWRkR0FcMC4DejrVZuMtTnST0HkMt0t4nORXHpa1aXvJdMmCuUPmDMpdw1huK9zuOw6-LKZS_QIp4LQw9XQFovPZnYJPQEF2V4QcIiegsbSZxCAj3_7w2u4LDW5rXfB
 
+* President Jimmy Carter on Trump vs. McCain - https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FKt8wZg5FPcc%3Ft%3D58%26fbclid%3DIwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI&h=AT28r2Ht1x2VMReGQtL0eUtcHXcXNFpE3caqKZzUnyN8GxPGAKsJ0sYzNMGYSMKsQMp_eUkfKdx3Rh5eiMrwmyICZvHpN5qMQxkzscrMMTPKmwJkYzKWFKjd-fLLEeHJuoCo7f_CJQ&__tn__=H-R&c[0]=AT1UzoEnE-i7BuaCnDGruGuecajdeYMZCP5jj5hpc51Fr9Yhd1zFsGoECZ6MxSATSgLbXBiJ-8XF-lgvYblp9imkCpI0IEOdwAhS96X1cz9urXDPcQIHkXoDUiXtDOAu3N0-6-vS6Md-76bB4V9V
+
+* Donald Trump 1990 - McCain not a War Hero - https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FQgaOsPsoIpc%3Ft%3D134%26fbclid%3DIwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI&h=AT0WGTlEr3qtVwrZEjV7cJaV0cDS9-CU5OKup-aWS4joPIQ7BuObOoT8S4atl0HpOqq6pGKiUe__nrsGTEuQIID1EWboGnojVTKlTonwWhDP087-sINjXcoB4O7wtOJly5XQJl2nkQ&__tn__=H-R&c[0]=AT1eZhHz_IwaF7hhzscswCYhgO38sDs_z47WJgGjdZHe3ra_D55aLHeHkHIrbPO5THzDuHP5dQrKoKHa5u9eGsyflduUrg-pEIo_NSk-mvpZ42q7LHDGn0gU41eEJvBbC9Qf_zP2oYD-lc9KW6L9
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyMzI3NTk0Myw1NjA3MDQyODAsMTMyND
-c4MTM1Nl19
+eyJoaXN0b3J5IjpbLTE3MzQ1MTk3MDksNTYwNzA0MjgwLDEzMj
+Q3ODEzNTZdfQ==
 -->
