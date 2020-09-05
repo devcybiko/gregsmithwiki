@@ -28,8 +28,10 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 * Trump says McCain is not a Hero - https://www.youtube.com/watch?v=elTP8S1mWDY&fbclid=IwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI
 
+- Parody - Temporary Bone Spurs - https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjVrc_DfZL04%26fbclid%3DIwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI&h=AT0IbeETugoxhNE0hMu4XOtwPD7QbpuSBawPRc2uNOzn87MN2uA2H77aMcENDqzn2Lg-sHjPFQz5Pc7oibAsQbRqhgIEWCntZ2_lyD1axEvUelGAcs2ZNqnoMrnY2Np3UlI7dqrgdQ&__tn__=H-R&c[0]=AT3nvT4ef0LcEBgXnQjPbeWRkR0FcMC4DejrVZuMtTnST0HkMt0t4nORXHpa1aXvJdMmCuUPmDMpdw1huK9zuOw6-LKZS_QIp4LQw9XQFovPZnYJPQEF2V4QcIiegsbSZxCAj3_7w2u4LDW5rXfB
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDQ2MjgzMiw1NjA3MDQyODAsMTMyND
-c4MTM1Nl19
+eyJoaXN0b3J5IjpbNzMxNjc0ODc3LDU2MDcwNDI4MCwxMzI0Nz
+gxMzU2XX0=
 -->
