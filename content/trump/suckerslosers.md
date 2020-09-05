@@ -20,7 +20,7 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 * Trump says McCain is not a Hero - Republicans - https://youtu.be/elTP8S1mWDY
 - Parody - Temporary Bone Spurs - https://youtu.be/jVrc_DfZL04
 * President Jimmy Carter on Trump vs. McCain - https://youtu.be/Kt8wZg5FPcc?t=58
-* Donald Trump **1990** - McCain not a War Hero - https://youtu.be/QgaOsPsoIpc?t=134 
+* Donald Trump **1999** - McCain not a War Hero - https://youtu.be/QgaOsPsoIpc?t=134 
 
 * 2015 - Donald Trump - McCain was not a war hero - https://youtu.be/KA5ybXu78cc
 
@@ -28,6 +28,6 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NDI1Nzc1NjEsLTE3MzQ1MTk3MDksNT
-YwNzA0MjgwLDEzMjQ3ODEzNTZdfQ==
+eyJoaXN0b3J5IjpbLTEwNjY4MTMxODYsLTE5NDI1Nzc1NjEsLT
+E3MzQ1MTk3MDksNTYwNzA0MjgwLDEzMjQ3ODEzNTZdfQ==
 -->
