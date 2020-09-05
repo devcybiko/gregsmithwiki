@@ -28,14 +28,10 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 * Trump : Avoiding The Vietnam Draft - https://www.youtube.com/watch?v=FSv1PhiReBY&feature=youtu.be&t=26&fbclid=IwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI
 
-* General Mattis Criticizes Trump - https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DsYN2mrvnCT4%26fbclid%3DIwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI&h=AT1hMFBJnn3CP3MOsffJvrU_64kVxrkfunmEhmX7wUCI883ieMCeHTpJps7Q1hNvD0mxEc-ee6gJOciDc_FSAIJIPWt1BoCeVTHFosXa9fcWhUH-XhCunYz1zlUDu-692QEcxXAarg&__tn__=H-R&c[0]=AT22bJp0P4oiL72YSw4DQQRrg3Gpyc-AQbHyGYsIOhxzyqLINGaPL_xFTls9F16yqd76MCfv632lKkGhL-ft8GECTN6amd-b1j8ro5buu7My9S6f55LmrXHQtZcCSYbGvPOuzTTZ-tceQDgjd6Zd
-
-* Trump says McCain is not a Hero - https://www.youtube.com/watch?v=elTP8S1mWDY&fbclid=IwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI
-
-- Parody - Temporary Bone Spurs - https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DjVrc_DfZL04%26fbclid%3DIwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI&h=AT0IbeETugoxhNE0hMu4XOtwPD7QbpuSBawPRc2uNOzn87MN2uA2H77aMcENDqzn2Lg-sHjPFQz5Pc7oibAsQbRqhgIEWCntZ2_lyD1axEvUelGAcs2ZNqnoMrnY2Np3UlI7dqrgdQ&__tn__=H-R&c[0]=AT3nvT4ef0LcEBgXnQjPbeWRkR0FcMC4DejrVZuMtTnST0HkMt0t4nORXHpa1aXvJdMmCuUPmDMpdw1huK9zuOw6-LKZS_QIp4LQw9XQFovPZnYJPQEF2V4QcIiegsbSZxCAj3_7w2u4LDW5rXfB
-
+* General Mattis Criticizes Trump - https://youtu.be/sYN2mrvnCT4
+* Trump says McCain is not a Hero - Republicans - https://youtu.be/elTP8S1mWDY
+- Parody - Temporary Bone Spurs - https://youtu.be/jVrc_DfZL04
 * President Jimmy Carter on Trump vs. McCain - https://youtu.be/Kt8wZg5FPcc?t=58
-
 * Donald Trump **1990** - McCain not a War Hero - https://youtu.be/QgaOsPsoIpc?t=134 
 
 * 2015 - Donald Trump - McCain was not a war hero - https://youtu.be/KA5ybXu78cc
@@ -44,6 +40,6 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTIyOTUzOTUsLTE3MzQ1MTk3MDksNT
-YwNzA0MjgwLDEzMjQ3ODEzNTZdfQ==
+eyJoaXN0b3J5IjpbLTY0MDI5MTA4MywtMTczNDUxOTcwOSw1Nj
+A3MDQyODAsMTMyNDc4MTM1Nl19
 -->
