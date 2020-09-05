@@ -40,7 +40,10 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 * 2015 - Donald Trump - McCain was not a war hero -  https://l.facebook.com/l.php?u=https%3A%2F%2Fyoutu.be%2FKA5ybXu78cc%3Ft%3D19%26fbclid%3DIwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI&h=AT1DhYlmjydJ1BTE4rTpRsVMvjw1yo_BsASCqwpZ919b9ZTTmPCilq8GvjGaSJN460mkxB2l9ZX3-QIu5No0q1Nynsn_xpu6ARIUmyVBR4wKahhGpxhsaMd0-wG_ovQjySgPL9XjMw&__tn__=H-R&c[0]=AT1S1fJTkWm287sDyOiuNvPCzVTnMFjbQNrGxIqOR_khjzVfVZh_3Ho0z5XGsqqLep9Gnpix_xAjmGGxARsZud1ofoz0VJuZoPeE17sIYELRhnWjPM9RoiJ8370boJpwtIrkhc8g8mVVdKEkvU_I
 
+* Donald Trump - 2015 - You have sacrificed nothing or no one. - Disrephttps://youtu.be/9_8dSiQBXog
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzQxMjIxOTIsLTE3MzQ1MTk3MDksNT
-YwNzA0MjgwLDEzMjQ3ODEzNTZdfQ==
+eyJoaXN0b3J5IjpbLTIyNTQ2ODQ0OSwtMTczNDUxOTcwOSw1Nj
+A3MDQyODAsMTMyNDc4MTM1Nl19
 -->
