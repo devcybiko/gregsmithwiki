@@ -12,7 +12,11 @@ https://apnews.com/b823f2c285641a4a09a96a0b195636ed
 * Daily Mail (Trump Blames John Kelly) - 
 https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-Kelly-claims-called-dead-troops-losers.html
 
+* The Independent (Trump Blames John Kelly) - https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-m8bIWT5OmY%26fbclid%3DIwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI&h=AT2TMjbtNfXrm99_Oxpl7Tk_WthREFM1RE4IPUdu4as-7wycBmxo05cESHgI6e18TskAf4uLL1JeERlrJXv5dmlQS23OlrMMxewi3rmJowceY920GwfvYn1J5iQB0-WIn-6rVtLaVg&__tn__=H-R&c[0]=AT1vDSg9V47UCoOPb7sF8fyeo59t2x2pl6t4Dau2g0lM34SXVwQhBH2Ftb5sM5VvqvrccVKJD9LhrPv8YXB7HxTu_MEDHeXezgaBjYl8cN8q2F9hngI9X73yeCFpoMLgxtDhqdhPSsX4V6rg9VSC
+
 * Jennifer Griffin of Fox News Central - Corroborates The Atlantic - https://twitter.com/JenGriffinFNC?ref_src=twsrc%5Etfw%7Ctwcamp%5Etweetembed%7Ctwterm%5E1301972706699640833%7Ctwgr%5Eshare_3&ref_url=https%3A%2F%2Fwww.rawstory.com%2F2020%2F09%2Ffox-news-confirms-shocking-story-on-trumps-contempt-for-american-troops-after-the-president-argued-it-was-fake%2F&fbclid=IwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI
+
+* MSNBC - Corroborates The Atlantic - https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dov6YzlxsJwE%26fbclid%3DIwAR2ETYpHJH28osJxoBTOMb74Rvet5RM5IBn8KJwSRWoWUStHvL6BMfkhZjI&h=AT3ha8dFrlUWdlGWyKMac1-WYQXMELLHwAAXGN-zWiBNEF4-qHLtgd_nsjYdDeU5dfXfdMhB37NqpswefQkOC_ZKLI1zRcz2pe4fxLpJqlaUkUIbwHs12Bo2N9P46w4eQlc7a96oqg&__tn__=H-R&c[0]=AT1LZcdoRkrEeG9Y7km1LJxQ-PPaWxx_sRd2mN2YoaVWNbhbF2LZakAoPfB_KNODEA0W5LfRgN-kIiIdp7D3OrFTaH-O5672IrVRXRcYvUFsCoYZKzfAeR_5PHs8wXCsZcZZ7fLCkONt6cRZG3Wm
 
 * Newsweek - Trump calls for Jennifer Griffin's Firing from Fox News - https://www.newsweek.com/donald-trump-veterans-suckers-jennifer-griffin-1529849
 
@@ -32,6 +36,6 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzMxNjc0ODc3LDU2MDcwNDI4MCwxMzI0Nz
-gxMzU2XX0=
+eyJoaXN0b3J5IjpbMTcyMzI3NTk0Myw1NjA3MDQyODAsMTMyND
+c4MTM1Nl19
 -->
