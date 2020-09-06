@@ -6,6 +6,7 @@
 * MSNBC/FOX - "It Fits" - 9/5/2020 - https://www.youtube.com/watch?v=TmJra9TTyFI
 * MSNBC/FOX - Suckers & Losers Timeline - https://youtu.be/vhOBGB5FP0M?t=531
 * MSNBC - Former Naval Officer - https://youtu.be/XRnDxsoWkT8
+* Fox News - Jennifer Griffin - https://youtu.be/vCRSd9ruVus
 
 ## Articles
 * The Atlantic - the first article. - https://www.theatlantic.com/politics/archive/2020/09/trump-americans-who-died-at-war-are-losers-and-suckers/615997/
@@ -37,7 +38,7 @@ https://www.dailymail.co.uk/news/article-8699691/Trump-says-believes-former-COS-
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MDI0MzY4NiwtMzY3ODkxOTExLC0xMD
-Y2ODEzMTg2LC0xOTQyNTc3NTYxLC0xNzM0NTE5NzA5LDU2MDcw
-NDI4MCwxMzI0NzgxMzU2XX0=
+eyJoaXN0b3J5IjpbODgxMTgyMDI1LDEwNjAyNDM2ODYsLTM2Nz
+g5MTkxMSwtMTA2NjgxMzE4NiwtMTk0MjU3NzU2MSwtMTczNDUx
+OTcwOSw1NjA3MDQyODAsMTMyNDc4MTM1Nl19
 -->
