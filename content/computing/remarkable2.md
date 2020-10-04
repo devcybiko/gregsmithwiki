@@ -12,7 +12,10 @@ label | Remarkable 2 | iPad 8th Gen |
 ---| ---|---|---|
 Price | $18 more | - |
 Display | grayscale eInk display | color Retina display |
-Battery | 2 weeks on a charge | 
+Battery | 2 weeks on a charge | 10 hrs on a charge |
+Marker | No charging | 12hrs on a charge |
+Marker | No need for connectivity | Bluetooth 4.0
+Processor | 1.2 ghz 2-core ARM | 2.4ghz 4-core 
 
 * PRICE: R2: $18 more expensive than iPad
 * R2: grayscale eInk display, iPad 8: color Retina display
@@ -112,6 +115,6 @@ Apple Pencil (1st Gen)
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDQ2MTMwNzUsLTQ3Mzc4OTcxMiwtMz
+eyJoaXN0b3J5IjpbLTE3MDQxMTEzMzUsLTQ3Mzc4OTcxMiwtMz
 g4NDY0ODJdfQ==
 -->
