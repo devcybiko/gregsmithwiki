@@ -1,4 +1,21 @@
 # Remarkable 2 vs. iPad (8th Gen)
+## Overview
+Disclaimer: I don't work for Remarkable.
+
+I created this web page to compare the Remarkable 2 w/ marker ($448) to iPad 8th Gen w/ Apple Pencil ($429). This is as close to an Apple to non-Apples comparison as I can get. 
+
+I fully believe that Remarkable, Inc. do not do this themselves because they are not trying to lure you away from iPad and a comparison is not fair - they have different purposes. The iPad is a general-purpose computing device. Remarkable 2 is specifically for reading and writing documents and notes. They aren't really supposed to be compared.
+
+But as my webpage will show (I apologize that it isn't HTTPS yet - you may get a security warning from your browser) - the Remarkable is point-for-point very similar to the iPad except for the following:
+
+PRICE: R2: $18 more expensive than iPad
+R2: grayscale eInk display, iPad 8: color Retina display
+Battery: 2 weeks on a charge, iPad 8: 10 hrs
+Marker: No charging, Apple Pencil: 12hrs on a charge
+Processor 1.2ghz, 1GBRAM, iPad: 2.4ghz, 8GB RAM
+(note: iPad requires significantly more processor to drive its OS and Color display)
+
+If you're in the market for a note-taking device that is close to paper, Remarkable is point-for-point on target with an iPad 8. But if you want a general purpose computer, you really should not be looking at Remarkable 2.
 
 ## Remarkable 2 (plus pen): $448
 Dimensions:
@@ -89,5 +106,6 @@ Apple Pencil (1st Gen)
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3Mzc4OTcxMiwtMzg4NDY0ODJdfQ==
+eyJoaXN0b3J5IjpbLTMzNDYxMDAyMCwtNDczNzg5NzEyLC0zOD
+g0NjQ4Ml19
 -->
