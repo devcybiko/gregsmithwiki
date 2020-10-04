@@ -11,15 +11,16 @@ But I will show - the Remarkable is point-for-point very similar to the iPad 8 e
 |label | Remarkable 2 | iPad 8th Gen |
 ---| ---|---|---|
 |Price | $18 more | - |
-Display | grayscale eInk display | color Retina display |
-Battery | 2 weeks on a charge | 10 hrs on a charge |
-Marker | No charging | 12hrs on a charge |
-Marker | No need for connectivity | Bluetooth 4.0
-Processor | 1.2 ghz 2-core ARM | 2.4ghz 4-core Bionic
-RAM | 1GB | 8GB
-Storage | 8 GB | 32 GB
+|Display | grayscale eInk display | color Retina display |
+|Battery | 2 weeks on a charge | 10 hrs on a charge |
+|Marker | No charging | 12hrs on a charge |
+|Marker | No need for connectivity | Bluetooth 4.0
+|Processor | 1.2 ghz 2-core ARM | 2.4ghz 4-core Bionic
+|RAM | 1GB | 8GB
+|Storage | 8 GB | 32 GB
+
 note: iPad requires significantly more processor and memory to drive its OS and Color display
-note: iPad requires significantly more storage to keep its larger OS, and many Apps
+note: iPad requires significantly more storage to store its larger OS, and many Apps
 
 ## Conclusions
 
@@ -114,6 +115,6 @@ Apple Pencil (1st Gen)
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4NjM4Njk0NCwxNzAyNzgxNTI4LC00Nz
-M3ODk3MTIsLTM4ODQ2NDgyXX0=
+eyJoaXN0b3J5IjpbODIxMDQ2NDc4LDEyODYzODY5NDQsMTcwMj
+c4MTUyOCwtNDczNzg5NzEyLC0zODg0NjQ4Ml19
 -->
