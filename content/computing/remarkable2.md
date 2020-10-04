@@ -47,7 +47,7 @@ Marker
 
   
 
-**iPad 8th Gen (plus pen): $429**
+## iPad 8th Gen (plus pen): $429
 
 Dimensions:
 
@@ -91,5 +91,5 @@ Marker
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2MzI2NzY4XX0=
+eyJoaXN0b3J5IjpbLTM4ODQ2NDgyXX0=
 -->
