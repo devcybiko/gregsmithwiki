@@ -19,16 +19,11 @@ Processor | 1.2 ghz 2-core ARM | 2.4ghz 4-core Bionic
 RAM | 1GB | 8GB
 Storage | 8 GB | 32 GB
 note: iPad requires significantly more processor and memory to drive its OS and Color display
-note: iPad requires significantly more storage to keep its larger OS, and many Aps
+note: iPad requires significantly more storage to keep its larger OS, and many Apps
 
+## Conclusions
 
-* PRICE: R2: $18 more expensive than iPad
-* R2: grayscale eInk display, iPad 8: color Retina display
-* Battery: R2: 2 weeks on a charge, iPad 8: 10 hrs
-* Marker: No charging, Apple Pencil: 12hrs on a charge
-* R2: Processor 1.2ghz, 1GBRAM, iPad: 2.4ghz, 8GB RAM
-
-If you're in the market for a note-taking device that is close to paper, Remarkable is point-for-point on target with an iPad 8. But if you want a general purpose computer, you really should not be looking at Remarkable 2.
+If you're in the market for a note-taking device that is close to paper, Remarkable 2 is point-for-point on target with an iPad 8. But if you want a general purpose computer, you really should not be looking at Remarkable 2.
 
 ## Remarkable 2 (plus pen): $448
 Dimensions:
@@ -119,6 +114,6 @@ Apple Pencil (1st Gen)
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg3NzMwMTQ0LC00NzM3ODk3MTIsLTM4OD
-Q2NDgyXX0=
+eyJoaXN0b3J5IjpbMTcwMjc4MTUyOCwtNDczNzg5NzEyLC0zOD
+g0NjQ4Ml19
 -->
