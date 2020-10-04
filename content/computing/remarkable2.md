@@ -16,7 +16,7 @@ But I will show - the Remarkable is point-for-point very similar to the iPad 8 e
 |Marker | No charging | 12 hrs on a charge |
 |Marker | No need for connectivity | Bluetooth 4.0 |
 |Processor | 1.2 ghz 2-core ARM | 2.4 ghz 4-core Bionic |
-|RAM | 1GB | 8GB |
+|RAM | 1 GB | 8 GB |
 |Storage | 8 GB | 32 GB |
 
 note: iPad requires significantly more processor and memory to drive its OS and Color display
@@ -115,7 +115,7 @@ Apple Pencil (1st Gen)
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjAxMzc2OTI0LDQwNjQ2MzY1OSwtODk4MT
-U3NzY2LDIwMDE5Mzk3MCwxMjg2Mzg2OTQ0LDE3MDI3ODE1Mjgs
-LTQ3Mzc4OTcxMiwtMzg4NDY0ODJdfQ==
+eyJoaXN0b3J5IjpbLTIxMzY3ODY1OTgsNDA2NDYzNjU5LC04OT
+gxNTc3NjYsMjAwMTkzOTcwLDEyODYzODY5NDQsMTcwMjc4MTUy
+OCwtNDczNzg5NzEyLC0zODg0NjQ4Ml19
 -->
