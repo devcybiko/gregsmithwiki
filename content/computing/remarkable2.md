@@ -6,7 +6,7 @@ I created this web page to compare the Remarkable 2 w/ marker ($448) to iPad 8th
 
 I fully believe that Remarkable, Inc. do not do this themselves because they are not trying to lure you away from iPad and a comparison is not fair - they have different purposes. The iPad is a general-purpose computing device. Remarkable 2 is specifically for reading and writing documents and notes. They aren't really supposed to be compared.
 
-But I will show - the Remarkable is point-for-point very similar to the iPad 8 except for the following:
+Here is a table showing the Remarkable is point-for-point very similar to the iPad 8 except for the following:
 
 |Differences | Remarkable 2 + Marker | iPad 8th Gen + Apple Pencil |
 |---| ---|---|
@@ -115,7 +115,7 @@ Apple Pencil (1st Gen)
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzY3ODY1OTgsNDA2NDYzNjU5LC04OT
-gxNTc3NjYsMjAwMTkzOTcwLDEyODYzODY5NDQsMTcwMjc4MTUy
-OCwtNDczNzg5NzEyLC0zODg0NjQ4Ml19
+eyJoaXN0b3J5IjpbMTAwODYwODAxNCwtMjEzNjc4NjU5OCw0MD
+Y0NjM2NTksLTg5ODE1Nzc2NiwyMDAxOTM5NzAsMTI4NjM4Njk0
+NCwxNzAyNzgxNTI4LC00NzM3ODk3MTIsLTM4ODQ2NDgyXX0=
 -->
