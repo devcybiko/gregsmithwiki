@@ -26,7 +26,7 @@ note: iPad requires significantly more storage to store its larger OS, and many 
 
 If you're in the market for a note-taking device that is close to paper, Remarkable 2 is point-for-point on target with an iPad 8. But if you want a general purpose computer, you really should not be looking at Remarkable 2.
 
-## Remarkable 2 (plus pen): $448
+## Remarkable 2 (plus Marker): $448
 Dimensions:
 -   9.7” x 7.4” x 0.19”
 -   246 x 187 x 4.7 mm
@@ -115,7 +115,7 @@ Apple Pencil (1st Gen)
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAwODYwODAxNCwtMjEzNjc4NjU5OCw0MD
+eyJoaXN0b3J5IjpbMTM4NDMwODQ2MSwtMjEzNjc4NjU5OCw0MD
 Y0NjM2NTksLTg5ODE1Nzc2NiwyMDAxOTM5NzAsMTI4NjM4Njk0
 NCwxNzAyNzgxNTI4LC00NzM3ODk3MTIsLTM4ODQ2NDgyXX0=
 -->
