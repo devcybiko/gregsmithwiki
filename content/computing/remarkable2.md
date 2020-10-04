@@ -9,7 +9,10 @@ I fully believe that Remarkable, Inc. do not do this themselves because they are
 But I will show - the Remarkable is point-for-point very similar to the iPad 8 except for the following:
 
 label | Remarkable 2 | iPad 8th Gen |
----| 
+---| ---|---|---|
+Price | $18 more | - |
+Display | grayscale eInk display | color Retina display |
+Battery | 2 weeks on a charge | 
 
 * PRICE: R2: $18 more expensive than iPad
 * R2: grayscale eInk display, iPad 8: color Retina display
@@ -109,6 +112,6 @@ Apple Pencil (1st Gen)
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU4NzIxNzUyNCwtNDczNzg5NzEyLC0zOD
-g0NjQ4Ml19
+eyJoaXN0b3J5IjpbLTEzNDQ2MTMwNzUsLTQ3Mzc4OTcxMiwtMz
+g4NDY0ODJdfQ==
 -->
