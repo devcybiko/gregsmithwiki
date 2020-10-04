@@ -83,13 +83,11 @@ File Formats:
 
 Apple Pencil (1st Gen)
 
-Marker
-
 -   12 hrs per charge (Pairing and charging via Lightning)
 -   20ms latency
 -   Tilt support
 -   Pressure sensitivity (undefined levels of pressure)
 -   Bluetooth 4 connectivity
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4ODQ2NDgyXX0=
+eyJoaXN0b3J5IjpbLTQ3Mzc4OTcxMiwtMzg4NDY0ODJdfQ==
 -->
