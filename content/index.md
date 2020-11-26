@@ -1,4 +1,5 @@
-# Greg Smith WikiDown
+# Greg Smith 
+## WikiDown
 
 $(greg says="Look for this 'Greg Says...' icon for tips and tricks that I recommend")
 
