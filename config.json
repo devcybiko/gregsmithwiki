@@ -1,5 +1,5 @@
 {
-    "contentDir": "../johndeernotes",
+    "contentDir": "content",
     "cacheDir": "cache",
     "staticDir": "theme",
     "themeDir": "theme",
