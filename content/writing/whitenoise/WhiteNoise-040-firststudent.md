@@ -12,9 +12,9 @@ In the end, however, what he really wanted to do was annoy the hell out of Bell.
 
 It was much easier than he imagined. None of the candidates seemed particularly interesting (aka: irksome). Some had started in business school and moved into computing because it seemed the best way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university. Others appeared to be silver-spoons who didn't care about the work and just wanted to satisfy daddy.
 
-As much as he wanted to give Bell the shaft, he still couldn't pick unqualified candidates. He had a certain amount of pride and couldn't purposely do a bad job. 
+As much as he wanted to give Bell the shaft, he still couldn't pick unqualified candidates. He had a certain amount of pride and couldn't purposely do a bad job. He didn't want to sabotage Bell, either - just give him a little trouble. So, he was looking for smart kids - but oddballs nonetheless. _Minimax, yes?_
 
-He wantedHere was one who claimed her masters thesis was based on contemplative algorithms
+Here was one who claimed her masters thesis was based on contemplative algorithms. White was well-versed and well-read in computer science and had never heard of comptemplative 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzAxODAyNDAsODQxODU3ODRdfQ==
+eyJoaXN0b3J5IjpbLTQ2MDk4MzYzMyw4NDE4NTc4NF19
 -->
