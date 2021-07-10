@@ -22,9 +22,9 @@ Despite Ludd's apparent technical illiteracy, he was at least an efficient admin
 
 It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_ - none of which belonged in a scholarly paper on computing. When he downloaded the source code for the project, White was genuinely surprised. The code was very, very good. Not that he was surprised because a woman had written it, but because a new age air head had written some rather interesting algorithms. And at the heart of it all was one called simply, _omm_.
 
-_Omm_ wasn't particularly interesting except for what it wasn't - it wasn't very long. It was literally a co
+_Omm_ wasn't particularly interesting except for what it wasn't - it wasn't very long. It was literally a couple of nested loops that did nothing but traverse the internal memory of the app. Depending on the input values, the amount of time spent could be very little, or very long. In essence, it did nothing of value - but 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY4NzI4Mzc4Miw4NDE4NTc4NF19
+eyJoaXN0b3J5IjpbLTg3OTcwNjA5LDg0MTg1Nzg0XX0=
 -->
