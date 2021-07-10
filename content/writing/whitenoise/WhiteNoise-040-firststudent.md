@@ -11,15 +11,16 @@ These facts played in White's subconscious as he scowled at the stack. _It's the
 In the end, however, what he really wanted to do was annoy the hell out of Bell. So he peeled the first CV off the stack and determined to find the three candidates who would make Bell wish he had picked someone else to staff his forensics lab. _The Minimax Method,_ he thought: _minimize the cost to you, maximize the cost to your opponent._
 
 ## Willow
-It was much easier than he imagined. None of the candidates seemed particularly interesting (aka: irksome). Some had started in business school and moved into computing because it seemed the best way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university. Others appeared to be silver-spoons who didn't care about the work and just wanted to satisfy daddy.
+
+It was much easier than he imagined. None of the candidates seemed particularly interesting (aka: irksome). Some had started in business school and moved into computing because it seemed the best way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about the work and just wanted to satisfy daddy.
 
 As much as he wanted to give Bell the shaft, he still couldn't pick unqualified candidates. He had a certain amount of pride and couldn't purposely do a bad job. He didn't want to sabotage Bell, either - just give him a little trouble. So, he was looking for smart kids - but oddballs nonetheless. _Minimax, yes?_
 
 Here was one who claimed her masters thesis was based on contemplative algorithms. White was well-versed and well-read in computer science and had never heard of contemplative algorithms. Despite Ludd's apparent technical illiteracy, he was at least an efficient administrator as the local area network and WiFi were set up. So White pulled up the woman's thesis and began a deep dive.
 
-It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_. When he downloaded the software's source code, White was genuinely surprised - the code was very, very good. Not that he was surprised because a woman had written it, but because a new age air head had written some rather interesting algorithms. And at
+It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_. When he downloaded the software's source code, White was genuinely surprised - the code was very, very good. Not that he was surprised because a woman had written it, but because a new age air head had written some rather interesting algorithms. And at the heart of it all was one called, simple _omm
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkyNTI5NDI5OSw4NDE4NTc4NF19
+eyJoaXN0b3J5IjpbNTY0NjQyMTEwLDg0MTg1Nzg0XX0=
 -->
