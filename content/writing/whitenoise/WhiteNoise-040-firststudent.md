@@ -1,8 +1,10 @@
 # Chapter 4 - first student
 
-White glared at the stack of resumes on his desk - a sampling of Rensselaer Polytechnic's discards. He hated Bell for giving him this task. Somehow he had to pick three He leaned back in his chair and it creaked under his weight. He reflected on the space around him that Ludd had cobbled together. It was a spare set of cubicles on the first floor of the Turing building - and White sat alone in the center of it.
+White glared at the stack of resumes on his desk - a sampling of Rensselaer Polytechnic's discards. He hated Bell for giving him this task. Somehow he had to pick three imbeciles from this lot who would be competent enough - and in some way worthy enough - to run Bell's computer forensics lab.
 
-The Turing building had four floors. It had been a hotel in its earlier incarnation, before Starbuck Island had been purchased by the university. The island had been home to various incarnations of manufacturing in the decades prior. Automobile, railroad, and steel manufacturing had all taken a turn on Starbuck. And it had gone by many names: Green Island, Tibbits, Rensselaerswyck, and _Pachanhanit_ by the indigenous peoples before the settlers arrived. During Edison's time it was so important as a manufacturing hub that they built the Green Island power plant to run the assembly lines. Now, that power plant make Starbuck University a self-sufficient mini-city.
+He leaned back in his chair and it creaked under his weight. He reflected on the space around him that Ludd had cobbled together. It was a spare set of cubicles on the first floor of the Turing building - and White sat alone in the center of it.
+
+The Turing building had four floors. It had been an abandoned hotel before Starbuck Island had been purchased by the university. The island had been home to various incarnations of manufacturing in the decades prior. Automobile, railroad, and steel manufacturing had all taken a turn on Starbuck. And it had gone by many names: Green Island, Tibbits, Rensselaerswyck, and _Pachanhanit_ by the indigenous peoples before the settlers arrived. During Edison's time it was so important as a manufacturing hub that they built the Green Island power plant to run the assembly lines. Now, that power plant make Starbuck University a self-sufficient mini-city.
 
 At the center of it all had been the Manor of Rensselaerswyck: a sprawling series of buildings that made up a mansion of sorts for it's owner Kiliaen van Rensselaer. Rensselaer acquired the island in 1630 from the Dutch West India Company and immediately built his namesake. The Turing building was all that was left of the manor and itself had gone through many incarnations, ultimately ending up a brothen and hotel before it was shut down in the 1960s.
 
@@ -28,5 +30,5 @@ White put this resume in the in box on Bell's desk.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDY2NTIzOSw4NDE4NTc4NF19
+eyJoaXN0b3J5IjpbLTU3MjM1MjIxNCw4NDE4NTc4NF19
 -->
