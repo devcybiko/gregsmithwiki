@@ -26,9 +26,11 @@ It was an entertaining read. There was a fair amount of technical detail, and we
 
 _Omm_ wasn't particularly interesting, except for what it wasn't: it wasn't very long. It was literally a couple of nested loops that did nothing but traverse the internal memory of the app - and read the memory locations. And nothing more. It didn't write them anywhere. It didn't do any calculations. It simply read all the values - and returned. Depending on the input values, the amount of time spent could be very little, or very long. In essence, it did nothing of value - but quite literally... contemplate the computer's navel.
 
-White put this resume in the in box on Bell's desk.
+White stowed this resume in his backpack.
 
+## Patrick O'Leary
 
+## 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyMjM1NzExNSw4NDE4NTc4NF19
+eyJoaXN0b3J5IjpbMTk4ODMyOTY5Myw4NDE4NTc4NF19
 -->
