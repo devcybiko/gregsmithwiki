@@ -1,6 +1,6 @@
 # Chapter 4 - first student
 
-White glared at the stack of resumes on his desk. Ludd had fashioned a set of cubicles on the first floor of the Turing building and White sat alone in the space.
+White glared at the stack of resumes on his desk - a sampling of Rensselaer Polytechnic's discards. Ludd had fashioned a set of cubicles on the first floor of the Turing building and White sat alone in the space.
 
 The Turing building had four floors. It had been a hotel in its earlier incarnation, before Starbuck Island had been purchased by the university. The island had been home to various incarnations of manufacturing in the decades prior. Automobile, railroad, and steel manufacturing had all taken a turn on Starbuck. And it had gone by many names: Green Island, Tibbits, Rensselaerswyck, and _Pachanhanit_ by the indigenous peoples before the settlers arrived. During Edison's time it was so important as a manufacturing hub that they built the Green Island power plant on the island. Now, that power plant make Starbuck University a self-sufficient mini-city.
 
@@ -18,7 +18,7 @@ As much as he wanted to give Bell the shaft, he simply couldn't pick unqualified
 
 Here was one who claimed her masters thesis was based on contemplative algorithms. White was well-versed and well-read in computer science and had never heard of contemplative algorithms. Her resume showed her name as simply "Willow." His interest was piqued and he determined to have a look-see.
 
-Despite Ludd's apparent technical illiteracy, he was at least an efficient administrator as the local area network and WiFi were set up. He pulled his own laptop out of his backpack. White found the woman's thesis and began a deep dive.
+Despite Ludd's apparent technical illiteracy, he was at least an efficient administrator as the local area network and WiFi were set up. He pulled his own laptop out of his backpack. White found the woman's thesis on Rensselaer's website and began a deep dive.
 
 It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_ - none of which belonged in a scholarly paper on computing. When he downloaded the source code for the project, White was genuinely surprised. The code was very, very good. Not that he was surprised because a woman had written it, but because a new age air head had written some rather interesting algorithms. And at the heart of it all was one called simply, _omm_.
 
@@ -28,5 +28,5 @@ White put this resume in the in box on Bell's desk.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3NDg4MTgsODQxODU3ODRdfQ==
+eyJoaXN0b3J5IjpbLTk4NjIyOTYxNyw4NDE4NTc4NF19
 -->
