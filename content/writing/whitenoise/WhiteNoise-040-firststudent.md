@@ -12,11 +12,11 @@ At the center of it all was the Manor of Rensselaerswyck: a sprawling series of 
 
 These facts played through White's subconscious as he scowled at the stack. _It's the beginning that's the hardest,_ he thought. He had contemplated many ways to attack the problem: he could just take the top three resumes and throw the rest away. What did he care which of these kids were going to run this shop? Or, he could throw all of them into the air and pluck three before they fell to the floor. That'd be as random a selection as any. 
 
-In the end, however, what he really wanted to do was annoy the hell out of Bell. So he began by peeling the first CV off the stack, determined to find the three candidates who would make Bell wish he had picked someone else to staff his forensics lab. _The Minimax Method,_ he thought: _minimize the cost to you, maximize the cost to your opponent._
+In the end, however, what he really wanted to do was annoy the hell out of Bell. So he began by peeling the first CV off the stack, determined to find the three candidates who would make Bell wish he had picked someone else to staff his forensics lab. _The Minimax Method,_ he thought: _minimize the cost to you, maximize the pain to your opponent._
 
 ## Willow
 
-The task was much easier than White had imagined. Weeding out the uninteresting resumes went quickly. None of the candidates seemed particularly noteworthy (aka: irksome). Some had started in business school and moved into computing because it seemed the best way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about computing and just wanted to satisfy daddy.
+The task was much easier than White had imagined. Weeding out the uninteresting resumes went quickly. None of the candidates seemed particularly noteworthy (aka: irksome). Some had started in business school and moved into computing because it seemed the easiest way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about computing and just wanted to satisfy daddy.
 
 As much as he wanted to give Bell the shaft, he simply couldn't pick unqualified candidates. He had a certain amount of pride and wouldn't purposely do a bad job. He didn't want to sabotage Bell - just give him a little friction. So, he was looking for smart, yet oddball kids. _Minimax, yes?_
 
@@ -34,5 +34,5 @@ White stowed this resume in his backpack.
 
 ## Vijay Karmudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwMTk2NTYsODQxODU3ODRdfQ==
+eyJoaXN0b3J5IjpbLTgwNDYzMjQ3NSw4NDE4NTc4NF19
 -->
