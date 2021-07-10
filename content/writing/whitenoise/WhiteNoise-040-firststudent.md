@@ -1,4 +1,4 @@
-# Chapter 4 - first student
+# Chapter 4 - first students
 
 White glared at the stack of resumes on his desk - a sampling of Rensselaer Polytechnic's discards. He hated Bell for giving him this task. Somehow he had to pick three imbeciles from this lot who would be competent enough - and in some way worthy enough - to run Bell's computer forensics lab.
 
@@ -24,7 +24,7 @@ Despite Ludd's apparent technical illiteracy, he was at least an efficient admin
 
 It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_ - none of which belonged in a scholarly paper on computing. When he downloaded the source code for the associated app, White was genuinely surprised. The code was very, very good.  He hadn't expected to find that a new age air head had written anything technically innovative. At the heart of it all was one algorithm Willow claimed improved their app's performance from 10 to 100 percent. It was called, simply, _omm_.
 
-_Omm_ wasn't particularly interesting, except for what it wasn't: it wasn't very long. It was literally a couple of nested loops that did nothing but traverse the internal memory of the app and read memory locations. And nothing more. It didn't write them anywhere. It didn't do any calculations. It simply read all the values - and returned. Depending on the input values, the amount of time spent could be very little, or very long. In essence it did nothing of value, except - quite literally - contemplate the computer's navel.
+_Omm_ wasn't particularly interesting, except for what it wasn't: it wasn't very long. It was literally a couple of nested loops that did nothing but traverse the internal memory of the app and randomly read memory locations. And nothing more. It didn't write them anywhere. It didn't do any calculations. It simply read all the values - and returned. Depending on the input values, the amount of time spent could be very little, or very long. In essence it did nothing of value, except - quite literally - contemplate the computer's navel.
 
 White stowed this resume in his backpack.
 
@@ -32,5 +32,5 @@ White stowed this resume in his backpack.
 
 ## Vijay Karmudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0ODE4MzM1MDIsODQxODU3ODRdfQ==
+eyJoaXN0b3J5IjpbLTE0NjEyMjA0MzEsODQxODU3ODRdfQ==
 -->
