@@ -10,7 +10,7 @@ These facts played in White's subconscious as he scowled at the stack. _It's the
 
 In the end, however, what he really wanted to do was annoy the hell out of Bell. So he peeled the first CV off the stack and determined to find the three candidates who would make Bell wish he had picked someone else to staff his forensics lab. _The Minimax Method,_ he thought: _minimize the cost to you, maximize the cost to your opponent._
 
-It was much easier than he imagined. Most of these kids were un
+It was much easier than he imagined. Most of these kids were underwhelming. Some had started in business school and moved into computing because it seemed the best way to make the most money. Others were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ4OTI1OTcyMiw4NDE4NTc4NF19
+eyJoaXN0b3J5IjpbLTkxMDQ3MTgyNSw4NDE4NTc4NF19
 -->
