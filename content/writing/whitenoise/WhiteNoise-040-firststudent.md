@@ -16,13 +16,13 @@ In the end, however, what he really wanted to do was annoy the hell out of Bell.
 
 ## Willow
 
-The task was much easier than White had imagined. Weeding out the uninteresting resumes went quickly. None of the candidates seemed particularly noteworthy (aka: irksome). Some had started in business school and moved into computing because it seemed the easiest way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about computing and just wanted to satisfy daddy.
+The task was much easier than White had imagined. Weeding out the uninteresting resumes went quickly. None of the candidates seemed particularly noteworthy (aka: irksome). Some had started in business school and moved into computing because it seemed the easiest way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about computing and just wanted to satisfy daddy. None seemed genuinely interested in the art and science of computing.
 
 As much as he wanted to give Bell the shaft, he simply couldn't pick unqualified candidates. He had a certain amount of pride and wouldn't purposely do a bad job. He didn't want to sabotage Bell - just give him a little friction. So, he was looking for smart, yet oddball kids. _Minimax, yes?_
 
-Here was one who claimed their masters thesis was based on _contemplative algorithms._ White was quite well-read in computer science. He had access to the University's library, internet, and academic journals. He kept up on all the latest research and had never heard of contemplative algorithms. The resume showed the candidate's name as simply "Willow." His interest was piqued and he determined to have a look-see.
+Here was one who claimed their masters thesis was based on _contemplative algorithms._ White was quite well-read in computer science. He had access to the University's library, internet, and academic journals. He slavishly kept up on all the latest research and had never heard of contemplative algorithms. The resume showed the candidate's name as simply "Willow." His interest was piqued and he determined to have a look-see.
 
-Despite Ludd's apparent technical illiteracy, he was at least an efficient administrator. The local area network and WiFi were active. White pulled his laptop out of his backpack and logged in. he found Willow's thesis on Rensselaer's website and he began a deep dive.
+Despite Ludd's apparent technical illiteracy, he was at least an efficient administrator. The local area network and WiFi were active. White pulled his laptop out of his backpack and logged in. e found Willow's thesis on Rensselaer's website and he began a deep dive.
 
 It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_ - none of which belonged in a scholarly paper on computing. When he downloaded the source code for the associated app, White was genuinely surprised. The code was very, very good.  He hadn't expected that a new age airhead had written anything technically viable. At the heart of it all was one algorithm Willow claimed improved their app's performance from 10 to 100 percent. It was called, simply, _omm_.
 
@@ -34,6 +34,6 @@ White stowed this resume in his backpack and headed upstairs to bed.
 
 ## Vijay Karmudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0MjUxMTc5NiwxMjk2MjE0OTU5LDg0MT
-g1Nzg0XX0=
+eyJoaXN0b3J5IjpbLTgxNjc0OTYzOCwxNjQyNTExNzk2LDEyOT
+YyMTQ5NTksODQxODU3ODRdfQ==
 -->
