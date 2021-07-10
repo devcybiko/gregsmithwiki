@@ -14,7 +14,7 @@ In the end, however, what he really wanted to do was annoy the hell out of Bell.
 
 ## Willow
 
-The task was much easier than White had imagined. None of the candidates seemed particularly interesting (aka: irksome). Some had started in business school and moved into computing because it seemed the best way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about computing and just wanted to satisfy daddy.
+The task was much easier than White had imagined. Weeding out the uninteresting resumes went quickly. None of the candidates seemed particularly interesting (aka: irksome). Some had started in business school and moved into computing because it seemed the best way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about computing and just wanted to satisfy daddy.
 
 As much as he wanted to give Bell the shaft, he simply couldn't pick unqualified candidates. He had a certain amount of pride and wouldn't purposely do a bad job. He didn't want to sabotage Bell - just give him a little trouble. So, he was looking for smart kids - but oddballs nonetheless. _Minimax, yes?_
 
@@ -24,7 +24,7 @@ Despite Ludd's apparent technical illiteracy, he was at least an efficient admin
 
 It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_ - none of which belonged in a scholarly paper on computing. When he downloaded the source code for the project, White was genuinely surprised. The code was very, very good.  He hadn't expected to find that a new age air head had written some rather interesting algorithms. And at the heart of it all was one called simply, _omm_.
 
-_Omm_ wasn't particularly interesting, except for what it wasn't: it wasn't very long. It was literally a couple of nested loops that did nothing but traverse the internal memory of the app - and read the memory locations. And nothing more. It didn't write them anywhere. It didn't do any calculations. It simply read all the values - and returned. Depending on the input values, the amount of time spent could be very little, or very long. In essence, it did nothing of value - but quite literally... contemplate the computer's navel.
+_Omm_ wasn't particularly interesting, except for what it wasn't: it wasn't very long. It was literally a couple of nested loops that did nothing but traverse the internal memory of the app - and read the memory locations. And nothing more. It didn't write them anywhere. It didn't do any calculations. It simply read all the values - and returned. Depending on the input values, the amount of time spent could be very little, or very long. In essence, it did nothing of value, but quite literally... contemplate the computer's navel.
 
 White stowed this resume in his backpack.
 
@@ -32,5 +32,5 @@ White stowed this resume in his backpack.
 
 ## Vijay Karmudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM2OTQzNzExLDg0MTg1Nzg0XX0=
+eyJoaXN0b3J5IjpbLTI2MDk4MjM0Nyw4NDE4NTc4NF19
 -->
