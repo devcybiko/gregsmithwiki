@@ -16,7 +16,7 @@ In the end, however, what he really wanted to do was annoy the hell out of Bell.
 
 The task was much easier than White had imagined. Weeding out the uninteresting resumes went quickly. None of the candidates seemed particularly noteworthy (aka: irksome). Some had started in business school and moved into computing because it seemed the best way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about computing and just wanted to satisfy daddy.
 
-As much as he wanted to give Bell the shaft, he simply couldn't pick unqualified candidates. He had a certain amount of pride and wouldn't purposely do a bad job. He didn't want to sabotage Bell - just give him a little trouble. So, he was looking for smart kids - but oddballs nonetheless. _Minimax, yes?_
+As much as he wanted to give Bell the shaft, he simply couldn't pick unqualified candidates. He had a certain amount of pride and wouldn't purposely do a bad job. He didn't want to sabotage Bell - just give him a little friction. So, he was looking for smart, yet oddball kids. _Minimax, yes?_
 
 Here was one who claimed their masters thesis was based on _contemplative algorithms._ White was well-versed and well-read in computer science. He had access to the University's library, internet, and academic journals. He kept up on all the latest research and had never heard of contemplative algorithms. The resume showed the candidate's name as simply "Willow." His interest was piqued and he determined to have a look-see.
 
@@ -32,5 +32,5 @@ White stowed this resume in his backpack.
 
 ## Vijay Karmudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMTc0MTk1Niw4NDE4NTc4NF19
+eyJoaXN0b3J5IjpbNjIxODI5NzYyLDg0MTg1Nzg0XX0=
 -->
