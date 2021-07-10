@@ -22,11 +22,11 @@ As much as he wanted to give Bell the shaft, he simply couldn't pick unqualified
 
 Here was one who claimed their masters thesis was based on _contemplative algorithms._ White was quite well-read in computer science. He had access to the University's library, internet, and academic journals. He slavishly kept up on all the latest research and had never heard of contemplative algorithms. The resume showed the candidate's name as simply "Willow." His interest was piqued and he determined to have a look-see.
 
-Despite Ludd's apparent technical illiteracy, he was at least an efficient administrator. The local area network and WiFi were active. White pulled his laptop out of his backpack and logged in. e found Willow's thesis on Rensselaer's website and he began a deep dive.
+Despite Ludd's apparent technical illiteracy, he was at least an efficient administrator. The local area network and WiFi were active. White pulled his laptop out of his backpack and logged in. He found Willow's thesis on Rensselaer's website and he began a deep dive.
 
-It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_ - none of which belonged in a scholarly paper on computing. When he downloaded the source code for the associated app, White was genuinely surprised. The code was very, very good.  He hadn't expected that a new age airhead had written anything technically viable. At the heart of it all was one algorithm Willow claimed improved their app's performance from 10 to 100 percent. It was called, simply, _omm_.
+It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_ - none of which belonged in a scholarly paper on computing. When he downloaded the source code for the associated app, White was genuinely surprised. The code was very, very good.  He hadn't expected that a new age airhead could write anything technically viable. At the heart of it all was one algorithm Willow claimed improved their app's performance from 10 to 100 percent. It was called, simply, _omm_.
 
-_Omm_ wasn't particularly interesting, except for what it wasn't: it wasn't very long. It was literally a couple of lines of code that traversed the internal memory of the app and randomly read memory locations. And nothing more. It didn't write them anywhere. It didn't do any calculations. It simply read the memory - and returned. Depending on the input values, the amount of time spent could be very little, or very long. In essence it did nothing of value, except - quite literally - contemplate the computer's navel.
+_Omm_ wasn't particularly interesting, except for what it wasn't: it wasn't very long. It was literally a couple lines of code that traversed the internal memory of the app and randomly read memory locations. And nothing more. It didn't write them anywhere. It didn't do any calculations. It simply read the memory - and returned. Depending on the input values, the amount of time spent could be very little, or very long. In essence it did nothing of value, except - quite literally - contemplate the computer's navel.
 
 White stowed this resume in his backpack and headed upstairs to bed.
 
@@ -34,6 +34,6 @@ White stowed this resume in his backpack and headed upstairs to bed.
 
 ## Vijay Karmudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjc0OTYzOCwxNjQyNTExNzk2LDEyOT
-YyMTQ5NTksODQxODU3ODRdfQ==
+eyJoaXN0b3J5IjpbNzkwNjAwODE5LDE2NDI1MTE3OTYsMTI5Nj
+IxNDk1OSw4NDE4NTc4NF19
 -->
