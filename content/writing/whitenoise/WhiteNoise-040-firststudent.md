@@ -1,8 +1,10 @@
 # Chapter 4 - first students
 
-White glared at the stack of resumes on his desk - a sampling of Rensselaer Polytechnic's discards.  It was late, and he was tired. He'd spent the day moving his few belongings into one of the second-floor rooms of the Turing building. This was more exercise than he'd had in years. He hated Bell for giving him this task. Somehow he had to pick three imbeciles from this lot who would be competent enough - and in some way worthy enough - to run Bell's computer forensics lab.
+White glared at the stack of resumes on his desk - a sampling of Rensselaer Polytechnic's discards.  It was late, and he was tired. He'd spent the day moving his few belongings into one of the second-floor rooms. This was more exercise than he'd had in years. 
 
-He leaned back in his chair and it creaked under his weight. He reflected on the space around him. Ludd had cobbled the space together in s. It was a spare set of cubicles on the first floor of the Turing building - and White sat alone in the center of it.
+He hated Bell for giving him this task. Somehow he had to pick three imbeciles from this lot who would be competent enough - and in some way worthy enough - to run Bell's computer forensics lab.
+
+He leaned back in his chair and it creaked under his weight. He reflected on the space around him. Ludd had cobbled the works together in short order. It was a spare set of cubicles on the first floor of the Turing building - and White sat alone in the center of it.
 
 The Turing building had four floors. It was an abandoned hotel before the university purchased Starbuck Island. For decades prior, the island had been home to various incarnations of manufacturing. Automobile, railroad, and steel manufacturing had all taken a turn on Starbuck. And it had gone by many names: Green Island, Tibbits, Rensselaerswyck, and _Pachanhanit_ by the indigenous peoples before the settlers arrived. During Edison's time it was so important as a manufacturing hub that they built the Green Island power plant to run the assembly lines. Now, that power plant made Starbuck University a self-sufficient mini-city.
 
@@ -32,5 +34,5 @@ White stowed this resume in his backpack.
 
 ## Vijay Karmudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE4NjY5MDQzLDg0MTg1Nzg0XX0=
+eyJoaXN0b3J5IjpbNTIxODMzNjA3LDg0MTg1Nzg0XX0=
 -->
