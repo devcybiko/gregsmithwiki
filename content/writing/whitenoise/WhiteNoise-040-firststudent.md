@@ -6,7 +6,7 @@ He hated Bell for giving him this task. Somehow he had to pick three imbeciles f
 
 He leaned back in his chair and it creaked under his weight. He reflected on the space around him. Ludd had cobbled the works together in short order. It was a spare set of cubicles on the first floor of the Turing building - and White sat alone in the center of it.
 
-The Turing building had four floors. It was an abandoned hotel before the university purchased Starbuck Island. For decades prior, the island had been home to various incarnations of manufacturing. Automobile, railroad, and steel manufacturing had all taken a turn on Starbuck. And it had gone by many names: Green Island, Tibbits, Rensselaerswyck, and _Pachanhanit_ by the indigenous peoples before the settlers arrived. During Edison's time it was so important as a manufacturing hub that they built the Green Island power plant to run the assembly lines. Now, that power plant made Starbuck University a self-sufficient mini-city.
+The Turing building had four floors. It was an abandoned hotel before the university purchased Starbuck Island. For decades prior, the island had been home to various incarnations of manufacturing. Automobile, railroad, and steel franchises had all taken a turn on Starbuck. And it had gone by many names: Green Island, Tibbits, Rensselaerswyck, and _Pachanhanit_ by the indigenous peoples before the settlers arrived. During Edison's time it was so important as a manufacturing hub that they built the Green Island power plant to run the assembly lines. Now, that power plant made Starbuck University a self-sufficient mini-city.
 
 At the center of it all was the Manor of Rensselaerswyck: a sprawling series of buildings that made up a mansion of sorts for it's owner Kiliaen van Rensselaer. Rensselaer acquired the island in 1630 from the Dutch West India Company and immediately built his namesake. The Turing building was all that was left of the manor and itself had gone through many incarnations, ultimately ending up a brothel and hotel before it was shut down in the 1960s. It was a bona-fide historical site and the University was obligated to keep it up, despite the fact that all concerned would have preferred to demolish it in favor of a more modern edifice.
 
@@ -34,5 +34,5 @@ White stowed this resume in his backpack.
 
 ## Vijay Karmudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTIxODMzNjA3LDg0MTg1Nzg0XX0=
+eyJoaXN0b3J5IjpbLTEzMDU2NzcyNTcsODQxODU3ODRdfQ==
 -->
