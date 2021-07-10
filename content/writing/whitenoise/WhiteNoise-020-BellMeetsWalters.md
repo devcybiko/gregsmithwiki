@@ -89,3 +89,6 @@ Bell froze in his tracks.
 Walters looked over her glasses at Bell. “Why yes, Dr. Bell, I’m quite aware. It should be no problem for you and the CFL. It’s a small leak and the details will be in your inbox in a few minutes. Carry on.”
 
 Bell opened his mouth for a moment as if to argue but remembered the look she gave Ludd. “Thank you, Dr. Walters. I’ll look for your notes in my email.” And this time he didn’t pause as he reached for the doorknob and left Janine Walters’ office.
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMDcwNTQwNDFdfQ==
+-->
