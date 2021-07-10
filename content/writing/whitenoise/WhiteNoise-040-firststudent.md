@@ -16,7 +16,7 @@ As much as he wanted to give Bell the shaft, he still couldn't pick unqualified 
 
 Here was one who claimed her masters thesis was based on contemplative algorithms. White was well-versed and well-read in computer science and had never heard of contemplative algorithms. Despite Ludd's apparent technical illiteracy, he was at least an efficient administrator as the local area network and WiFi were set up. So White pulled up the woman's thesis and began a deep dive.
 
-It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the
+It was an entertaining read. There was a fair amount of technical detail, and well written at that. But all throughout were references to the _the ether_ and _gaia_ and _introspection_. When he downloaded the software's source code, White was genuinely surprised.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Mzc2MDczMDksODQxODU3ODRdfQ==
+eyJoaXN0b3J5IjpbMjMxMDcxOTIyLDg0MTg1Nzg0XX0=
 -->
