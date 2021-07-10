@@ -6,7 +6,7 @@ The Turing building had four floors. It had been a hotel in its earlier incarnat
 
 And at the center of it all was the Manor of Rensselaerswyck: a sprawling series of buildings that made up a mansion of sorts for it's owner Kiliaen van Rensselaer who acquired the island in 1630 from the Dutch West India Company and immediately built his namesake. The Turing building was all that was left of the manor and itself had gone through many incarnations ultimately ending up a hotel and brothel before it was shut down in the 1960s.
 
-These facts played in White's subconscious as he scowled at the stack. _It's the beginning that's the hardest,_ he thought. He had 
+These facts played in White's subconscious as he scowled at the stack. _It's the beginning that's the hardest,_ he thought. He had contemplated many ways to attack the problem: he could just take the top three resumes and throw the rest away. What did he care which of these kids were going to run this shop? Or, he could throw all of them into the air and 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk4OTM4NzQ2LDg0MTg1Nzg0XX0=
+eyJoaXN0b3J5IjpbLTE1NDQ4MzU5ODEsODQxODU3ODRdfQ==
 -->
