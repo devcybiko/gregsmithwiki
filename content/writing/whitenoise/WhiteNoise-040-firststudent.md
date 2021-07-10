@@ -20,7 +20,7 @@ The task was much easier than White had imagined. Weeding out the uninteresting 
 
 As much as he wanted to give Bell the shaft, he simply couldn't pick unqualified candidates. He had a certain amount of pride and wouldn't purposely do a bad job. He didn't want to sabotage Bell - just give him a little friction. So, he was looking for smart, yet oddball kids. _Minimax, yes?_
 
-Here was one who claimed their masters thesis was based on _contemplative algorithms._ White was well-versed and well-read in computer science. He had access to the University's library, internet, and academic journals. He kept up on all the latest research and had never heard of contemplative algorithms. The resume showed the candidate's name as simply "Willow." His interest was piqued and he determined to have a look-see.
+Here was one who claimed their masters thesis was based on _contemplative algorithms._ White was quite well-read in computer science. He had access to the University's library, internet, and academic journals. He kept up on all the latest research and had never heard of contemplative algorithms. The resume showed the candidate's name as simply "Willow." His interest was piqued and he determined to have a look-see.
 
 Despite Ludd's apparent technical illiteracy, he was at least an efficient administrator. The local area network and WiFi were active. He pulled his laptop out of his backpack and logged in. White found Willow's thesis on Rensselaer's website and he began a deep dive.
 
@@ -34,5 +34,5 @@ White stowed this resume in his backpack.
 
 ## Vijay Karmudi
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwNDYzMjQ3NSw4NDE4NTc4NF19
+eyJoaXN0b3J5IjpbMTIyNzQ4OTMzMiw4NDE4NTc4NF19
 -->
