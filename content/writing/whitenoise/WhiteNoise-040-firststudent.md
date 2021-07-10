@@ -8,7 +8,9 @@ And at the center of it all was the Manor of Rensselaerswyck: a sprawling series
 
 These facts played in White's subconscious as he scowled at the stack. _It's the beginning that's the hardest,_ he thought. He had contemplated many ways to attack the problem: he could just take the top three resumes and throw the rest away. What did he care which of these kids were going to run this shop? Or, he could throw all of them into the air and pick three out of the air before they fell to the floor. That'd be as random a selection as any. 
 
-In the end, however, what he really wanted to do was annoy the hell out of Bell. So he peeled the first CV off the stack and determined to find the three candidates who would make Bell wish he had picked someone else to staff his forensics lab. _The Minimax Algorithm,_ he thought: _minimize the 
+In the end, however, what he really wanted to do was annoy the hell out of Bell. So he peeled the first CV off the stack and determined to find the three candidates who would make Bell wish he had picked someone else to staff his forensics lab. _The Minimax Method,_ he thought: _minimize the cost to you, maximize the cost to your opponent._
+
+It was much easier than he imagined. Most of these kids were un
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4MDA1MTQ1OSw4NDE4NTc4NF19
+eyJoaXN0b3J5IjpbMTQ4OTI1OTcyMiw4NDE4NTc4NF19
 -->
