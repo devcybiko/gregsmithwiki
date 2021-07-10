@@ -8,13 +8,13 @@ The Turing building had four floors. It had been an abandoned hotel before Starb
 
 At the center of it all had been the Manor of Rensselaerswyck: a sprawling series of buildings that made up a mansion of sorts for it's owner Kiliaen van Rensselaer. Rensselaer acquired the island in 1630 from the Dutch West India Company and immediately built his namesake. The Turing building was all that was left of the manor and itself had gone through many incarnations, ultimately ending up a brothen and hotel before it was shut down in the 1960s. It was a bona-fide historical site and the University was obligated to keep it up, despite the fact that all concerned would have preferred to demolish it in favor of a more modern edifice.
 
-These facts played in White's subconscious as he scowled at the stack. _It's the beginning that's the hardest,_ he thought. He had contemplated many ways to attack the problem: he could just take the top three resumes and throw the rest away. What did he care which of these kids were going to run this shop? Or, he could throw all of them into the air and pick three out of the air before they fell to the floor. That'd be as random a selection as any. 
+These facts played in White's subconscious as he scowled at the stack. _It's the beginning that's the hardest,_ he thought. He had contemplated many ways to attack the problem: he could just take the top three resumes and throw the rest away. What did he care which of these kids were going to run this shop? Or, he could throw all of them into the air and pluck three before they fell to the floor. That'd be as random a selection as any. 
 
-In the end, however, what he really wanted to do was annoy the hell out of Bell. So he peeled the first CV off the stack and determined to find the three candidates who would make Bell wish he had picked someone else to staff his forensics lab. _The Minimax Method,_ he thought: _minimize the cost to you, maximize the cost to your opponent._
+In the end, however, what he really wanted to do was annoy the hell out of Bell. So he began by peeling the first CV off the stack, determined to find the three candidates who would make Bell wish he had picked someone else to staff his forensics lab. _The Minimax Method,_ he thought: _minimize the cost to you, maximize the cost to your opponent._
 
 ## Willow
 
-The task was much easier than White had imagined. None of the candidates seemed particularly interesting (aka: irksome). Some had started in business school and moved into computing because it seemed the best way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about the work and just wanted to satisfy daddy.
+The task was much easier than White had imagined. None of the candidates seemed particularly interesting (aka: irksome). Some had started in business school and moved into computing because it seemed the best way to make the most money. Some were foreign-born students who came to America to cap off their educations with a degree from a highly accredited university - nothing unique there. Others appeared to be silver-spoons who didn't care about computing and just wanted to satisfy daddy.
 
 As much as he wanted to give Bell the shaft, he simply couldn't pick unqualified candidates. He had a certain amount of pride and wouldn't purposely do a bad job. He didn't want to sabotage Bell - just give him a little trouble. So, he was looking for smart kids - but oddballs nonetheless. _Minimax, yes?_
 
@@ -30,5 +30,5 @@ White put this resume in the in box on Bell's desk.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2NzU3NTc2LDg0MTg1Nzg0XX0=
+eyJoaXN0b3J5IjpbLTEwNDQ5MjYzNjgsODQxODU3ODRdfQ==
 -->
